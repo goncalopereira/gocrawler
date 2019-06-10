@@ -7,14 +7,14 @@ import (
 	"syscall"
 	"time"
 
-	crawler "github.com/goncalocool/coolcoolcool/internal/crawler"
-	rules "github.com/goncalocool/coolcoolcool/internal/crawler/rules"
-	data "github.com/goncalocool/coolcoolcool/internal/data"
-	env "github.com/goncalocool/coolcoolcool/internal/env"
-	chttp "github.com/goncalocool/coolcoolcool/internal/http"
-	obs "github.com/goncalocool/coolcoolcool/internal/observability"
-	sitemap "github.com/goncalocool/coolcoolcool/internal/sitemap"
-	storage "github.com/goncalocool/coolcoolcool/internal/storage"
+	crawler "github.com/goncalopereira/gocrawler/internal/crawler"
+	rules "github.com/goncalopereira/gocrawler/internal/crawler/rules"
+	data "github.com/goncalopereira/gocrawler/internal/data"
+	env "github.com/goncalopereira/gocrawler/internal/env"
+	chttp "github.com/goncalopereira/gocrawler/internal/http"
+	obs "github.com/goncalopereira/gocrawler/internal/observability"
+	sitemap "github.com/goncalopereira/gocrawler/internal/sitemap"
+	storage "github.com/goncalopereira/gocrawler/internal/storage"
 )
 
 //main setups up I/O, env, stop, default service

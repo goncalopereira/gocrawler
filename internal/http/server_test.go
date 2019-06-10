@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 func TestPostToServer(t *testing.T) {

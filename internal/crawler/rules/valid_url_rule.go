@@ -3,7 +3,7 @@ package rules
 import (
 	"strings"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //ValidURLRule check if URL is valid

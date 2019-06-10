@@ -1,7 +1,7 @@
 package rules
 
 import (
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //DifferentDomainRule check if its domain of original

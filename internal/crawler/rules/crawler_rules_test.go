@@ -3,7 +3,7 @@ package rules
 import (
 	"testing"
 
-	"github.com/goncalocool/coolcoolcool/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/data"
 	"github.com/stretchr/testify/assert"
 )
 

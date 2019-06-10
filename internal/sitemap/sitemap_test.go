@@ -3,8 +3,8 @@ package sitemap
 import (
 	"testing"
 
-	"github.com/goncalocool/coolcoolcool/internal/data"
-	"github.com/goncalocool/coolcoolcool/internal/storage"
+	"github.com/goncalopereira/gocrawler/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/storage"
 )
 
 func TestSiteMapOutput(t *testing.T) {

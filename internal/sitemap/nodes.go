@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/goncalocool/coolcoolcool/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //Node represents a page with links coming in and out from other pages

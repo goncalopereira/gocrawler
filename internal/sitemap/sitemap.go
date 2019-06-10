@@ -1,7 +1,7 @@
 package sitemap
 
 import (
-	"github.com/goncalocool/coolcoolcool/internal/storage"
+	"github.com/goncalopereira/gocrawler/internal/storage"
 )
 
 //Sitemap is the interface for outputing SiteMaps

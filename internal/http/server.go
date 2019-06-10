@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //NewRequestHandler Parses and sends requests to Crawler

@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/goncalocool/coolcoolcool/internal/crawler/rules"
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/crawler/rules"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 type MockCommandPasses struct {

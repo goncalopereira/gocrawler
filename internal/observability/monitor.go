@@ -3,7 +3,7 @@ package obs
 import (
 	"time"
 
-	"github.com/goncalocool/coolcoolcool/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/data"
 )
 
 type Reqs struct {

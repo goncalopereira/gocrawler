@@ -3,8 +3,8 @@ package storage
 import (
 	"testing"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
-	"github.com/goncalocool/coolcoolcool/internal/env"
+	data "github.com/goncalopereira/gocrawler/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/env"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,9 +1,9 @@
 ## Intro
 Thank you for the opportunity to do this exercise! Don't have much Go experience but trying my best !
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/goncalocool/coolcoolcool?style=flat-square)](https://goreportcard.com/report/github.com/goncalocool/coolcoolcool)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goncalopereira/gocrawler?style=flat-square)](https://goreportcard.com/report/github.com/goncalopereira/gocrawler)
 
-[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/goncalocool/coolcoolcool/internal/crawler)
+[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/goncalopereira/gocrawler/internal/crawler)
 
 [![TravisCI Build Status](https://travis-ci.org/goncalocool/coolcoolcool.svg?branch=master)](https://travis-ci.org/goncalocool/coolcoolcool)
 
@@ -11,7 +11,7 @@ Thank you for the opportunity to do this exercise! Don't have much Go experience
 
 Code is sitting in a Github account I created to host this publicly outside my profile.
 
-```go get github.com/goncalocool/coolcoolcool/cmd/crawler```
+```go get github.com/goncalopereira/gocrawler/cmd/crawler```
 
 ![image](assets/cool.gif)
 

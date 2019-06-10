@@ -1,8 +1,8 @@
 package crawler
 
 import (
-	"github.com/goncalocool/coolcoolcool/internal/crawler/rules"
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/crawler/rules"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //Crawler makes decisions on what to follow and how to order

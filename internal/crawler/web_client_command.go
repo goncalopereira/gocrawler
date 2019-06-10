@@ -1,7 +1,7 @@
 package crawler
 
 import (
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //WebClientCommand request filter that pushes valid requests to WebClient

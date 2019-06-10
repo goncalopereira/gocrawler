@@ -3,9 +3,9 @@ language: go
 # Whenever the Go version is updated here, .circleci/config.yml and .promu.yml
 # should also be updated.
 go:
-- 1.12.x
+  - 1.12.x
 
-go_import_path: github.com/goncalocool/coolcoolcool
+go_import_path: github.com/goncalopereira/gocrawler
 
 script:
   - ./scripts/test.local.sh

@@ -1,7 +1,7 @@
 package rules
 
 import (
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //MaxDepthRule rule about max depth usable

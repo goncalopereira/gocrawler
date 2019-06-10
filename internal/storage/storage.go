@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/goncalocool/coolcoolcool/internal/data"
+	"github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //THE DB!!!!

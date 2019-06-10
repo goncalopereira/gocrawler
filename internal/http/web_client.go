@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //WebClient that runs through external requests to crawl

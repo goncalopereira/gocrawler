@@ -3,7 +3,7 @@ package rules
 import (
 	"net/url"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 )
 
 //FollowRule modifies next request and returns if it should be followed

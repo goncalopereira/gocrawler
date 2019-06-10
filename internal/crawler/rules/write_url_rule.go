@@ -1,8 +1,8 @@
 package rules
 
 import (
-	data "github.com/goncalocool/coolcoolcool/internal/data"
-	storage "github.com/goncalocool/coolcoolcool/internal/storage"
+	data "github.com/goncalopereira/gocrawler/internal/data"
+	storage "github.com/goncalopereira/gocrawler/internal/storage"
 )
 
 //WriteURLRule Check if URL was already seen (might be multiple requests to come)

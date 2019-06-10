@@ -3,7 +3,7 @@ package http
 import (
 	"io"
 
-	data "github.com/goncalocool/coolcoolcool/internal/data"
+	data "github.com/goncalopereira/gocrawler/internal/data"
 	"golang.org/x/net/html"
 )
 
