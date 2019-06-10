@@ -1,0 +1,924 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<style>
+			body {
+				background: black;
+				color: rgb(80, 80, 80);
+			}
+			body, pre, #legend span {
+				font-family: Menlo, monospace;
+				font-weight: bold;
+			}
+			#topbar {
+				background: black;
+				position: fixed;
+				top: 0; left: 0; right: 0;
+				height: 42px;
+				border-bottom: 1px solid rgb(80, 80, 80);
+			}
+			#content {
+				margin-top: 50px;
+			}
+			#nav, #legend {
+				float: left;
+				margin-left: 10px;
+			}
+			#legend {
+				margin-top: 12px;
+			}
+			#nav {
+				margin-top: 10px;
+			}
+			#legend span {
+				margin: 0 5px;
+			}
+			.cov0 { color: rgb(192, 0, 0) }
+.cov1 { color: rgb(128, 128, 128) }
+.cov2 { color: rgb(116, 140, 131) }
+.cov3 { color: rgb(104, 152, 134) }
+.cov4 { color: rgb(92, 164, 137) }
+.cov5 { color: rgb(80, 176, 140) }
+.cov6 { color: rgb(68, 188, 143) }
+.cov7 { color: rgb(56, 200, 146) }
+.cov8 { color: rgb(44, 212, 149) }
+.cov9 { color: rgb(32, 224, 152) }
+.cov10 { color: rgb(20, 236, 155) }
+
+		</style>
+	</head>
+	<body>
+		<div id="topbar">
+			<div id="nav">
+				<select id="files">
+				
+				<option value="file0">github.com/goncalocool/coolcoolcool/internal/crawler/crawler.go (96.2%)</option>
+				
+				<option value="file1">github.com/goncalocool/coolcoolcool/internal/crawler/request_commands.go (100.0%)</option>
+				
+				<option value="file2">github.com/goncalocool/coolcoolcool/internal/crawler/rules/crawler_rules.go (100.0%)</option>
+				
+				<option value="file3">github.com/goncalocool/coolcoolcool/internal/crawler/rules/different_domain_rule.go (100.0%)</option>
+				
+				<option value="file4">github.com/goncalocool/coolcoolcool/internal/crawler/rules/max_depth_rule.go (100.0%)</option>
+				
+				<option value="file5">github.com/goncalocool/coolcoolcool/internal/crawler/rules/relative_link_rule.go (100.0%)</option>
+				
+				<option value="file6">github.com/goncalocool/coolcoolcool/internal/crawler/rules/subdomain_rule.go (100.0%)</option>
+				
+				<option value="file7">github.com/goncalocool/coolcoolcool/internal/crawler/rules/valid_url_rule.go (100.0%)</option>
+				
+				<option value="file8">github.com/goncalocool/coolcoolcool/internal/crawler/rules/write_key_rule.go (100.0%)</option>
+				
+				<option value="file9">github.com/goncalocool/coolcoolcool/internal/crawler/rules/write_link_rule.go (100.0%)</option>
+				
+				<option value="file10">github.com/goncalocool/coolcoolcool/internal/crawler/rules/write_url_rule.go (100.0%)</option>
+				
+				<option value="file11">github.com/goncalocool/coolcoolcool/internal/crawler/web_client_command.go (100.0%)</option>
+				
+				<option value="file12">github.com/goncalocool/coolcoolcool/internal/data/requests.go (100.0%)</option>
+				
+				<option value="file13">github.com/goncalocool/coolcoolcool/internal/http/parser.go (100.0%)</option>
+				
+				<option value="file14">github.com/goncalocool/coolcoolcool/internal/http/server.go (60.0%)</option>
+				
+				<option value="file15">github.com/goncalocool/coolcoolcool/internal/http/web_client.go (0.0%)</option>
+				
+				<option value="file16">github.com/goncalocool/coolcoolcool/internal/sitemap/display.go (100.0%)</option>
+				
+				<option value="file17">github.com/goncalocool/coolcoolcool/internal/sitemap/nodes.go (100.0%)</option>
+				
+				<option value="file18">github.com/goncalocool/coolcoolcool/internal/sitemap/sitemap.go (100.0%)</option>
+				
+				<option value="file19">github.com/goncalocool/coolcoolcool/internal/storage/storage.go (100.0%)</option>
+				
+				</select>
+			</div>
+			<div id="legend">
+				<span>not tracked</span>
+			
+				<span class="cov0">not covered</span>
+				<span class="cov8">covered</span>
+			
+			</div>
+		</div>
+		<div id="content">
+		
+		<pre class="file" id="file0" style="display: none">package crawler
+
+import (
+        "github.com/goncalocool/coolcoolcool/internal/crawler/rules"
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//Crawler makes decisions on what to follow and how to order
+type Crawler struct {
+        FilterRequests     chan data.Request
+        WebResponses       &lt;-chan data.Response
+        ProcessedResponses chan data.ProcessedResponse
+        MaxDepth           int
+        Commands           []RequestCommand
+        FollowRules        []rules.FollowRule
+        MaxLinks           int
+        Shutdown           chan bool
+}
+
+//ProcessResponse filters new links from a response and adds them as next request
+func (c *Crawler) ProcessResponse(resp data.Response) <span class="cov8" title="1">{
+        reqs := make(chan data.Request, c.MaxLinks)
+        defer close(reqs)
+
+        processedResponse := data.ProcessedResponse{Requests: reqs}
+        for </span><span class="cov8" title="1">{
+                select </span>{
+                case link, ok := &lt;-resp.Links:<span class="cov8" title="1">
+                        if ok </span><span class="cov8" title="1">{
+                                nextRequest, okFollow := rules.ExecuteFollowRules(&amp;resp.Request, link, c.FollowRules...)
+
+                                if okFollow </span><span class="cov8" title="1">{
+                                        processedResponse.Requests &lt;- nextRequest
+                                }</span>
+                        } else<span class="cov8" title="1"> {
+                                c.ProcessedResponses &lt;- processedResponse
+                                return
+                        }</span>
+                default:<span class="cov0" title="0">
+                        continue</span>
+                }
+        }
+}
+
+//DoUnpackResponse Queues up more requests into web clients, waits for requests to drain
+//ALSO caught if requests is full
+//Breadth First Search IF single web client/single crawler
+//nested select because select with two channels has random priority
+//wait for all requests to prevent ordering issues with web client timings
+//unpacking one at a time also prevent blocking filterRequests due to explosion in links
+func (c *Crawler) DoUnpackResponse() <span class="cov8" title="1">{
+        select </span>{
+        case resp, ok := &lt;-c.ProcessedResponses:<span class="cov8" title="1">
+                if ok </span><span class="cov8" title="1">{
+                        for req := range resp.Requests </span><span class="cov8" title="1">{
+                                c.FilterRequests &lt;- req
+                        }</span>
+
+                }
+        default:<span class="cov8" title="1">
+                return</span>
+        }
+}
+
+//Do Crawler selects next action based on incoming responses and requests
+func (c *Crawler) Do() <span class="cov8" title="1">{
+        defer close(c.Shutdown)
+        for </span><span class="cov8" title="1">{
+
+                select </span>{
+                case req, ok := &lt;-c.FilterRequests:<span class="cov8" title="1">
+                        //drain requests first
+                        if ok </span><span class="cov8" title="1">{
+                                ExecuteCommands(&amp;req, c.Commands...)
+                        }</span>
+                case res, ok := &lt;-c.WebResponses:<span class="cov8" title="1">
+                        //in the meantime process some future links as this will access DB
+                        if ok </span><span class="cov8" title="1">{
+                                c.ProcessResponse(res)
+                        }</span>
+                case &lt;-c.Shutdown:<span class="cov8" title="1">
+                        return</span>
+                default:<span class="cov8" title="1">
+                        c.DoUnpackResponse()</span>
+                }
+        }
+}
+</pre>
+		
+		<pre class="file" id="file1" style="display: none">package crawler
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//RequestCommand list of actions for new requests
+type RequestCommand interface {
+        Command(req *data.Request) (ok bool)
+}
+
+//ExecuteCommands check all actions
+func ExecuteCommands(req *data.Request, commands ...RequestCommand) <span class="cov8" title="1">{
+        for _, command := range commands </span><span class="cov8" title="1">{
+                ok := command.Command(req)
+                if !ok </span><span class="cov8" title="1">{
+                        break</span>
+                }
+        }
+}
+</pre>
+		
+		<pre class="file" id="file2" style="display: none">package rules
+
+import (
+        "net/url"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//FollowRule modifies next request and returns if it should be followed
+type FollowRule interface {
+        Follow(req *data.Request, followReq *data.Request) (ok bool)
+}
+
+//ExecuteFollowRules checks all FollowRule for new link
+func ExecuteFollowRules(req *data.Request, link string, rules ...FollowRule) (followRequest data.Request, valid bool) <span class="cov8" title="1">{
+        nextURL, err := url.Parse(link)
+
+        if err != nil </span><span class="cov8" title="1">{
+                return data.Request{}, false
+        }</span>
+
+        <span class="cov8" title="1">nextReq := data.Request{
+                Path:   nextURL.Path,
+                Host:   nextURL.Host,
+                Scheme: nextURL.Scheme,
+                Depth:  req.Depth + 1}
+
+        for _, rule := range rules </span><span class="cov8" title="1">{
+                ok := rule.Follow(req, &amp;nextReq)
+
+                if !ok </span><span class="cov8" title="1">{
+                        return nextReq, false
+                }</span>
+
+        }
+
+        <span class="cov8" title="1">return nextReq, true</span>
+}
+</pre>
+		
+		<pre class="file" id="file3" style="display: none">package rules
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//DifferentDomainRule check if its domain of original
+type DifferentDomainRule struct {
+}
+
+//Follow act on DifferentDomainRule
+func (r DifferentDomainRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+
+        //WWW to Naked
+        if ("www." + req.Host) == followReq.Host </span><span class="cov8" title="1">{
+                return true
+        }</span>
+
+        //Naked to WWW
+        <span class="cov8" title="1">if (req.Host) == "www."+followReq.Host </span><span class="cov8" title="1">{
+                return true
+        }</span>
+
+        <span class="cov8" title="1">if req.Host != followReq.Host </span><span class="cov8" title="1">{
+                return false
+        }</span>
+
+        <span class="cov8" title="1">return true</span>
+}
+</pre>
+		
+		<pre class="file" id="file4" style="display: none">package rules
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//MaxDepthRule rule about max depth usable
+type MaxDepthRule struct {
+        MaxDepth int
+}
+
+//Follow rule
+func (r MaxDepthRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+        if followReq.Depth &gt; r.MaxDepth </span><span class="cov8" title="1">{
+                return false
+        }</span>
+
+        <span class="cov8" title="1">return true</span>
+}
+</pre>
+		
+		<pre class="file" id="file5" style="display: none">package rules
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//RelativeLinkRule fix relative links for web client
+type RelativeLinkRule struct {
+}
+
+//Follow act on RelativeLinkRule
+func (r RelativeLinkRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+
+        if followReq.Host == "" </span><span class="cov8" title="1">{
+                followReq.Scheme = req.Scheme
+                followReq.Host = req.Host
+        }</span>
+
+        <span class="cov8" title="1">return true</span>
+}
+</pre>
+		
+		<pre class="file" id="file6" style="display: none">package rules
+
+import (
+        "strings"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//SubdomainRule check if its subdomain of original
+type SubdomainRule struct {
+}
+
+//Follow act on SubdomainRule
+func (r SubdomainRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+        originalDomain := strings.Split(req.Host, ".")
+        nextDomain := strings.Split(followReq.Host, ".")
+
+        originalBaseDomain := originalDomain[len(originalDomain)-2] + originalDomain[len(originalDomain)-1]
+        nextBaseDomain := nextDomain[len(nextDomain)-2] + nextDomain[len(nextDomain)-1]
+        if originalBaseDomain != nextBaseDomain </span><span class="cov8" title="1">{
+                return false
+        }</span>
+
+        <span class="cov8" title="1">return true</span>
+}
+</pre>
+		
+		<pre class="file" id="file7" style="display: none">package rules
+
+import (
+        "strings"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//ValidURLRule check if URL is valid
+type ValidURLRule struct {
+}
+
+//Follow act on ValidURLRule
+func (r ValidURLRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+        if followReq.Scheme != "http" &amp;&amp; followReq.Scheme != "https" </span><span class="cov8" title="1">{
+                return false
+        }</span>
+
+        <span class="cov8" title="1">badPaths := []string{".pdf", ".png", " ", ".."}
+        for _, bp := range badPaths </span><span class="cov8" title="1">{
+                if strings.Contains(followReq.Path, bp) </span><span class="cov8" title="1">{
+                        return false
+                }</span>
+        }
+
+        <span class="cov8" title="1">return true</span>
+}
+</pre>
+		
+		<pre class="file" id="file8" style="display: none">package rules
+
+import (
+        "strings"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//WriteKeyRule Pick Key and validate
+type WriteKeyRule struct {
+}
+
+//Follow act on WriteKeyRule
+func (r WriteKeyRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+
+        MakeKey(followReq)
+
+        if req.Key == "" </span><span class="cov8" title="1">{ //original requests
+                MakeKey(req)
+        }</span>
+
+        <span class="cov8" title="1">if followReq.Key == req.Key </span><span class="cov8" title="1">{ //self
+                return false
+        }</span>
+
+        <span class="cov8" title="1">return true</span>
+}
+
+//MakeKey how to make new unique keys
+func MakeKey(req *data.Request) <span class="cov8" title="1">{
+        sHost := strings.Split(req.Host, ".")
+        var h = req.Host
+        if len(sHost) == 2 </span><span class="cov8" title="1">{
+                //naked domain attach www.
+                h = "www." + h
+        }</span>
+
+        <span class="cov8" title="1">req.Key = h + strings.TrimRight(req.Path, "/")</span> //deduplicate trailing '/
+}
+</pre>
+		
+		<pre class="file" id="file9" style="display: none">package rules
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+        storage "github.com/goncalocool/coolcoolcool/internal/storage"
+)
+
+//WriteLinkRule check if Link is valid
+type WriteLinkRule struct {
+        CurrentStorage storage.Storage
+}
+
+//Follow act on WriteLinkRule
+func (r WriteLinkRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+
+        //decision: write any links before sending to web client even if broken to prevent retries
+        //split sync wait of web client with the response processing+DB
+        //possible to check this on RequestFilter
+
+        //distributed IDs are HARD, we generate a Key and use Referer as ParentKey for an unique link
+        //save as simply as possible
+        //prevent maps in maps
+
+        nodeKey := req.Key + "-&gt;" + followReq.Key
+
+        return r.CurrentStorage.Save(nodeKey, followReq)
+}</span>
+</pre>
+		
+		<pre class="file" id="file10" style="display: none">package rules
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+        storage "github.com/goncalocool/coolcoolcool/internal/storage"
+)
+
+//WriteURLRule Check if URL was already seen (might be multiple requests to come)
+type WriteURLRule struct {
+        CurrentStorage storage.Storage
+}
+
+//Follow act on WriteURLRule
+func (r WriteURLRule) Follow(req *data.Request, followReq *data.Request) (ok bool) <span class="cov8" title="1">{
+
+        nodeKey := followReq.Key
+
+        return r.CurrentStorage.Save(nodeKey, followReq)
+}</span>
+</pre>
+		
+		<pre class="file" id="file11" style="display: none">package crawler
+
+import (
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//WebClientCommand request filter that pushes valid requests to WebClient
+type WebClientCommand struct {
+        Requests chan data.Request
+}
+
+//Command act on WebClientCommand
+func (wcc WebClientCommand) Command(req *data.Request) (ok bool) <span class="cov8" title="1">{
+        copyReq := *req
+        wcc.Requests &lt;- copyReq
+        return true
+}</span>
+</pre>
+		
+		<pre class="file" id="file12" style="display: none">package data
+
+import (
+        "net/url"
+)
+
+//Request representation
+type Request struct {
+        Path   string
+        Host   string
+        IP     string
+        Scheme string
+        Depth  int
+        Key    string
+}
+
+//URL returns the clean URL for the page
+func (r *Request) URL() string <span class="cov8" title="1">{
+        return r.Scheme + "://" + r.Host + r.Path
+}</span>
+
+//MakeRequestFromURL requests obtained from Server
+func MakeRequestFromURL(newURL string) (result Request, ok bool) <span class="cov8" title="1">{
+        u, _ := url.Parse(newURL)
+        if u.Host == "" </span><span class="cov8" title="1">{
+                //err nil doesn't work here? test available
+                var niLRequest Request
+                return niLRequest, false
+        }</span>
+
+        <span class="cov8" title="1">return Request{Host: u.Host, Path: u.Path, Scheme: u.Scheme, Depth: 0}, true</span>
+}
+
+//Response struct for all links from a response
+type Response struct {
+        Request Request
+        Links   chan string
+}
+
+//ProcessedResponse struct for all next Requests processed from a response
+type ProcessedResponse struct {
+        Requests chan Request
+}
+</pre>
+		
+		<pre class="file" id="file13" style="display: none">package http
+
+import (
+        "io"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+        "golang.org/x/net/html"
+)
+
+//BodyParser interface for new ways to parse body
+type BodyParser interface {
+        Parse(body io.Reader, request data.Request) data.Response
+}
+
+//BasicBodyParser basic implementation for a href
+type BasicBodyParser struct {
+        MaxLinks int
+}
+
+//Parse handling links from body reader out to Response
+// moving ioReader to chan would create issues with pointer
+// links are A tag, Link Tag and Nav tag but we check A
+// no JS parsing
+func (r BasicBodyParser) Parse(body io.Reader, request data.Request) data.Response <span class="cov8" title="1">{
+        links := make(chan string, r.MaxLinks)
+        defer close(links)
+
+        response := data.Response{Request: request, Links: links}
+        z := html.NewTokenizer(body)
+        for </span><span class="cov8" title="1">{
+                tt := z.Next()
+                switch </span>{
+                case r.MaxLinks == len(response.Links):<span class="cov8" title="1">
+                        fallthrough</span> //links number, prevent deadlock
+                case tt == html.ErrorToken:<span class="cov8" title="1">
+                        //End of page
+                        return response</span>
+                case tt == html.StartTagToken:<span class="cov8" title="1">
+                        t := z.Token()
+                        if t.Data == "a" </span><span class="cov8" title="1">{
+                                for _, attr := range t.Attr </span><span class="cov8" title="1">{
+                                        if attr.Key == "href" </span><span class="cov8" title="1">{
+                                                response.Links &lt;- attr.Val
+                                        }</span>
+                                }
+                        }
+                }
+        }
+}
+</pre>
+		
+		<pre class="file" id="file14" style="display: none">package http
+
+import (
+        "net/http"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//NewRequestHandler Parses and sends requests to Crawler
+type NewRequestHandler struct {
+        FilterRequests chan&lt;- data.Request
+}
+
+//Post Parses Post and sends to Crawler queue
+func (nrh NewRequestHandler) Post(w http.ResponseWriter, r *http.Request) <span class="cov8" title="1">{
+        if r.Method == "POST" </span><span class="cov8" title="1">{
+
+                err := r.ParseForm()
+                if err != nil </span><span class="cov0" title="0">{
+                        return
+                }</span>
+
+                <span class="cov8" title="1">req, ok := data.MakeRequestFromURL(r.Form.Get("url"))
+
+                if ok </span><span class="cov8" title="1">{
+                        nrh.FilterRequests &lt;- req
+                }</span>
+        }
+}
+
+//Server starts new HTTP server that receives external requests
+//sends request to be filtered on Crawler
+func Server(port string, filterRequests chan&lt;- data.Request) error <span class="cov0" title="0">{
+        handler := http.NewServeMux()
+        handler.HandleFunc("/", NewRequestHandler{FilterRequests: filterRequests}.Post)
+        return http.ListenAndServe(":"+port, handler)
+}</span>
+</pre>
+		
+		<pre class="file" id="file15" style="display: none">package http
+
+import (
+        "context"
+        "crypto/tls"
+        "net"
+        "net/http"
+        "time"
+
+        data "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//WebClient that runs through external requests to crawl
+func WebClient(parser BodyParser, webRequests &lt;-chan data.Request, responses chan&lt;- data.Response, shutdown &lt;-chan bool) error <span class="cov0" title="0">{
+        for </span><span class="cov0" title="0">{
+                select </span>{
+                case r, ok := &lt;-webRequests:<span class="cov0" title="0">
+
+                        if ok </span><span class="cov0" title="0">{
+                                response, err := GetURL(r, parser)
+
+                                if err != nil </span><span class="cov0" title="0">{
+                                        continue</span>
+                                }
+
+                                <span class="cov0" title="0">responses &lt;- response</span>
+                        }
+                case &lt;-shutdown:<span class="cov0" title="0">
+                        return nil</span>
+                }
+
+        }
+}
+
+//GetURL sends all links found in page back
+//http.Client misbehaves and might create too many goroutines
+func GetURL(r data.Request, parser BodyParser) (data.Response, error) <span class="cov0" title="0">{
+
+        ctx, cancel := context.WithTimeout(context.Background(), 5000*time.Millisecond)
+        defer cancel()
+        req, err := http.NewRequest("GET", r.URL(), nil)
+        if err != nil </span><span class="cov0" title="0">{
+                return data.Response{}, err
+        }</span>
+
+        //https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/
+        <span class="cov0" title="0">client := &amp;http.Client{
+
+                Transport: &amp;http.Transport{
+                        TLSClientConfig: &amp;tls.Config{InsecureSkipVerify: true},
+
+                        Dial: (&amp;net.Dialer{
+                                Timeout:   10 * time.Second,
+                                KeepAlive: 10 * time.Second,
+                        }).Dial,
+                        TLSHandshakeTimeout:   10 * time.Second,
+                        ResponseHeaderTimeout: 10 * time.Second,
+                        ExpectContinueTimeout: 5 * time.Second,
+                }}
+
+        resp, err := client.Do(req.WithContext(ctx))
+
+        if err != nil </span><span class="cov0" title="0">{
+                return data.Response{}, err
+        }</span>
+        <span class="cov0" title="0">defer resp.Body.Close()
+
+        response := parser.Parse(resp.Body, r)
+
+        return response, nil</span>
+}
+</pre>
+		
+		<pre class="file" id="file16" style="display: none">package sitemap
+
+import (
+        "fmt"
+)
+
+//DisplayBFS shows nodes once Breadth First Search
+func DisplayBFS(sorted []*Node) <span class="cov8" title="1">{
+        var i = 0
+        for _, kv := range sorted </span><span class="cov8" title="1">{
+                i++
+                fmt.Printf("%04d,%s%s%s %d\n", i, kv.VisitedFrom.Key, "-&gt;", kv.Key, kv.Value())
+        }</span>
+}
+
+//Display shows Nodes as strings by weight
+func Display(sorted []*Node) <span class="cov8" title="1">{
+        var i = 0
+        for _, kv := range sorted </span><span class="cov8" title="1">{
+                i++
+                fmt.Printf("%04d,%s,%d\n", i, kv.Key, kv.Value())
+        }</span>
+}
+</pre>
+		
+		<pre class="file" id="file17" style="display: none">package sitemap
+
+import (
+        "container/list"
+        "sort"
+        "strings"
+
+        "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//Node represents a page with links coming in and out from other pages
+type Node struct {
+        Key         string
+        LinksIn     []*Node
+        LinksOut    []*Node
+        VisitedFrom *Node
+}
+
+//Value represents the weight of a page, pseudo page-rank counts links coming in
+func (n Node) Value() int <span class="cov8" title="1">{
+        return len(n.LinksIn)
+}</span>
+
+//GetNode gets or creates the node for a new page
+func GetNode(m map[string]*Node, key string) *Node <span class="cov8" title="1">{
+        current, ok := m[key]
+        if ok </span><span class="cov8" title="1">{
+                return current
+        }</span>
+
+        <span class="cov8" title="1">c := &amp;Node{Key: key, LinksIn: []*Node{}, LinksOut: []*Node{}}
+        m[key] = c
+        return c</span>
+
+}
+
+//BuildNodes DB to page Nodes
+func BuildNodes(linksDB map[string]data.Request, urlDB map[string]data.Request) map[string]*Node <span class="cov8" title="1">{
+        weighted := make(map[string]*Node, len(urlDB))
+
+        for k := range linksDB </span><span class="cov8" title="1">{
+                keys := strings.Split(k, "-&gt;")
+                fromKey := keys[0]
+                toKey := keys[1]
+
+                from := GetNode(weighted, fromKey)
+                to := GetNode(weighted, toKey)
+
+                to.LinksIn = append(to.LinksIn, from)
+                from.LinksOut = append(from.LinksOut, to)
+        }</span>
+        <span class="cov8" title="1">return weighted</span>
+}
+
+//BFS does search for nodes
+//https://en.wikipedia.org/wiki/Breadth-first_search
+func BFS(startNode *Node) []*Node <span class="cov8" title="1">{
+        var result []*Node
+
+        q := list.New()
+        q.PushBack(startNode)
+        startNode.VisitedFrom = &amp;Node{Key: ""}
+        for q.Len() &gt; 0 </span><span class="cov8" title="1">{
+                v := q.Front()
+                q.Remove(v)
+                n, _ := v.Value.(*Node)
+                result = append(result, n)
+                for _, child := range n.LinksOut </span><span class="cov8" title="1">{
+                        if child.VisitedFrom == nil </span><span class="cov8" title="1">{
+                                child.VisitedFrom = n
+                                q.PushBack(child)
+                        }</span>
+                }
+        }
+
+        <span class="cov8" title="1">return result</span>
+}
+
+//SortWeightedList pseudo page-rank, reverse link/number of pages linking in
+func SortWeightedList(weighted map[string]*Node) []*Node <span class="cov8" title="1">{
+        var result []*Node
+        for _, v := range weighted </span><span class="cov8" title="1">{
+                result = append(result, v)
+        }</span>
+
+        <span class="cov8" title="1">sort.Slice(result, func(i, j int) bool </span><span class="cov8" title="1">{
+                return result[i].Value() &gt; result[j].Value()
+        }</span>)
+
+        <span class="cov8" title="1">return result</span>
+}
+</pre>
+		
+		<pre class="file" id="file18" style="display: none">package sitemap
+
+import (
+        "github.com/goncalocool/coolcoolcool/internal/storage"
+)
+
+//Sitemap is the interface for outputing SiteMaps
+type Sitemap interface {
+        Output()
+}
+
+//BasicSiteMap is a SiteMap that works with BasicInMemoryDB
+type BasicSiteMap struct {
+        LinksDB storage.BasicInMemoryDB
+        URLDB   storage.BasicInMemoryDB
+}
+
+//Output converts a DB into output (strings)
+func (sm BasicSiteMap) Output() <span class="cov8" title="1">{
+        weighted := BuildNodes(sm.LinksDB.DB, sm.URLDB.DB)
+
+        sortedWeight := SortWeightedList(weighted)
+        Display(sortedWeight)
+
+        sortedBFS := BFS(sortedWeight[0])
+        DisplayBFS(sortedBFS)
+}</span>
+</pre>
+		
+		<pre class="file" id="file19" style="display: none">package storage
+
+import (
+        "github.com/goncalocool/coolcoolcool/internal/data"
+)
+
+//THE DB!!!!
+
+//Storage interface for database, in memory, etc etc
+//Sync
+//Save decision from implementation
+type Storage interface {
+        Save(key string, req *data.Request) (ok bool)
+}
+
+//BasicInMemoryDB just records the information
+//decision: map is not goroutine safe
+//We never read on webclients
+//We have a single goroutine handling the saves
+//More goroutines, sync.Map? Shard? Log and Clean Duplicates?
+//we care about last write wins, is write safe?
+type BasicInMemoryDB struct {
+        DB map[string]data.Request
+}
+
+//Save returns if it was able to save or though it was an existing entry
+//Sync
+func (s BasicInMemoryDB) Save(key string, req *data.Request) (ok bool) <span class="cov8" title="1">{
+
+        if _, ok := s.DB[key]; ok </span><span class="cov8" title="1">{
+                return false
+        }</span>
+
+        <span class="cov8" title="1">copyReq := *req
+        s.DB[key] = copyReq
+
+        return true</span>
+}
+</pre>
+		
+		</div>
+	</body>
+	<script>
+	(function() {
+		var files = document.getElementById('files');
+		var visible;
+		files.addEventListener('change', onChange, false);
+		function select(part) {
+			if (visible)
+				visible.style.display = 'none';
+			visible = document.getElementById(part);
+			if (!visible)
+				return;
+			files.value = part;
+			visible.style.display = 'block';
+			location.hash = part;
+		}
+		function onChange() {
+			select(files.value);
+			window.scrollTo(0, 0);
+		}
+		if (location.hash != "") {
+			select(location.hash.substr(1));
+		}
+		if (!visible) {
+			select("file0");
+		}
+	})();
+	</script>
+</html>

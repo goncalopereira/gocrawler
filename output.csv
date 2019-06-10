@@ -1,0 +1,1877 @@
+curl --data-urlencode "url=https://www.goncalopereira.com" http://localhost:8080`
+2019/04/24 16:01:48 Req:  https://www.monzo.com
+0001,www.monzo.com,908
+0002,www.monzo.com/cdn-cgi/l/email-protection,907
+0003,www.monzo.com/careers,906
+0004,www.monzo.com/community,906
+0005,www.monzo.com/legal/fscs-information,906
+0006,www.monzo.com/about,906
+0007,www.monzo.com/faq,906
+0008,www.monzo.com/transparency,906
+0009,www.monzo.com/legal/privacy-policy,906
+0010,www.monzo.com/download,906
+0011,www.monzo.com/blog/how-money-works,906
+0012,www.monzo.com/press,906
+0013,www.monzo.com/blog,906
+0014,www.monzo.com/legal/cookie-policy,906
+0015,www.monzo.com/tone-of-voice,906
+0016,www.monzo.com/legal/terms-and-conditions,906
+0017,www.monzo.com/help,905
+0018,www.monzo.com/business,696
+0019,www.monzo.com/community/making-monzo,693
+0020,www.monzo.com-play-store-redirect,212
+0021,www.monzo.com/blog/product-updates,133
+0022,www.monzo.com/blog/monzo-hq,94
+0023,www.monzo.com/blog/authors/tristan-thomas,70
+0024,www.monzo.com/blog/authors/beatrice-borbon,66
+0025,www.monzo.com/blog/2016/08/25/monzo,62
+0026,www.monzo.com/blog/authors/peggy-mcgregor,53
+0027,www.monzo.com/help/payments-getting-started,46
+0028,www.monzo.com/blog/community,45
+0029,www.monzo.com/help/budgeting-overdrafts-savings,44
+0030,www.monzo.com/help/payments-troubleshooting,33
+0031,www.monzo.com/help/app-help,33
+0032,www.monzo.com/help/monzo-card-pin,32
+0033,www.monzo.com/help/account-and-profile,31
+0034,www.monzo.com/help/legal-stuff,30
+0035,www.monzo.com/blog/technology,28
+0036,www.monzo.com/blog/authors/tom-blomfield,27
+0037,www.monzo.com/help/monzo-with-friends,24
+0038,www.monzo.com/features/overdrafts,23
+0039,www.monzo.com/blog/authors/naji-esiri,22
+0040,www.monzo.com/blog/2018/08/21/budget-with-monzo,22
+0041,www.monzo.com/blog/2017/11/20/pots,22
+0042,www.monzo.com/blog/authors/jami-welch,22
+0043,www.monzo.com/help/joint-accounts,21
+0044,www.monzo.com/help/travelling,21
+0045,www.monzo.com/blog/2018/08/14/sharing-finances,21
+0046,www.monzo.com/blog/2018/08/09/what-is-a-credit-score,20
+0047,www.monzo.com/help/switching-to-monzo,20
+0048,www.monzo.com/blog/2018/10/24/types-of-savings-account,20
+0049,www.monzo.com/blog/team,20
+0050,www.monzo.com/blog/monzo-101,20
+0051,www.monzo.com/help/emergencies,20
+0052,www.monzo.com/help/business-accounts,20
+0053,www.monzo.com/legal/fee-information,19
+0054,www.monzo.com/blog/2018/10/25/interest-explained,18
+0055,www.monzo.com/blog/2016/03/17/beta,18
+0056,www.monzo.com/blog/authors/kate-hollowood,18
+0057,www.monzo.com/blog/2015/10/30/we-are-ready,18
+0058,www.monzo.com/help/crowdfunding,18
+0059,www.monzo.com/features/switch,18
+0060,www.monzo.com/blog/2018/08/08/better-credit-score,17
+0061,www.monzo.com/blog/2018/05/22/making-monzo-better,17
+0062,www.monzo.com/blog/monthly-updates,17
+0063,www.monzo.com/legal/complaints-data,16
+0064,www.monzo.com/blog/2017/03/10/transparent-by-default,16
+0065,www.monzo.com/blog/2017/12/18/why-upgrade,16
+0066,www.monzo.com/blog/2018/08/14/launching-joint-accounts,16
+0067,www.monzo.com/blog/authors/team-monzo,16
+0068,www.monzo.com/features/joint-accounts,15
+0069,www.monzo.com/blog/2017/05/15/intro-to-cops,15
+0070,www.monzo.com/blog/2016/03/03/crowdfunded,14
+0071,www.monzo.com/blog/2018/08/15/manage-your-bills-with-monzo,14
+0072,www.monzo.com/blog/2017/04/05/banking-licence,14
+0073,www.monzo.com/blog/2018/04/27/introducing-monzo-labs,13
+0074,www.monzo.com/blog/2019/01/18/how-to-budget,13
+0075,www.monzo.com/blog/2018/12/13/locked-pots,13
+0076,www.monzo.com/blog/2018/04/25/switch-to-monzo,13
+0077,www.monzo.com/blog/authors/bailey-kursar,12
+0078,www.monzo.com/blog/2016/12/07/monzo-me,12
+0079,www.monzo.com/blog/2018/07/10/making-quarterly-goals-public,12
+0080,www.monzo.com/blog/2018/11/23/how-to-save-for-a-house-deposit,12
+0081,www.monzo.com/blog/2017/10/10/current-accounts-are-coming,12
+0082,www.monzo.com/blog/2016/01/15/the-bringmemondo-results,12
+0083,www.monzo.com/blog/2016/02/04/marketplace-banking,12
+0084,www.monzo.com/blog/2018/05/08/nearby-friends,11
+0085,www.monzo.com/blog/banking-and-regulation,11
+0086,www.monzo.com/blog/2016/09/19/building-a-modern-bank-backend,11
+0087,www.monzo.com/features/android-pay,11
+0088,www.monzo.com/blog/2018/02/02/user-research,11
+0089,www.monzo.com/blog/2018/07/03/the-big-list-update,11
+0090,www.monzo.com/blog/2016/06/03/ask-us-anything-join-the-forum,11
+0091,www.monzo.com/blog/2016/04/11/crowdsourcing-merchant-data,11
+0092,www.monzo.com/blog/2016/04/29/mondo-spending,11
+0093,www.monzo.com/blog/2018/08/10/earning-money-explained,11
+0094,www.monzo.com/blog/2018/09/21/protect-yourself-against-fraud-identity-theft,11
+0095,www.monzo.com/help/payments-getting-started/remove-monzo-card-from-apple-pay,10
+0096,www.monzo.com/blog/2018/04/05/april-update,10
+0097,www.monzo.com/blog/2018/06/25/monzo-international-transfers,10
+0098,www.monzo.com/help/payments-getting-started/adding-card-to-apple-pay,10
+0099,www.monzo.com/help/app-help/adding-card-to-google-pay,10
+0100,www.monzo.com/blog/2017/11/16/monzo-marketplace,10
+0101,www.monzo.com/help/app-help/monzo-default-apple-pay-card,10
+0102,www.monzo.com/blog/2018/08/21/savings-update,10
+0103,www.monzo.com/help/payments-getting-started/monzo-default-apple-pay-card,10
+0104,www.monzo.com/help/app-help/remove-monzo-card-from-apple-pay,10
+0105,www.monzo.com/blog/2018/03/07/coin-jar,10
+0106,www.monzo.com/blog/2017/07/17/current-account-preview,10
+0107,www.monzo.com/blog/2018/06/05/monzo-exchange-rate,10
+0108,www.monzo.com/blog/2018/07/30/scaling-our-customer-support,10
+0109,www.monzo.com/help/payments-getting-started/adding-card-to-google-pay,10
+0110,www.monzo.com/blog/2018/07/16/schedule-payments-into-pots,10
+0111,www.monzo.com/blog/2016/04/08/meet-hugo,10
+0112,www.monzo.com/blog/2018/08/10/student-loans-explained,10
+0113,www.monzo.com/blog/customer-support,10
+0114,www.monzo.com/help/payments-getting-started/apple-pay-devices,10
+0115,www.monzo.com/blog/2018/01/11/2018-plans,10
+0116,www.monzo.com/help/app-help/apple-pay-devices,10
+0117,www.monzo.com/help/app-help/adding-card-to-apple-pay,10
+0118,www.monzo.com/blog/money-in-love,9
+0119,www.monzo.com/blog/2018/11/01/savings-pots,9
+0120,www.monzo.com/blog/2018/05/15/meet-vulnerable-customers-team,9
+0121,www.monzo.com/blog/2018/01/31/end-of-prepaid,9
+0122,www.monzo.com/blog/2017/01/27/designing-product-mental-health-mind,9
+0123,www.monzo.com/blog/2017/12/06/upgrades-for-all,9
+0124,www.monzo.com/blog/2016/10/03/targets,9
+0125,www.monzo.com/help/monzo-card-pin/monzo-card-lost-damaged-stolen,9
+0126,www.monzo.com/blog/2018/08/09/what-kind-of-credit-should-i-use,9
+0127,www.monzo.com/blog/mental-health,9
+0128,www.monzo.com/blog/2019/01/29/2019-features,9
+0129,www.monzo.com/docs,9
+0130,www.monzo.com/help/account-and-profile/bank-statement-how-to,9
+0131,www.monzo.com/features/travel,9
+0132,www.monzo.com/blog/2018/06/19/gambling-block-self-exclusion,9
+0133,www.monzo.com/blog/2018/07/05/set-a-spending-budget,9
+0134,www.monzo.com/blog/2018/07/18/round-up-monzo-purchases-automatically,9
+0135,www.monzo.com/blog/2018/08/22/launching-3d-secure,8
+0136,www.monzo.com/help/monzo-card-pin/how-to,8
+0137,www.monzo.com/blog/2018/08/30/manage-your-bills,8
+0138,www.monzo.com/help/payments-troubleshooting/pending-payment,8
+0139,www.monzo.com/help/legal-stuff/branches,8
+0140,www.monzo.com/blog/2016/05/09/apple-love-release,8
+0141,www.monzo.com/help/payments-troubleshooting/refund-how-long,8
+0142,www.monzo.com/blog/2018/08/22/end-of-the-big-list,8
+0143,www.monzo.com/blog/2018/11/14/isas-explained,8
+0144,www.monzo.com/blog/2018/10/09/bill-splitting,8
+0145,www.monzo.com/help/monzo-card-pin/what-is-magstripe,8
+0146,www.monzo.com/help/legal-stuff/privacy-policy,8
+0147,www.monzo.com/help/payments-troubleshooting/payment-declined,8
+0148,www.monzo.com/help/legal-stuff/writing-to-legal-team,8
+0149,www.monzo.com/help/budgeting-overdrafts-savings/overdrafts-credit-score,8
+0150,www.monzo.com/help/budgeting-overdrafts-savings/how-do-overdrafts-work,8
+0151,www.monzo.com/blog/2016/05/27/transparent-product-roadmap,8
+0152,www.monzo.com/help/legal-stuff/terms-conditions,8
+0153,www.monzo.com/blog/2018/04/30/switching-bank-accounts-overdraft,8
+0154,www.monzo.com/help/monzo-card-pin/monzo-card-accepted-everywhere,8
+0155,www.monzo.com/help/payments-troubleshooting/unrecognised-payment,8
+0156,www.monzo.com/help/budgeting-overdrafts-savings/overdrafts-fees,8
+0157,www.monzo.com/help/budgeting-overdrafts-savings/how-to-open-overdraft,8
+0158,www.monzo.com/blog/2015/06/01/welcome-to-mondo,8
+0159,www.monzo.com/blog/2016/09/29/android,8
+0160,www.monzo.com/help/payments-troubleshooting/active-card-check-what,8
+0161,www.monzo.com/blog/2018/01/23/overdraft-update,8
+0162,www.monzo.com/blog/2018/04/26/more-than-one-bank-account,8
+0163,www.monzo.com/help/budgeting-overdrafts-savings/what-is-an-overdraft,8
+0164,www.monzo.com/help/monzo-card-pin/does-support-3dsecure,8
+0165,www.monzo.com/help/legal-stuff/deposit-protection-fscs,8
+0166,www.monzo.com/blog/2018/07/27/how-we-monitor-monzo,8
+0167,www.monzo.com/help/monzo-card-pin/take-out-cash-atm-locator,8
+0168,www.monzo.com/blog/2017/02/01/natasha-profile,8
+0169,www.monzo.com/blog/2016/08/11/we-are-now-a-bank,8
+0170,www.monzo.com/blog/2018/02/01/upgrade-bank-accounts,8
+0171,www.monzo.com/help/account-and-profile/tax-status-eu,7
+0172,www.monzo.com/blog/2015/11/05/why-api-driven-banking-matters,7
+0173,www.monzo.com/help/payments-getting-started/how-to-pay-someone,7
+0174,www.monzo.com/legal/terms-and-conditions/version-1-4,7
+0175,www.monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work,7
+0176,www.monzo.com/help/travelling/moving-abroad,7
+0177,www.monzo.com/help/monzo-card-pin/update-delivery-address,7
+0178,www.monzo.com/blog/2015/12/02/3-second-sandwich,7
+0179,www.monzo.com/blog/2017/05/17/meet-tapas,7
+0180,www.monzo.com/blog/2018/03/22/diversity-and-inclusion,7
+0181,www.monzo.com/blog/2018/05/23/monzo-2.0-summary-for-all,7
+0182,www.monzo.com/help/budgeting-overdrafts-savings/when-can-i-withdraw,7
+0183,www.monzo.com/help/budgeting-overdrafts-savings/summary-left-over,7
+0184,www.monzo.com/blog/2016/02/26/1000000,7
+0185,www.monzo.com/help/account-and-profile/fees,7
+0186,www.monzo.com/help/monzo-card-pin/card-not-arrived,7
+0187,www.monzo.com/help/budgeting-overdrafts-savings/how-to-set-payday,7
+0188,www.monzo.com/blog/2018/12/14/your-rights-returning-goods,7
+0189,www.monzo.com/invest,7
+0190,www.monzo.com/blog/2018/06/21/paying-cheques-into-monzo,7
+0191,www.monzo.com/legal/terms-and-conditions/version-1-1,7
+0192,www.monzo.com/help/travelling/converting-balance-to-another-currency,7
+0193,www.monzo.com/blog/2018/11/23/what-is-crowdfunding,7
+0194,www.monzo.com/blog/financial-inclusion,7
+0195,www.monzo.com/help/monzo-card-pin/freezing-defrosting,7
+0196,www.monzo.com/blog/2018/11/07/pensions-explained,7
+0197,www.monzo.com/help/account-and-profile/tax-status-us,7
+0198,www.monzo.com/help/budgeting-overdrafts-savings/how-does-the-summary-dial-work,7
+0199,www.monzo.com/blog/2018/07/04/making-recurring-payments-better,7
+0200,www.monzo.com/blog/authors/daniel-cannon,7
+0201,www.monzo.com/current-account/live,7
+0202,www.monzo.com/blog/2017/02/23/fundraising-announcement,7
+0203,www.monzo.com/help/budgeting-overdrafts-savings/when-is-interest-paid,7
+0204,www.monzo.com/blog/2019/01/04/monzo-in-2019,7
+0205,www.monzo.com/help/account-and-profile/branches,7
+0206,www.monzo.com/help/budgeting-overdrafts-savings/what-is-summary,7
+0207,www.monzo.com/help/monzo-card-pin/activating-your-card,7
+0208,www.monzo.com/help/budgeting-overdrafts-savings/do-monzo-hold-money,7
+0209,www.monzo.com/legal/terms-and-conditions/version-1-6,7
+0210,www.monzo.com/blog/2018/07/02/the-monzo-mission,7
+0211,www.monzo.com/privacy-bank,7
+0212,www.monzo.com/help/travelling/going-abroad,7
+0213,www.monzo.com/blog/how-we-protect-you,7
+0214,www.monzo.com/blog/2019/02/06/zero-sum-budgeting,7
+0215,www.monzo.com/blog/2018/05/09/sneak-peeks,7
+0216,www.monzo.com/blog/2016/10/10/android-1-1-update,7
+0217,www.monzo.com/legal/terms-and-conditions/version-1-5,7
+0218,www.monzo.com/blog/2018/09/26/how-to-read-your-payslip,7
+0219,www.monzo.com/legal/terms-and-conditions/version-1-3,7
+0220,www.monzo.com/blog/2018/05/17/apple-pay-is-here,7
+0221,www.monzo.com/cookies,7
+0222,www.monzo.com/blog/2018/08/16/automate-your-finances,7
+0223,www.monzo.com/legal/terms-and-conditions/version-1-2,7
+0224,www.monzo.com/help/travelling/fees-charges-abroad,7
+0225,www.monzo.com/help/budgeting-overdrafts-savings/what-is-left-to-spend,7
+0226,www.monzo.com/blog/2016/06/07/ethical-banking,7
+0227,www.monzo.com/blog/2017/03/06/transparency-dashboard,7
+0228,www.monzo.com/blog/2017/08/24/overdraft-preview,7
+0229,www.monzo.com/help/budgeting-overdrafts-savings/is-protected,7
+0230,www.monzo.com/blog/authors/sheri-farsani,7
+0231,www.monzo.com/blog/2018/06/14/bill-tracker,7
+0232,www.monzo.com/blog/2019/01/24/monzo-golden-tickets,7
+0233,www.monzo.com/help/travelling/tips-for-using-monzo-abroad,7
+0234,www.monzo.com/blog/2019/02/14/saving-money-when-youre-broke,6
+0235,www.monzo.com/blog/2018/05/29/financial-inclusion,6
+0236,www.monzo.com/help/budgeting-overdrafts-savings/how-to-close-pot,6
+0237,www.monzo.com/help/emergencies/lost-phone,6
+0238,www.monzo.com/blog/2016/04/21/mondohack-iv,6
+0239,www.monzo.com/help/budgeting-overdrafts-savings/moving-money-to-from-pots,6
+0240,www.monzo.com/annual-report/2018,6
+0241,www.monzo.com/features/16-plus,6
+0242,www.monzo.com/blog/2016/02/03/mondo-api,6
+0243,www.monzo.com/blog/2018/10/04/guarantors-how-and-why,6
+0244,www.monzo.com/blog/2016/01/14/alpha-update,6
+0245,www.monzo.com/blog/2018/11/26/crowdfunding,6
+0246,www.monzo.com/blog/2018/07/24/receiving-international-payments,6
+0247,www.monzo.com/blog/2018/05/29/getting-bank-account-immigrant,6
+0248,www.monzo.com/blog/2017/03/09/diversity-and-inclusion,6
+0249,www.monzo.com/blog/2018/06/07/is-monzo-a-bank,6
+0250,www.monzo.com/blog/2015/11/22/mondohack,6
+0251,www.monzo.com/blog/2018/06/22/why-doesnt-monzo-have-branches,6
+0252,www.monzo.com/blog/2018/10/12/what-is-a-good-credit-score,6
+0253,www.monzo.com/blog/2018/03/20/terms-and-conditions-monzo,6
+0254,www.monzo.com/blog/2016/02/09/meet-leah,6
+0255,www.monzo.com/why-upgrade,6
+0256,www.monzo.com/blog/2015/11/30/mondohack-2,6
+0257,www.monzo.com/help/budgeting-overdrafts-savings/pots-with-overdrafts,6
+0258,www.monzo.com/blog/2018/01/19/beautiful-direct-debits,6
+0259,www.monzo.com/blog/2017/09/21/testing-energy-partnerships,6
+0260,www.monzo.com/terms,6
+0261,www.monzo.com/help/emergencies/monzo-card-blocked,6
+0262,www.monzo.com/blog/2018/10/01/october-update,6
+0263,www.monzo.com/help/emergencies/make-complaint,6
+0264,www.monzo.com/blog/2018/07/05/fingerprint-pay-android,6
+0265,www.monzo.com/blog/2018/08/06/monzo-for-16-18-year-olds,6
+0266,www.monzo.com/blog/2018/12/06/crowdfunding-in-numbers,6
+0267,www.monzo.com/blog/2016/04/26/automated-testing,6
+0268,www.monzo.com/blog/2017/02/22/josh-profile,6
+0269,www.monzo.com/blog/2016/11/14/monzo-with-friends,6
+0270,www.monzo.com/blog/2018/07/25/monzo-reliability-report,6
+0271,www.monzo.com/blog/2018/04/04/ending-prepaid,6
+0272,www.monzo.com/blog/2018/04/18/payment-reactions,6
+0273,www.monzo.com/blog/2015/08/04/meet-paul-rippon,6
+0274,www.monzo.com/help/budgeting-overdrafts-savings/create-pot-how-to,6
+0275,www.monzo.com/blog/2018/08/08/making-bills-easier-to-manage,6
+0276,www.monzo.com/blog/2018/06/07/monzo-on-ifttt,6
+0277,www.monzo.com/blog/design,6
+0278,www.monzo.com/blog/2018/06/06/android-updates-travel-reports,6
+0279,www.monzo.com/help/budgeting-overdrafts-savings/what-is-a-pot,6
+0280,www.monzo.com/blog/authors/zainab-khan,6
+0281,www.monzo.com/help/emergencies/take-out-cash-atm-locator,6
+0282,www.monzo.com/blog/2018/08/15/split-the-bill,6
+0283,www.monzo.com/help/emergencies/monzo-card-lost-damaged-stolen,6
+0284,www.monzo.com/blog/2016/01/28/mondohack-III,6
+0285,www.monzo.com/blog/2017/05/31/women-in-finance,6
+0286,www.monzo.com/blog/2018/01/26/upgrade-credit-score,6
+0287,www.monzo.com/help/monzo-with-friends/where-golden-tickets,5
+0288,www.monzo.com/help/monzo-with-friends/how-to-pay-someone,5
+0289,www.monzo.com/help/monzo-with-friends/sending-money-monzo-to-monzo,5
+0290,www.monzo.com/blog/2018/05/24/no-more-monzo-waiting-list,5
+0291,www.monzo.com/blog/authors/oliver-beattie,5
+0292,www.monzo.com/blog/engineering-culture,5
+0293,www.monzo.com/help/monzo-with-friends/how-refer-friends,5
+0294,www.monzo.com/blog/2016/06/13/new-mondo-changing-our-name,5
+0295,www.monzo.com/help/monzo-with-friends/split-bill,5
+0296,www.monzo.com/blog/2018/01/12/api-update,5
+0297,www.monzo.com/help/app-help/where-can-I-use-flux,5
+0298,www.monzo.com/blog/2016/09/07/our-approach-to-overdrafts,5
+0299,www.monzo.com/help/monzo-with-friends/what-nearby-friends,5
+0300,www.monzo.com/help/app-help/what-is-flux,5
+0301,www.monzo.com/blog/2017/02/22/1-9-3-update,5
+0302,www.monzo.com/help/payments-troubleshooting/authorising-different-payments,5
+0303,www.monzo.com/help/monzo-with-friends/monzo-me-how-to,5
+0304,www.monzo.com/legal/privacy-policy/version-1-3,5
+0305,www.monzo.com/help/switching-to-monzo/cass-what,5
+0306,www.monzo.com/help/switching-to-monzo/cass-status-update,5
+0307,www.monzo.com/blog/2016/08/15/launching-the-bank,5
+0308,www.monzo.com/blog/2018/06/04/june-update,5
+0309,www.monzo.com/help/joint-accounts/joint-account,5
+0310,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card,5
+0311,www.monzo.com/blog/2016/12/06/payments-android,5
+0312,www.monzo.com/blog/2018/11/27/how-to-save-for-retirement,5
+0313,www.monzo.com/blog/2018/08/23/schedule-payments-out-of-pots,5
+0314,www.monzo.com/blog/2018/12/20/self-care-mental-health,5
+0315,www.monzo.com/help/payments-getting-started/sending-money-monzo-to-monzo,5
+0316,www.monzo.com/blog/2019/02/06/is-monzo-safe,5
+0317,www.monzo.com/blog/2018/06/28/ticketmaster-breach,5
+0318,www.monzo.com/help/account-and-profile/update-legal-name,5
+0319,www.monzo.com/help/switching-to-monzo/cass-cancel-how-to,5
+0320,www.monzo.com/blog/2018/05/25/improving-merchant-acceptance,5
+0321,www.monzo.com/help/joint-accounts/what-joint-account,5
+0322,www.monzo.com/blog/2019/01/30/tell-your-friends-to-sign-up,5
+0323,www.monzo.com/help/payments-getting-started/cash-deposit-limit-why,5
+0324,www.monzo.com/help/payments-getting-started/what-nearby-friends,5
+0325,www.monzo.com/blog/2016/11/30/laying-the-foundation-for-a-data-team,5
+0326,www.monzo.com/help/app-help/loyalty-points-with-flux,5
+0327,www.monzo.com/help/payments-getting-started/split-bill,5
+0328,www.monzo.com/blog/2015/10/22/the-hidden-costs-of-free-banking,5
+0329,www.monzo.com/legal/privacy-policy/version-1-2,5
+0330,www.monzo.com/blog/2018/09/10/renting-student-accommodation,5
+0331,www.monzo.com/blog/2017/11/03/simple-signup-KYC,5
+0332,www.monzo.com/blog/2018/11/22/business-banking,5
+0333,www.monzo.com/blog/2017/01/31/fincrime-and-security-week-introduction,5
+0334,www.monzo.com/blog/2018/06/01/getting-bank-account-no-fixed-address,5
+0335,www.monzo.com/blog/2017/01/26/our-new-community-page,5
+0336,www.monzo.com/help/switching-to-monzo/cass-partial-switch-what,5
+0337,www.monzo.com/blog/2017/01/24/100000th-user,5
+0338,www.monzo.com/blog/2018/06/29/engineering-principles,5
+0339,www.monzo.com/blog/2017/10/30/monzo-to-monzo-payments,5
+0340,www.monzo.com/help/switching-to-monzo/cass-full-switch-what,5
+0341,www.monzo.com/help/app-help/flux-information-sharing,5
+0342,www.monzo.com/blog/2016/01/20/how-do-bank-payments-work,5
+0343,www.monzo.com/help/payments-getting-started/cash-deposit-limit,5
+0344,www.monzo.com/help/account-and-profile/update-phone-number,5
+0345,www.monzo.com/blog/2017/08/07/current-account-android,5
+0346,www.monzo.com/legal/business-account-privacy-policy,5
+0347,www.monzo.com/help/account-and-profile/share-with-us,5
+0348,www.monzo.com/blog/2016/10/17/wonderful-surprises,5
+0349,www.monzo.com/blog/2018/12/12/christmas-shopping-sales,5
+0350,www.monzo.com/help/joint-accounts/create-pot-how-to,5
+0351,www.monzo.com/blog/2018/08/23/seven-day-switch,5
+0352,www.monzo.com/help/monzo-with-friends/golden-ticket,5
+0353,www.monzo.com/blog/2018/11/20/why-we-are-lending,5
+0354,www.monzo.com/blog/2018/02/19/third-birthday,5
+0355,www.monzo.com/blog/2019/01/22/how-to-manage-money-with-children,5
+0356,www.monzo.com/help/payments-getting-started/direct-debit-guarantee-what,5
+0357,www.monzo.com/legal/privacy-policy/version-1-1,5
+0358,www.monzo.com/help/monzo-with-friends/havent-received-referral-bonus,5
+0359,www.monzo.com/help/payments-getting-started/cash-deposit-how-to,5
+0360,www.monzo.com/help/payments-getting-started/paypoint-fee-why,5
+0361,www.monzo.com/blog/2017/06/08/host-a-monzo-meetup,5
+0362,www.monzo.com/blog/2018/10/05/secured-unsecured-credit,5
+0363,www.monzo.com/blog/2018/10/22/monzo-fscs-protection,5
+0364,www.monzo.com/blog/2018/05/16/coral-crew,5
+0365,www.monzo.com/blog/2019/01/14/crowdfunding-technology-backend-architecture,5
+0366,www.monzo.com/help/payments-getting-started/monzo-me-how-to,5
+0367,www.monzo.com/help/account-and-profile/update-tax-residency,5
+0368,www.monzo.com/blog/2018/08/09/things-to-consider-before-you-borrow-money,5
+0369,www.monzo.com/blog/2018/08/01/data-help,5
+0370,www.monzo.com/blog/2018/09/07/moving-to-the-uk,5
+0371,www.monzo.com/help/joint-accounts/current-account-joint-account,5
+0372,www.monzo.com/help/app-help/turning-on-flux,5
+0373,www.monzo.com/blog/2018/03/19/500k-customers,5
+0374,www.monzo.com/blog/2018/12/11/design-files-system,5
+0375,www.monzo.com/help/account-and-profile/update-home-address,5
+0376,www.monzo.com/blog/2016/11/14/spending-android,5
+0377,www.monzo.com/blog/2018/05/18/voluntary-disclosure,5
+0378,www.monzo.com/blog/2018/07/02/publishing-our-2018-annual-report,5
+0379,www.monzo.com/help/payments-getting-started/card-not-accepted-paypoint,5
+0380,www.monzo.com/blog/2016/11/04/living-wage,5
+0381,www.monzo.com/blog/2018/07/19/set-savings-goals,5
+0382,www.monzo.com/blog/2019/01/15/crowdfunding-technology-testing,5
+0383,www.monzo.com/blog/2018/11/05/instant-apple-pay,5
+0384,www.monzo.com/help/monzo-with-friends/golden-ticket-what,5
+0385,www.monzo.com/blog/2019/02/26/paying-off-debt,5
+0386,www.monzo.com/blog/upgrading-explained,5
+0387,www.monzo.com/makingmonzo,5
+0388,www.monzo.com/blog/2017/05/11/api-update,5
+0389,www.monzo.com/blog/2017/02/03/fighting-fraud-with-machine-learning,5
+0390,www.monzo.com/blog/2015/07/03/challenge-session,5
+0391,www.monzo.com/blog/2016/07/08/where-in-the-world-has-mondo-been,5
+0392,www.monzo.com/blog/2017/03/05/outage,5
+0393,www.monzo.com/blog/2017/10/17/atm-limits-announcement,5
+0394,www.monzo.com/help/app-help/authorising-with-fingerprint,4
+0395,www.monzo.com/blog/2019/01/28/cashback,4
+0396,www.monzo.com/blog/2019/01/09/january-monthly-update,4
+0397,www.monzo.com/help/legal-stuff/what-tax-status,4
+0398,www.monzo.com/blog/2015/10/08/making-our-mark,4
+0399,www.monzo.com/blog/2016/07/06/how-to-travel-with-mondo,4
+0400,www.monzo.com/blog/authors/richard-cook,4
+0401,www.monzo.com/blog/2018/04/12/gender-pay-gap,4
+0402,www.monzo.com/help/account-and-profile/what-is-ifttt,4
+0403,www.monzo.com/blog/2017/02/08/meet-irina,4
+0404,www.monzo.com/blog/2018/10/10/p60-p45-p11d-paye-forms,4
+0405,www.monzo.com/blog/2017/03/14/12000000,4
+0406,www.monzo.com/blog/2016/01/22/introducing-your-spending,4
+0407,www.monzo.com/blog/2018/08/03/measuring-customer-happiness,4
+0408,www.monzo.com/blog/2018/08/17/pin-lock-update,4
+0409,www.monzo.com/blog/2018/11/12/november-update,4
+0410,www.monzo.com/blog/2018/10/03/q4-goals-public,4
+0411,www.monzo.com/blog/2016/03/10/meet-jonas,4
+0412,www.monzo.com/legal/business-account-fscs-information,4
+0413,www.monzo.com/blog/2017/05/16/200k-250m,4
+0414,www.monzo.com/blog/2019/02/21/piggy-bank-saving,4
+0415,www.monzo.com/features/apple-pay,4
+0416,www.monzo.com/blog/2018/07/11/working-towards-company-goals,4
+0417,www.monzo.com/blog/2017/09/29/android-engineers,4
+0418,www.monzo.com/blog/2017/01/06/year-in-numbers,4
+0419,www.monzo.com/blog/2018/12/11/christmas-gift,4
+0420,www.monzo.com/blog/2018/04/18/using-a-monzo-overdraft,4
+0421,www.monzo.com/blog/2018/03/01/marketplace-beta,4
+0422,www.monzo.com/blog/2019/04/04/launching-isas,4
+0423,www.monzo.com/blog/2017/03/22/meet-venkat,4
+0424,www.monzo.com/help/legal-stuff/uk-tax-resident,4
+0425,www.monzo.com/blog/2016/05/25/android-v1,4
+0426,www.monzo.com/blog/2018/07/13/joints-accounts-in-labs,4
+0427,www.monzo.com/blog/2018/05/11/coin-jar-update,4
+0428,www.monzo.com/blog/2018/04/12/transaction-tags,4
+0429,www.monzo.com/help/legal-stuff/information-sharing,4
+0430,www.monzo.com/blog/2018/02/28/march-update,4
+0431,www.monzo.com/blog/2018/06/21/how-to-get-online-in-an-emergency,4
+0432,www.monzo.com/help/account-and-profile/labs-what-is,4
+0433,www.monzo.com/blog/2017/11/23/2017-todo-list,4
+0434,www.monzo.com/blog/authors/jordan-fish,4
+0435,www.monzo.com/blog/2016/06/01/mondo-update-from-tom-in-96-seconds,4
+0436,www.monzo.com/blog/2019/02/04/pay-anyone-link,4
+0437,www.monzo.com/blog/2017/11/20/share-options,4
+0438,www.monzo.com/blog/authors/harry-ashbridge,4
+0439,www.monzo.com/blog/2018/09/07/open-a-uk-bank-account,4
+0440,www.monzo.com/blog/2018/12/13/shared-tabs,4
+0441,www.monzo.com/help/account-and-profile/IFTTT-set-up,4
+0442,www.monzo.com/blog/2018/12/10/joint-pots,4
+0443,www.monzo.com/blog/2019/03/22/pausing-cheque-imaging,4
+0444,www.monzo.com/legal/business-account-fee-information,4
+0445,www.monzo.com/blog/2017/02/24/cloudbleed,4
+0446,www.monzo.com/blog/2019/04/23/introducing-monzo-plus,4
+0447,www.monzo.com/blog/2018/06/25/monzos-transparent-engineering-progression-framework,4
+0448,www.monzo.com/blog/2018/05/30/getting-bank-account-refugee,4
+0449,www.monzo.com/blog/authors/tara-mansfield,4
+0450,www.monzo.com/blog/2017/03/28/i-forgot-my-pin,4
+0451,www.monzo.com/blog/2018/12/11/december-update,4
+0452,www.monzo.com/blog/2018/04/09/making-overdrafts-available,4
+0453,www.monzo.com/help/legal-stuff/selfie-during-signup,4
+0454,www.monzo.com/blog/2017/05/03/practical-machine-learning-for-startups,4
+0455,www.monzo.com/blog/authors/natasha-vernier,4
+0456,www.monzo.com/blog/2017/07/18/new-help-search,4
+0457,www.monzo.com/blog/authors/kavi-dhokia,4
+0458,www.monzo.com/blog/2018/12/05/crowdfunding-starts,4
+0459,www.monzo.com/help/app-help/changing-notifications,4
+0460,www.monzo.com/blog/2018/01/05/2017-in-numbers,4
+0461,www.monzo.com/help/account-and-profile/IFTTT-login,4
+0462,www.monzo.com/blog/2018/10/30/what-is-inflation,4
+0463,www.monzo.com/blog/2015/10/01/the-first-mondo-hackathon,4
+0464,www.monzo.com/help/payments-getting-started/deposit-cash-how-to,4
+0465,www.monzo.com/blog/2018/12/18/your-rights-flight-delays-cancellations,4
+0466,www.monzo.com/blog/2019/04/10/1p-savings-challenge-monzo,4
+0467,www.monzo.com/blog/2018/11/02/monzo-chat,4
+0468,www.monzo.com/help/app-help/reporting-bugs,4
+0469,www.monzo.com/blog/2017/04/06/meet-dan,4
+0470,www.monzo.com/blog/2018/07/03/custom-app-icons,4
+0471,www.monzo.com/blog/2019/03/13/sell-stuff-online-with-monzo,4
+0472,www.monzo.com/blog/2019/03/08/getting-a-pay-rise,4
+0473,www.monzo.com/help/legal-stuff/tax-status-eu,4
+0474,www.monzo.com/help/app-help/logging-out,4
+0475,www.monzo.com/blog/authors/francisco-carvalho-araújo,4
+0476,www.monzo.com/blog/2017/03/31/designers-inspiration,4
+0477,www.monzo.com/help/legal-stuff/information-facebook,4
+0478,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage,4
+0479,www.monzo.com/blog/2019/04/18/money-in-love-sian-matt,4
+0480,www.monzo.com/blog/2019/02/11/business-banking-alpha,4
+0481,www.monzo.com/blog/2017/01/13/monzo-extraordinary-ideas-board,4
+0482,www.monzo.com/help/legal-stuff/us-subsidiary-gdpr,4
+0483,www.monzo.com/blog/2018/08/13/test-3d-secure,4
+0484,www.monzo.com/blog/2016/12/05/old-street-shopping-event,4
+0485,www.monzo.com/blog/2018/09/04/september-update,4
+0486,www.monzo.com/help/payments-getting-started/cheque-how-to-pay,4
+0487,www.monzo.com/legal/business-account-terms-and-conditions,4
+0488,www.monzo.com/blog/2019/04/10/living-at-home,4
+0489,www.monzo.com/blog/2017/05/05/why-payments-are-declined,4
+0490,www.monzo.com/ethics,4
+0491,www.monzo.com/blog/2015/12/15/why-are-foreign-card-payments-such-a-mess,4
+0492,www.monzo.com/blog/2018/07/05/july-update,4
+0493,www.monzo.com/blog/2018/09/07/new-to-the-uk,4
+0494,www.monzo.com/help/legal-stuff/us-tax-status,4
+0495,www.monzo.com/blog/authors/james-berry,4
+0496,www.monzo.com/blog/2017/05/18/night-cops,4
+0497,www.monzo.com/blog/2017/02/24/monzome-on-android,4
+0498,www.monzo.com/blog/2018/03/27/tone-of-voice,4
+0499,www.monzo.com/help/payments-getting-started/cheque-foreign-currency,4
+0500,www.monzo.com/help/payments-getting-started/pay-with-monzo-cheque,4
+0501,www.monzo.com/blog/2018/08/03/august-update,4
+0502,www.monzo.com/blog/2019/03/18/custom-pot-images,4
+0503,www.monzo.com/blog/2016/12/08/our-old-street-shopping-guide,3
+0504,www.monzo.com/blog/2018/06/26/monzo-time,3
+0505,www.monzo.com/blog/2017/04/27/welcome-to-the-drawing-board,3
+0506,www.monzo.com/blog/authors/james-nicholson,3
+0507,www.monzo.com/blog/2018/11/19/instant-google-pay,3
+0508,www.monzo.com/blog/2018/09/18/ios-app-performance,3
+0509,www.monzo.com/blog/2015/06/04/try-the-mondo-card,3
+0510,www.monzo.com/blog/2017/02/09/launching-settings-android,3
+0511,www.monzo.com/help/payments-troubleshooting/3ds-fail-online-payment,3
+0512,www.monzo.com/blog/authors/maria-campbell,3
+0513,www.monzo.com/blog/2017/04/11/search-on-android,3
+0514,www.monzo.com/blog/authors/robin-bilgil,3
+0515,www.monzo.com/blog/2018/05/09/new-categories,3
+0516,www.monzo.com/blog/2019/03/06/budget-irregular-income,3
+0517,www.monzo.com/blog/2016/08/08/updated-design,3
+0518,www.monzo.com/blog/2016/08/26/how-we-picked-monzo,3
+0519,www.monzo.com/blog/2018/02/15/android-crowdsourcing-merchant-data,3
+0520,www.monzo.com/blog/2018/09/05/monzo-bank-statements,3
+0521,www.monzo.com/blog/authors/jonas-huckestein,3
+0522,www.monzo.com/blog/2019/03/06/engineering-with-no-degree,3
+0523,www.monzo.com/blog/2018/04/03/switch-to-monzo-current-account-switch-service,3
+0524,www.monzo.com/blog/2017/09/13/atm-fees-abroad,3
+0525,www.monzo.com/blog/2018/05/31/getting-bank-account-boat,3
+0526,www.monzo.com/blog/2019/01/31/flux-monzo-launch,3
+0527,www.monzo.com/blog/authors/ole-mahrt,3
+0528,www.monzo.com/help/business-accounts/do-monzo-offer-business-accounts,3
+0529,www.monzo.com/blog/2017/08/09/complaints-at-monzo,3
+0530,www.monzo.com/blog/authors/beth-toms,3
+0531,www.monzo.com/blog/2019/02/11/building-monzo-chat-on-android,3
+0532,www.monzo.com/blog/2016/07/01/launching-campus-insiders,3
+0533,www.monzo.com/blog/2017/06/22/meet-gary,3
+0534,www.monzo.com/blog/2018/11/06/how-to-name-something,3
+0535,www.monzo.com/blog/2018/09/20/on-call,3
+0536,www.monzo.com/blog/2017/07/13/launching-monzo-university,3
+0537,www.monzo.com/blog/2018/05/16/gambling-self-exclusion,3
+0538,www.monzo.com/blog/2017/02/28/crowdfunding,3
+0539,www.monzo.com/blog/2019/04/09/how-can-i-start-saving,3
+0540,www.monzo.com/blog/2019/03/18/a-trick-to-stop-you-spending-your-savings,3
+0541,www.monzo.com/blog/authors/stuart-mcfadden,3
+0542,www.monzo.com/blog/2019/01/16/crowdfunding-technology-systems,3
+0543,www.monzo.com/blog/authors/phil-hewinson,3
+0544,www.monzo.com/blog/2018/12/13/using-monzo-over-christmas,3
+0545,www.monzo.com/help/payments-getting-started/direct-debit-set-up,3
+0546,www.monzo.com/blog/2017/05/19/future-of-cops,3
+0547,www.monzo.com/blog/2019/04/11/custom-pot-images-android,3
+0548,www.monzo.com/blog/2017/12/01/top-ups-are-back,3
+0549,www.monzo.com/blog/2016/08/16/travel-reports,3
+0550,www.monzo.com/blog/2019/02/01/bill-splitting,3
+0551,www.monzo.com/blog/2019/03/03/bad-with-money,3
+0552,www.monzo.com/blog/2018/11/28/how-to-save-for-a-wedding,3
+0553,www.monzo.com/help/monzo-card-pin/dont-know-forgot-pin,3
+0554,www.monzo.com/help/business-accounts/using-current-account-for-business,3
+0555,www.monzo.com/annual-report/2017,3
+0556,www.monzo.com/help/business-accounts/fscs-protection,3
+0557,www.monzo.com/blog/2016/10/06/monzo-shop,3
+0558,www.monzo.com/blog/2018/11/20/flexible-budgeting,3
+0559,www.monzo.com/blog/2018/12/11/las-vegas-office,3
+0560,www.monzo.com/blog/authors/andy-smart,3
+0561,www.monzo.com/blog/2018/08/02/urgent-questions,3
+0562,www.monzo.com/blog/2019/02/07/building-progression-frameworks,3
+0563,www.monzo.com/blog/2017/12/01/cardiff,3
+0564,www.monzo.com/blog/2017/03/15/1-5-3-update,3
+0565,www.monzo.com/blog/authors/jack-kleeman,3
+0566,www.monzo.com/blog/2017/11/29/very-robust-etcd,3
+0567,www.monzo.com/blog/2018/08/02/pots-goals,3
+0568,www.monzo.com/blog/authors/natalie-ledward,3
+0569,www.monzo.com/blog/2017/01/16/app-shortcuts-android,3
+0570,www.monzo.com/blog/2017/11/03/simple-signup-kyc,3
+0571,www.monzo.com/help/monzo-card-pin/account-blocked,3
+0572,www.monzo.com/blog/2018/06/07/summary-update-predicting-committed-spending,3
+0573,www.monzo.com/blog/2018/12/05/crowdfunding-closes,3
+0574,www.monzo.com/blog/2016/02/29/crowdfunding-paused,3
+0575,www.monzo.com/help/business-accounts/fees,3
+0576,www.monzo.com/blog/authors/dillon-van-auken,3
+0577,www.monzo.com/help/payments-troubleshooting/nearby-friends-help,3
+0578,www.monzo.com/blog/2018/05/14/mental-health-awareness-intro,3
+0579,www.monzo.com/help/business-accounts/eligible-businesses,3
+0580,www.monzo.com/help/payments-troubleshooting/approve-online-payment,3
+0581,www.monzo.com/blog/authors/samantha-davies,3
+0582,www.monzo.com/blog/2018/10/31/big-news,3
+0583,www.monzo.com/blog/2018/07/31/monzo-las-vegas,3
+0584,www.monzo.com/blog/authors/zander-brade,3
+0585,www.monzo.com/blog/2018/05/18/mindfulness-and-wellbeing,3
+0586,www.monzo.com/blog/2017/08/04/apology-from-monzo,3
+0587,www.monzo.com/blog/2018/07/24/what-is-sepa,3
+0588,www.monzo.com/blog/2017/05/08/android-pay-on-monzome,3
+0589,www.monzo.com/blog/2017/03/09/emma-profile,3
+0590,www.monzo.com/blog/partnerships,3
+0591,www.monzo.com/blog/2016/12/12/christmas-faqs,3
+0592,www.monzo.com/blog/2018/11/20/women-in-finance-update,3
+0593,www.monzo.com/blog/2019/03/04/using-your-credit-card-on-holiday,3
+0594,www.monzo.com/blog/2018/04/24/help-tab,3
+0595,www.monzo.com/blog/2018/08/07/understanding-how-young-people-manage-money,3
+0596,www.monzo.com/blog/2018/05/25/just-landed,3
+0597,www.monzo.com/blog/2019/01/08/your-year-in-monzo,3
+0598,www.monzo.com/blog/2019/02/21/money-in-love-jen-dave,3
+0599,www.monzo.com/blog/2019/01/17/2018-year-in-monzo,3
+0600,www.monzo.com/blog/2019/03/29/money-in-love-ash-bobby,3
+0601,www.monzo.com/blog/2016/02/15/invest-in-mondo,3
+0602,www.monzo.com/blog/2017/07/04/releasing-our-annual-report,3
+0603,www.monzo.com/blog/2017/11/14/nfc-card-activation,3
+0604,www.monzo.com/blog/2017/09/04/meet-phil-hewinson-head-of-partnerships,3
+0605,www.monzo.com/help/payments-troubleshooting/offline-payments,3
+0606,www.monzo.com/blog/2018/01/18/future-of-prepaid,3
+0607,www.monzo.com/blog/2018/06/11/lost-or-stolen-card,3
+0608,www.monzo.com/blog/2018/10/11/how-to-check-your-credit-score-report,3
+0609,www.monzo.com/blog/authors/leah-templeman,3
+0610,www.monzo.com/blog/2017/06/30/tried-and-tested,3
+0611,www.monzo.com/blog/2017/10/24/android-pay,3
+0612,www.monzo.com/blog/2019/02/05/savings-pots-paused,3
+0613,www.monzo.com/help/payments-getting-started/cancel-direct-debit,3
+0614,www.monzo.com/university/credit-score,3
+0615,www.monzo.com/blog/2016/05/17/dog-ate-my-card,3
+0616,www.monzo.com/blog/2016/09/12/1-6-3,3
+0617,www.monzo.com/blog/2018/06/08/adding-money-to-monzo,3
+0618,www.monzo.com/blog/2019/02/06/50-20-30-budgeting,3
+0619,www.monzo.com/blog/2018/09/07/ba-data-breach,3
+0620,www.monzo.com/blog/2016/01/08/how-does-the-wholesale-foreign-exchange-market-work,3
+0621,www.monzo.com/blog/how-money-works/2,3
+0622,www.monzo.com/help/payments-troubleshooting/payments-help-monzo,3
+0623,www.monzo.com/blog/2017/07/25/meet-will,3
+0624,www.monzo.com/blog/2018/10/18/work-at-monzo,3
+0625,www.monzo.com/blog/2016/10/26/card-replacement-android,3
+0626,www.monzo.com/blog/2019/03/06/march-monthly-update,3
+0627,www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about,3
+0628,www.monzo.com/blog/2017/11/07/investment-announcement,3
+0629,www.monzo.com/blog/2017/10/25/current-account-update,3
+0630,www.monzo.com/blog/2018/09/25/share-with-us,3
+0631,www.monzo.com/blog/2018/02/06/february-update,3
+0632,www.monzo.com/blog/authors/emma-northcott,3
+0633,www.monzo.com/blog/authors/valerio-magliulo,3
+0634,www.monzo.com/blog/2018/02/14/android-pulse,3
+0635,www.monzo.com/blog/2018/12/06/find-your-saving-style,3
+0636,www.monzo.com/help/business-accounts/access-rights,3
+0637,www.monzo.com/help/payments-troubleshooting/payments-help-friend,3
+0638,www.monzo.com/blog/authors/kieran-mchugh,3
+0639,www.monzo.com/blog/2019/04/11/money-in-love-claire-mike,3
+0640,www.monzo.com/blog/2018/06/27/engineering-management-at-monzo,3
+0641,www.monzo.com/blog/2018/11/09/national-living-minimum-wage,3
+0642,www.monzo.com/help/monzo-card-pin/want-to-change-pin,3
+0643,www.monzo.com/blog/2018/11/21/deposit-cash,3
+0644,www.monzo.com/blog/2018/06/13/how-card-payments-work,3
+0645,www.monzo.com/blog/2015/08/27/banking-survey-results,3
+0646,www.monzo.com/blog/authors/simon-vans-colina,3
+0647,www.monzo.com/blog/2019/02/19/do-you-need-insurance,2
+0648,www.monzo.com/blog/2019/02/04/giving-to-charity-when-youre-broke-markdown,2
+0649,www.monzo.com/blog/2017/04/05/profile-pictures-update,2
+0650,www.monzo.com/blog/2018/05/22/big-news-about-small-print,2
+0651,www.monzo.com/blog/authors/max-white,2
+0652,www.monzo.com/blog/monzo-hq/4,2
+0653,www.monzo.com/blog/authors/kate-hollowood/2,2
+0654,www.monzo.com/blog/2018/05/21/monzo-2.0-launch,2
+0655,www.monzo.com/blog/2018/05/25/monzo-2.0-events-roundup,2
+0656,www.monzo.com/blog/2018/09/06/moving-monzo,2
+0657,www.monzo.com/blog/2016/12/21/monzo-for-alexa,2
+0658,www.monzo.com/blog/2019/02/11/user-research-analysis,2
+0659,www.monzo.com/blog/2019/02/07/joint-account-switching,2
+0660,www.monzo.com/blog/2017/09/27/android-help-search,2
+0661,www.monzo.com/blog/authors/jordan-shwide,2
+0662,www.monzo.com/blog/2018/08/03/our-internal-product-vision,2
+0663,www.monzo.com/blog/authors/richard-cadman,2
+0664,www.monzo.com/blog/2019/02/14/money-in-love-frank-charlotte,2
+0665,www.monzo.com/blog/2017/04/20/crowdfunding-in-numbers,2
+0666,www.monzo.com/help/budgeting-overdrafts-savings/what-are-locked-pots,2
+0667,www.monzo.com/blog/2016/06/23/update-on-our-name-change,2
+0668,www.monzo.com/blog/2018/12/17/customer-support,2
+0669,www.monzo.com/blog/authors/dimitri-masin,2
+0670,www.monzo.com/blog/authors/tom-blomfield/2,2
+0671,www.monzo.com/blog/how-money-works/5,2
+0672,www.monzo.com/blog/2018/11/15/card-controls,2
+0673,www.monzo.com/blog/2017/12/18/using-monzo-over-christmas,2
+0674,www.monzo.com/blog/2019/03/15/use-monzo-with-housemates,2
+0675,www.monzo.com/help/payments-troubleshooting/bank-transfer-hasnt-arrived,2
+0676,www.monzo.com/blog/2018/02/23/upgrade-abroad,2
+0677,www.monzo.com/blog/authors/luba-chudnovets,2
+0678,www.monzo.com/blog/2018/09/04/move-your-salary-to-monzo,2
+0679,www.monzo.com/blog/2018/08/07/money-and-our-younger-selves,2
+0680,www.monzo.com/university/card-payments,2
+0681,www.monzo.com/blog/2018/01/04/atm-fees-january,2
+0682,www.monzo.com/blog/2018/12/04/refactoring-old-code,2
+0683,www.monzo.com/blog/2018/11/08/monzo-transparency,2
+0684,www.monzo.com/privacy,2
+0685,www.monzo.com/help/payments-troubleshooting/direct-debit-failed,2
+0686,www.monzo.com/blog/2019/04/02/pyramid-schemes-fractal-mandala,2
+0687,www.monzo.com/help/payments-getting-started/standing-order-set-up,2
+0688,www.monzo.com/university/lost-or-stolen-bank-card,2
+0689,www.monzo.com/blog/2018/11/07/making-monzo-roadmap,2
+0690,www.monzo.com/blog/authors/beatrice-borbon/3,2
+0691,www.monzo.com/blog/monzo-hq/3,2
+0692,www.monzo.com/help/payments-getting-started/moving-salary-to-monzo,2
+0693,www.monzo.com/blog/authors/beatrice-borbon/4,2
+0694,www.monzo.com/blog/2019/01/30/save-money-and-the-planet,2
+0695,www.monzo.com/blog/authors/lew-isaacs,2
+0696,www.monzo.com/blog/authors/tristan-thomas/2,2
+0697,www.monzo.com/blog/2017/06/07/referral-bonus,2
+0698,www.monzo.com/blog/2017/05/22/top-up-with-android-pay,2
+0699,www.monzo.com/help/budgeting-overdrafts-savings/turning-off-unlock,2
+0700,www.monzo.com/blog/2017/10/20/code-club-monzo-meetup,2
+0701,www.monzo.com/blog/2018/05/04/may-update,2
+0702,www.monzo.com/blog/2018/07/06/celebrating-pride,2
+0703,www.monzo.com/blog/community/2,2
+0704,www.monzo.com/blog/2017/08/01/bottom-nav-bar,2
+0705,www.monzo.com/blog/authors/richard-dingwall,2
+0706,www.monzo.com/blog/2019/03/22/money-in-love-katherine-christina,2
+0707,www.monzo.com/blog/2017/01/11/customer-support-quotables,2
+0708,www.monzo.com/blog/authors/tim-radvan,2
+0709,www.monzo.com/blog/authors/tracy-abraham,2
+0710,www.monzo.com/blog/authors/kieran-leblanc,2
+0711,www.monzo.com/blog/2019/02/26/5-a-side-football,2
+0712,www.monzo.com/blog/2018/07/18/our-company-finances,2
+0713,www.monzo.com/blog/2017/08/22/the-help-search-algorithm,2
+0714,www.monzo.com/blog/authors/peggy-mcgregor/3,2
+0715,www.monzo.com/blog/2018/06/14/what-is-open-banking,2
+0716,www.monzo.com/blog/monzo-hq/2,2
+0717,www.monzo.com/blog/2018/11/30/marriott-data-breach,2
+0718,www.monzo.com/blog/authors/kate-hollowood/3,2
+0719,www.monzo.com/blog/2019/02/27/energy-switching,2
+0720,www.monzo.com/blog/2016/07/22/name-change-update-snapchat,2
+0721,www.monzo.com/blog/2019/02/13/february-monthly-update,2
+0722,www.monzo.com/blog/2018/02/07/upgrade-overdrafts,2
+0723,www.monzo.com/blog/authors/maria-boghiu,2
+0724,www.monzo.com/blog/how-money-works/4,2
+0725,www.monzo.com/blog/2016/10/19/target-practice,2
+0726,www.monzo.com/blog/product-updates/4,2
+0727,www.monzo.com/help/payments-getting-started/standing-order-cancel,2
+0728,www.monzo.com/blog/authors/daniel-chatfield,2
+0729,www.monzo.com/blog/product-updates/5,2
+0730,www.monzo.com/blog/authors/peggy-mcgregor/2,2
+0731,www.monzo.com/blog/2019/04/05/april-monthly-update,2
+0732,www.monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts,2
+0733,www.monzo.com/blog/2019/04/04/money-in-love-nellie-nial,2
+0734,www.monzo.com/blog/2019/03/21/diversity-and-inclusion,2
+0735,www.monzo.com/blog/authors/paul-rippon,2
+0736,www.monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work,2
+0737,www.monzo.com/help/crowdfunding/invest-monzo,2
+0738,www.monzo.com/blog/2019/04/03/deploying-Envoy-Proxy,2
+0739,www.monzo.com/blog/product-updates/3,2
+0740,www.monzo.com/blog/2018/06/28/joining-monzo-engineer-onboarding,2
+0741,www.monzo.com/blog/2018/03/15/fingerprint-unlock,2
+0742,www.monzo.com/blog/authors/chris-evans,2
+0743,www.monzo.com/blog/2017/02/16/the-richest-man-in-babylon,2
+0744,www.monzo.com/blog/authors/tas-morfopoulos,2
+0745,www.monzo.com/blog/2016/09/23/monzo-on-campus,2
+0746,www.monzo.com/blog/2019/02/07/authorised-push-payment-fraud,2
+0747,www.monzo.com/blog/2018/03/02/app-development,2
+0748,www.monzo.com/blog/2017/07/27/monzo-insider,2
+0749,www.monzo.com/blog/2016/08/05/spending-on-mondo-update,2
+0750,www.monzo.com/blog/2018/06/29/typeform-breach,2
+0751,www.monzo.com/blog/2017/12/07/pots-android,2
+0752,www.monzo.com/blog/2018/11/30/setting-record-straight,2
+0753,www.monzo.com/blog/2017/10/05/card-delays,2
+0754,www.monzo.com/blog/2016/07/18/touchid-profile-update,2
+0755,www.monzo.com/help/payments-troubleshooting/standing-order-failed,2
+0756,www.monzo.com/blog/community/3,2
+0757,www.monzo.com/help/payments-getting-started/adding-money-to-account,2
+0758,www.monzo.com/blog/2019/03/14/money-in-love-lauren-dan,2
+0759,www.monzo.com/blog/2019/01/07/progression,2
+0760,www.monzo.com/blog/2018/09/03/is-monzo-free,2
+0761,www.monzo.com/blog/technology/2,2
+0762,www.monzo.com/features/google-pay,2
+0763,www.monzo.com/blog/2018/10/16/making-monzo-better,2
+0764,www.monzo.com/blog/2018/01/10/golden-tickets-are-back,2
+0765,www.monzo.com/help/payments-troubleshooting/hsbc-bank-transfer,2
+0766,www.monzo.com/vote,2
+0767,www.monzo.com/blog/2017/07/07/working-with-backend-services-on-ios,2
+0768,www.monzo.com/blog/2019/01/17/monzo-product-designer-jobs,2
+0769,www.monzo.com/blog/2018/01/25/bank-statements,2
+0770,www.monzo.com/blog/2019/02/28/money-in-nick-amy,2
+0771,www.monzo.com/blog/2016/09/20/monzo-journals-philippines,2
+0772,www.monzo.com/blog/authors/tristan-thomas/3,2
+0773,www.monzo.com/blog/2017/12/12/meet-jordan,2
+0774,www.monzo.com/blog/2018/11/09/employee-social-media-guidelines,2
+0775,www.monzo.com/blog/2018/11/05/monzo-community,2
+0776,www.monzo.com/blog/product-updates/2,2
+0777,www.monzo.com/blog/2017/09/01/open-office-august,2
+0778,www.monzo.com/blog/2019/01/22/how-to-save-money-on-train-travel,2
+0779,www.monzo.com/blog/2018/09/24/one-million-monzo-customers,2
+0780,www.monzo.com/blog/2015/11/16/diversity-debt,2
+0781,www.monzo.com/blog/authors/beatrice-borbon/2,2
+0782,www.monzo.com/blog/authors/tristan-thomas/4,2
+0783,www.monzo.com/blog/2018/02/12/monzo-me,2
+0784,www.monzo.com/blog/how-money-works/3,2
+0785,www.monzo.com/blog/2019/01/16/monzo-plan-ahead,2
+0786,www.monzo.com/blog/2019/03/28/wow-air-collapse,2
+0787,www.monzo.com/blog/authors/hugo-cornejo,2
+0788,www.monzo.com/blog/2019/02/11/internal-product-design,2
+0789,www.monzo.com/blog/authors/rika-raybould,2
+0790,www.monzo.com/blog/authors/peggy-mcgregor/4,2
+0791,www.monzo.com/blog/2018/09/13/student-loans-northern-ireland,2
+0792,www.monzo.com/blog/2018/12/21/android-app-icons,2
+0793,www.monzo.com/blog/2018/04/27/backend-engineer-bonus,2
+0794,www.monzo.com/blog/2019/01/22/train-delays-and-cancellations,2
+0795,www.monzo.com/blog/2019/01/30/mental-health,2
+0796,www.monzo.com/blog/authors/chris-bond,2
+0797,www.monzo.com/blog/2016/06/13/1-5,2
+0798,www.monzo.com/blog/2018/09/11/student-budgeting-tips,2
+0799,www.monzo.com/blog/authors/kate-hollowood/4,2
+0800,www.monzo.com/blog/2017/05/26/to-a-billion-and-beyond,1
+0801,www.monzo.com/blog/2017/08/23/preview-distance-signup,1
+0802,www.monzo.com/help/joint-accounts/close-joint-account-how-to,1
+0803,www.monzo.com/help/app-help/using-google-pay-card-frozen,1
+0804,www.monzo.com/blog/authors/lizzie-morgan,1
+0805,www.monzo.com/blog/authors/jami-welch/2,1
+0806,www.monzo.com/blog/authors/matt-heath,1
+0807,www.monzo.com/blog/2019/01/30/cost-of-a-dog,1
+0808,www.monzo.com/help/payments-getting-started/apple-pay-payment-limit,1
+0809,www.monzo.com/help/payments-getting-started/using-google-pay-card-frozen,1
+0810,www.monzo.com/blog/2019/01/30/cost-of-a-baby,1
+0811,www.monzo.com/blog/authors/matt-gilson,1
+0812,www.monzo.com/blog/2019/04/01/big-issue-monzo-pay-it-forward,1
+0813,www.monzo.com/blog/authors/peggy-mcgregor/5,1
+0814,www.monzo.com/help/payments-getting-started/bank-transfer-how-to,1
+0815,www.monzo.com/legal/fscs-information/version-1-1,1
+0816,www.monzo.com/blog/2018/05/01/may-update,1
+0817,www.monzo.com/blog/2017/09/25/android-progress-update,1
+0818,www.monzo.com/blog/monzo-hq/5,1
+0819,www.monzo.com/blog/authors/james-routley,1
+0820,www.monzo.com/blog/2017/01/03/pin-in-app,1
+0821,www.monzo.com/blog/authors/louis-cox,1
+0822,www.monzo.com/help/monzo-card-pin/is-it-credit-card,1
+0823,www.monzo.com/help/payments-getting-started/google-pay-payment-limit,1
+0824,www.monzo.com/help/budgeting-overdrafts-savings/round-ip-pots,1
+0825,www.monzo.com/blog/authors/liam-houghton,1
+0826,www.monzo.com/help/account-and-profile/my-limits,1
+0827,www.monzo.com/help/payments-getting-started/making-monzo-default-card-google-pay,1
+0828,www.monzo.com/help/legal-stuff/update-tax-residency,1
+0829,www.monzo.com/help/joint-accounts/types-account-switch,1
+0830,www.monzo.com/-monzo-plus-signup,1
+0831,www.monzo.com/help/account-and-profile/close-account,1
+0832,www.monzo.com/help/crowdfunding/crowdfunding-what-monzo,1
+0833,www.monzo.com/blog/2017/12/15/atm-fees-january,1
+0834,www.monzo.com/blog/authors/ella-johanny,1
+0835,www.monzo.comlatest,1
+0836,www.monzo.com/blog/authors/james-allison,1
+0837,www.monzo.com/legal/business-account-fee-information/version-1-1,1
+0838,www.monzo.com/help/app-help/apple-pay-payment-limit,1
+0839,www.monzo.com/blog/authors/kate-hollowood/6,1
+0840,www.monzo.com/blog/authors/bobbi-nicholson,1
+0841,www.monzo.com/static/images/blog/2016-08-25-monzo/hoodie.jpg,1
+0842,www.monzo.com/help/joint-accounts/set-up-joint-account,1
+0843,www.monzo.com/blog/authors/suhail-patel,1
+0844,www.monzo.com/help/budgeting-overdrafts-savings/unauthorised-overdrafts,1
+0845,www.monzo.com/help/monzo-card-pin/payment-declined,1
+0846,www.monzo.com/help/budgeting-overdrafts-savings/joint-account,1
+0847,www.monzo.com/blog/authors/kate-hollowood/5,1
+0848,www.monzo.com/blog/authors/tristan-thomas/5,1
+0849,www.monzo.com/blog/monzo-hq/6,1
+0850,www.monzo.com/blog/authors/bruno-vaz-moço,1
+0851,www.monzo.com/blog/authors/dovydas-bartkevicius,1
+0852,www.monzo.com/help/budgeting-overdrafts-savings/switching-off-overdraft,1
+0853,www.monzo.com/help/monzo-card-pin/i-want-second-card,1
+0854,www.monzo.com/blog/authors/lindsey-jayne,1
+0855,www.monzo.com/help/app-help/making-monzo-default-card-google-pay,1
+0856,www.monzo.com/blog/2019/03/27/tone-of-voice-birthday,1
+0857,www.monzo.com/uni,1
+0858,www.monzo.com/help/budgeting-overdrafts-savings/changing-overdraft-limit,1
+0859,www.monzo.com/blog/authors/priyesh-patel,1
+0860,www.monzo.com/blog/authors/julie-oey,1
+0861,www.monzo.com/blog/authors/anthea-jackson,1
+0862,www.monzo.com/blog/authors/dani-garcia,1
+0863,www.monzo.com/campus-insiders,1
+0864,www.monzo.com/blog/authors/moshe-raphaely,1
+0865,www.monzo.com/blog/team/2,1
+0866,www.monzo.com/help/budgeting-overdrafts-savings/exporting-my-transactions,1
+0867,www.monzo.com/blog/2018/02/09/upgrade-fscs-protection,1
+0868,www.monzo.com/blog/authors/tom-blomfield/3,1
+0869,www.monzo.com/blog/authors/david-brandon,1
+0870,www.monzo.com/blog/authors/filipe-varela,1
+0871,www.monzo.com/blog/authors/simon-balmain,1
+0872,www.monzo.com/blog/2019/01/21/get-fit-on-a-budget,1
+0873,www.monzo.com/blog/authors/priscila-minks-zanuzzo,1
+0874,www.monzo.com/help/emergencies/report-fraud,1
+0875,www.monzo.com/help/payments-troubleshooting/balance-incorrect,1
+0876,www.monzo.com/blog/authors/venkat-srinivasan,1
+0877,www.monzo.com/blog/authors/benji-portwin,1
+0878,www.monzo.com/blog/2017/07/03/monzo-mixtape,1
+0879,www.monzo.com/blog/authors/emma-guy,1
+0880,www.monzo.com/blog/product-updates/7,1
+0881,www.monzo.com/isa,1
+0882,www.monzo.com/blog/authors/beatrice-borbon/5,1
+0883,www.monzo.com/blog/authors/naji-esiri/2,1
+0884,www.monzo.com/help/travelling/monzo-card-accepted-everywhere,1
+0885,www.monzo.com/hotchip,1
+0886,www.monzo.com/help/legal-stuff/tax-status-us,1
+0887,www.monzo.com/blog/authors/tristan-thomas/6,1
+0888,www.monzo.com/blog/2017/09/08/monzo-x-deliveroo-split-the-bill,1
+0889,www.monzo.com/blog/product-updates/6,1
+0890,www.monzo.com/blog/authors/constantijn-schepens,1
+0891,www.monzo.com/blog/authors/sam-michael,1
+0892,www.monzo.com/blog/technology/3,1
+0893,www.monzo.com/blog/how-money-works/6,1
+0894,www.monzo.com/new-name,1
+0895,www.monzo.com/blog/monthly-updates/2,1
+0896,www.monzo.com/help/payments-troubleshooting/monzo-card-blocked,1
+0897,www.monzo.com/help/monzo-card-pin/frozen-card-payment,1
+0898,www.monzo.com/help/crowdfunding/sell-monzo-shares,1
+0899,www.monzo.com/blog/authors/dean-nash,1
+0900,www.monzo.com/help/payments-troubleshooting/frozen-card-payment,1
+0901,www.monzo.com/help/budgeting-overdrafts-savings/how-to-set-custom-dates-summary,1
+0902,www.monzo.com/blog/community/4,1
+0903,www.monzo.com/blog/authors/nigel-,1
+0904,www.monzo.com/help/crowdfunding/how-invest-monzo,1
+0905,www.monzo.com/features/ifttt,1
+0906,www.monzo.com/blog/2019/03/19/improving-our-staff-VPN,1
+0907,www.monzo.com/help/payments-getting-started/duplicate-notifications-apple-pay,1
+0908,www.monzo.com/blog/authors/team-monzo/2,1
+0909,www.monzo.com/blog/monzo-101/2,1
+0910,www.monzo.com/help/app-help/duplicate-notifications-apple-pay,1
+0911,www.monzo.com/blog/authors/gemma-rogers,1
+0912,www.monzo.com/blog/2017/12/08/monzo-mixtape-two,1
+0913,www.monzo.com/blog/no-barriers-to-banking,1
+0914,www.monzo.com/help/app-help/google-pay-payment-limit,1
+0915,www.monzo.com/help/monzo-card-pin/contactless-not-working,1
+0916,www.monzo.com/university,1
+0917,www.monzo.com/help/legal-stuff/closed-account-bank-statement,1
+0918,www.monzo.com/blog/2018/12/20/how-to-get-therapy,1
+0919,www.monzo.com/blog/2017/06/09/journey-of-a-card,1
+0920,www.monzo.com/help/switching-to-monzo/reasons-to-switch,1
+0921,www.monzo.com/internal-product,1
+0922,www.monzo.com/blog/authors/neal-lathia,1
+0923,www.monzo.com/blog/authors/josh-garnham,1
+0924,www.monzo.com/blog/authors/sam-watkin,1
+0925,www.monzo.com/blog/authors/yehudi-asamoah,1
+0926,www.monzo.com/blog/2017/06/13/identity-verification-upgrade,1
+0927,www.monzo.com/blog/authors/vuokko-aro,1
+0928,www.monzo.com/blog/2018/12/13/throw-achristmas-party-on-a-budget,1
+0929,www.monzo.com/campaign/banking-for-all,1
+0930,www.monzo.com/blog/authors/chris-lees,1
+0931,www.monzo.com/help/account-and-profile/account-details,1
+0932,www.monzo.com/blog/authors/angus-preston,1
+0933,www.monzo.com/help/travelling/monzo-exchange-rate,1
+0934,www.monzo.com/blog/2018/06/06/monzo-golden-tickets,1
+0935,www.monzo.com/help/budgeting-overdrafts-savings/where-is-agreement,1
+0936,www.monzo.comwww.igalondon.org.uk,1
+0937,www.monzo.com/blog/2017/06/23/new-beginnings-at-Monzo,1
+0001,->www.monzo.com 908
+0002,www.monzo.com->www.monzo.com/download 906
+0003,www.monzo.com->www.monzo.com/features/overdrafts 23
+0004,www.monzo.com->www.monzo.com/features/apple-pay 4
+0005,www.monzo.com->www.monzo.com/legal/terms-and-conditions 906
+0006,www.monzo.com->www.monzo.com/features/travel 9
+0007,www.monzo.com->www.monzo.com/about 906
+0008,www.monzo.com->www.monzo.com/faq 906
+0009,www.monzo.com->www.monzo.com/transparency 906
+0010,www.monzo.com->www.monzo.com/community/making-monzo 693
+0011,www.monzo.com->www.monzo.com/tone-of-voice 906
+0012,www.monzo.com->www.monzo.com/blog 906
+0013,www.monzo.com->www.monzo.com/careers 906
+0014,www.monzo.com->www.monzo.com/features/google-pay 2
+0015,www.monzo.com->www.monzo.com/legal/privacy-policy 906
+0016,www.monzo.com->www.monzo.com/legal/cookie-policy 906
+0017,www.monzo.com->www.monzo.com/help 905
+0018,www.monzo.com->www.monzo.com/business 696
+0019,www.monzo.com->www.monzo.com/features/switch 18
+0020,www.monzo.com->www.monzo.com/cdn-cgi/l/email-protection 907
+0021,www.monzo.com->www.monzo.com/press 906
+0022,www.monzo.com->www.monzo.com/blog/how-money-works 906
+0023,www.monzo.com->www.monzo.com/community 906
+0024,www.monzo.com->www.monzo.com/legal/fscs-information 906
+0025,www.monzo.com/legal/terms-and-conditions->www.monzo.com/help/payments-troubleshooting/offline-payments 3
+0026,www.monzo.com/legal/terms-and-conditions->www.monzo.com/help/monzo-card-pin/monzo-card-lost-damaged-stolen 9
+0027,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/complaints-data 16
+0028,www.monzo.com/legal/terms-and-conditions->www.monzo.com/help/payments-getting-started/how-to-pay-someone 7
+0029,www.monzo.com/legal/terms-and-conditions->www.monzo.com/help/account-and-profile/bank-statement-how-to 9
+0030,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/terms-and-conditions/version-1-5 7
+0031,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/terms-and-conditions/version-1-6 7
+0032,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/fee-information 19
+0033,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/terms-and-conditions/version-1-3 7
+0034,www.monzo.com/legal/terms-and-conditions->www.monzo.com/help/payments-troubleshooting/authorising-different-payments 5
+0035,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/terms-and-conditions/version-1-4 7
+0036,www.monzo.com/legal/terms-and-conditions->www.monzo.com/help/payments-getting-started/direct-debit-guarantee-what 5
+0037,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/terms-and-conditions/version-1-2 7
+0038,www.monzo.com/legal/terms-and-conditions->www.monzo.com/legal/terms-and-conditions/version-1-1 7
+0039,www.monzo.com/features/travel->www.monzo.com/blog/2017/10/17/atm-limits-announcement 5
+0040,www.monzo.com/about->www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card 5
+0041,www.monzo.com/about->www.monzo.com/blog/2019/04/23/introducing-monzo-plus 4
+0042,www.monzo.com/about->www.monzo.com/blog/2019/04/18/money-in-love-sian-matt 4
+0043,www.monzo.com/transparency->www.monzo.com/invest 7
+0044,www.monzo.com/transparency->www.monzo.com/blog/2017/03/10/transparent-by-default 16
+0045,www.monzo.com/transparency->www.monzo.com/blog/2017/01/13/monzo-extraordinary-ideas-board 4
+0046,www.monzo.com/transparency->www.monzo.com/blog/2018/03/22/diversity-and-inclusion 7
+0047,www.monzo.com/transparency->www.monzo.com/blog/2017/05/31/women-in-finance 6
+0048,www.monzo.com/transparency->www.monzo.com/annual-report/2018 6
+0049,www.monzo.com/transparency->www.monzo.com/ethics 4
+0050,www.monzo.com/transparency->www.monzo.com/blog/2016/03/03/crowdfunded 14
+0051,www.monzo.com/transparency->www.monzo.com/annual-report/2017 3
+0052,www.monzo.com/transparency->www.monzo.com/blog/2018/04/12/gender-pay-gap 4
+0053,www.monzo.com/transparency->www.monzo.com/blog/2016/05/27/transparent-product-roadmap 8
+0054,www.monzo.com/tone-of-voice->www.monzo.com/privacy 2
+0055,www.monzo.com/blog->www.monzo.com/blog/2019/01/29/2019-features 9
+0056,www.monzo.com/blog->www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about 3
+0057,www.monzo.com/blog->www.monzo.com/blog/2019/03/22/pausing-cheque-imaging 4
+0058,www.monzo.com/blog->www.monzo.com/blog/2019/04/11/money-in-love-claire-mike 3
+0059,www.monzo.com/blog->www.monzo.com/blog/product-updates 133
+0060,www.monzo.com/blog->www.monzo.com/blog/2019/04/10/living-at-home 4
+0061,www.monzo.com/blog->www.monzo.com/blog/2019/01/04/monzo-in-2019 7
+0062,www.monzo.com/blog->www.monzo.com/blog/monzo-101 20
+0063,www.monzo.com/blog->www.monzo.com/blog/2019/02/06/is-monzo-safe 5
+0064,www.monzo.com/blog->www.monzo.com/blog/2019/02/01/bill-splitting 3
+0065,www.monzo.com/blog->www.monzo.com/blog/2019/04/04/launching-isas 4
+0066,www.monzo.com/blog->www.monzo.com/blog/2019/04/11/custom-pot-images-android 3
+0067,www.monzo.com/blog->www.monzo.com/blog/2019/04/10/1p-savings-challenge-monzo 4
+0068,www.monzo.com/blog->www.monzo.com/blog/2019/02/11/business-banking-alpha 4
+0069,www.monzo.com/blog->www.monzo.com/blog/2019/03/15/use-monzo-with-housemates 2
+0070,www.monzo.com/blog->www.monzo.comlatest 1
+0071,www.monzo.com/blog->www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage 4
+0072,www.monzo.com/blog->www.monzo.com/blog/2019/01/24/monzo-golden-tickets 7
+0073,www.monzo.com/features/google-pay->www.monzo.com/university/lost-or-stolen-bank-card 2
+0074,www.monzo.com/legal/privacy-policy->www.monzo.com/cookies 7
+0075,www.monzo.com/legal/privacy-policy->www.monzo.com/legal/privacy-policy/version-1-2 5
+0076,www.monzo.com/legal/privacy-policy->www.monzo.com/legal/privacy-policy/version-1-3 5
+0077,www.monzo.com/legal/privacy-policy->www.monzo.com/legal/privacy-policy/version-1-1 5
+0078,www.monzo.com/help->www.monzo.com/help/joint-accounts 21
+0079,www.monzo.com/help->www.monzo.com/help/business-accounts 20
+0080,www.monzo.com/help->www.monzo.com/help/account-and-profile 31
+0081,www.monzo.com/help->www.monzo.com/help/legal-stuff 30
+0082,www.monzo.com/help->www.monzo.com/help/payments-getting-started 46
+0083,www.monzo.com/help->www.monzo.com/help/monzo-with-friends 24
+0084,www.monzo.com/help->www.monzo.com/help/monzo-card-pin 32
+0085,www.monzo.com/help->www.monzo.com/help/budgeting-overdrafts-savings 44
+0086,www.monzo.com/help->www.monzo.com/help/switching-to-monzo 20
+0087,www.monzo.com/help->www.monzo.com/help/emergencies 20
+0088,www.monzo.com/help->www.monzo.com/help/payments-troubleshooting 33
+0089,www.monzo.com/help->www.monzo.com-play-store-redirect 212
+0090,www.monzo.com/help->www.monzo.com/help/crowdfunding 18
+0091,www.monzo.com/help->www.monzo.com/help/app-help 33
+0092,www.monzo.com/help->www.monzo.com/help/travelling 21
+0093,www.monzo.com/business->www.monzo.com/legal/business-account-privacy-policy 5
+0094,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/03/13/sell-stuff-online-with-monzo 4
+0095,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/03/04/using-your-credit-card-on-holiday 3
+0096,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/03/08/getting-a-pay-rise 4
+0097,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/03/18/a-trick-to-stop-you-spending-your-savings 3
+0098,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/03/06/budget-irregular-income 3
+0099,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/03/03/bad-with-money 3
+0100,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/02/26/paying-off-debt 5
+0101,www.monzo.com/blog/how-money-works->www.monzo.com/blog/2019/04/09/how-can-i-start-saving 3
+0102,www.monzo.com/blog/how-money-works->www.monzo.com/blog/how-money-works/2 3
+0103,www.monzo.com/community->www.monzo.com/blog/2017/06/08/host-a-monzo-meetup 5
+0104,www.monzo.com/legal/fscs-information->www.monzo.com/legal/fscs-information/version-1-1 1
+0105,www.monzo.com/help/payments-troubleshooting/offline-payments->www.monzo.com/help/payments-troubleshooting/refund-how-long 8
+0106,www.monzo.com/help/payments-troubleshooting/offline-payments->www.monzo.com/help/payments-troubleshooting/active-card-check-what 8
+0107,www.monzo.com/help/payments-troubleshooting/offline-payments->www.monzo.com/help/payments-troubleshooting/payment-declined 8
+0108,www.monzo.com/help/payments-troubleshooting/offline-payments->www.monzo.com/help/payments-troubleshooting/unrecognised-payment 8
+0109,www.monzo.com/help/payments-troubleshooting/offline-payments->www.monzo.com/help/payments-troubleshooting/pending-payment 8
+0110,www.monzo.com/help/monzo-card-pin/monzo-card-lost-damaged-stolen->www.monzo.com/help/monzo-card-pin/freezing-defrosting 7
+0111,www.monzo.com/help/monzo-card-pin/monzo-card-lost-damaged-stolen->www.monzo.com/help/monzo-card-pin/card-not-arrived 7
+0112,www.monzo.com/help/monzo-card-pin/monzo-card-lost-damaged-stolen->www.monzo.com/help/monzo-card-pin/update-delivery-address 7
+0113,www.monzo.com/help/monzo-card-pin/monzo-card-lost-damaged-stolen->www.monzo.com/help/monzo-card-pin/activating-your-card 7
+0114,www.monzo.com/help/payments-getting-started/how-to-pay-someone->www.monzo.com/help/payments-getting-started/monzo-me-how-to 5
+0115,www.monzo.com/help/payments-getting-started/how-to-pay-someone->www.monzo.com/help/payments-getting-started/split-bill 5
+0116,www.monzo.com/help/payments-getting-started/how-to-pay-someone->www.monzo.com/help/payments-getting-started/sending-money-monzo-to-monzo 5
+0117,www.monzo.com/help/payments-getting-started/how-to-pay-someone->www.monzo.com/help/payments-getting-started/what-nearby-friends 5
+0118,www.monzo.com/help/account-and-profile/bank-statement-how-to->www.monzo.com/help/account-and-profile/branches 7
+0119,www.monzo.com/help/account-and-profile/bank-statement-how-to->www.monzo.com/help/account-and-profile/tax-status-us 7
+0120,www.monzo.com/help/account-and-profile/bank-statement-how-to->www.monzo.com/help/account-and-profile/fees 7
+0121,www.monzo.com/help/account-and-profile/bank-statement-how-to->www.monzo.com/help/account-and-profile/tax-status-eu 7
+0122,www.monzo.com/legal/terms-and-conditions/version-1-5->www.monzo.com/privacy-bank 7
+0123,www.monzo.com/help/payments-troubleshooting/authorising-different-payments->www.monzo.com/help/payments-troubleshooting/3ds-fail-online-payment 3
+0124,www.monzo.com/help/payments-troubleshooting/authorising-different-payments->www.monzo.com/help/payments-troubleshooting/approve-online-payment 3
+0125,www.monzo.com/help/payments-getting-started/direct-debit-guarantee-what->www.monzo.com/help/payments-getting-started/direct-debit-set-up 3
+0126,www.monzo.com/help/payments-getting-started/direct-debit-guarantee-what->www.monzo.com/help/payments-getting-started/cancel-direct-debit 3
+0127,www.monzo.com/blog/2017/10/17/atm-limits-announcement->www.monzo.com/blog/authors/tristan-thomas 70
+0128,www.monzo.com/blog/2017/10/17/atm-limits-announcement->www.monzo.com/blog/2017/09/13/atm-fees-abroad 3
+0129,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/08/15/manage-your-bills-with-monzo 14
+0130,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/08/09/what-kind-of-credit-should-i-use 9
+0131,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/09/21/protect-yourself-against-fraud-identity-theft 11
+0132,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/10/25/interest-explained 18
+0133,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2019/01/28/cashback 4
+0134,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/10/12/what-is-a-good-credit-score 6
+0135,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/08/09/things-to-consider-before-you-borrow-money 5
+0136,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/authors/peggy-mcgregor 53
+0137,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/12/14/your-rights-returning-goods 7
+0138,www.monzo.com/blog/2019/04/17/shoud-i-get-a-credit-card->www.monzo.com/blog/2018/11/20/why-we-are-lending 5
+0139,www.monzo.com/blog/2019/04/23/introducing-monzo-plus->www.monzo.com/-monzo-plus-signup 1
+0140,www.monzo.com/blog/2019/04/23/introducing-monzo-plus->www.monzo.com/blog/authors/luba-chudnovets 2
+0141,www.monzo.com/blog/2019/04/18/money-in-love-sian-matt->www.monzo.com/blog/authors/kate-hollowood 18
+0142,www.monzo.com/blog/2019/04/18/money-in-love-sian-matt->www.monzo.com/blog/2018/08/14/sharing-finances 21
+0143,www.monzo.com/blog/2019/04/18/money-in-love-sian-matt->www.monzo.com/blog/money-in-love 9
+0144,www.monzo.com/blog/2019/04/18/money-in-love-sian-matt->www.monzo.com/blog/2018/08/14/launching-joint-accounts 16
+0145,www.monzo.com/blog/2019/04/18/money-in-love-sian-matt->www.monzo.com/features/joint-accounts 15
+0146,www.monzo.com/invest->www.monzo.com/blog/2018/12/05/crowdfunding-closes 3
+0147,www.monzo.com/blog/2017/03/10/transparent-by-default->www.monzo.com/blog/authors/jonas-huckestein 3
+0148,www.monzo.com/blog/2017/03/10/transparent-by-default->www.monzo.com/blog/2017/03/09/diversity-and-inclusion 6
+0149,www.monzo.com/blog/2017/03/10/transparent-by-default->www.monzo.com/blog/2017/03/06/transparency-dashboard 7
+0150,www.monzo.com/blog/2017/03/10/transparent-by-default->www.monzo.com/blog/monzo-hq 94
+0151,www.monzo.com/blog/2017/01/13/monzo-extraordinary-ideas-board->www.monzo.com/blog/authors/naji-esiri 22
+0152,www.monzo.com/blog/2018/03/22/diversity-and-inclusion->www.monzo.com/blog/team 20
+0153,www.monzo.com/blog/2018/03/22/diversity-and-inclusion->www.monzo.com/blog/authors/maria-campbell 3
+0154,www.monzo.com/blog/2018/03/22/diversity-and-inclusion->www.monzo.com/blog/2018/02/02/user-research 11
+0155,www.monzo.com/blog/2017/05/31/women-in-finance->www.monzo.com/blog/authors/paul-rippon 2
+0156,www.monzo.com/blog/2017/05/31/women-in-finance->www.monzo.com/blog/2016/11/04/living-wage 5
+0157,www.monzo.com/annual-report/2018->www.monzo.com/blog/2018/02/19/third-birthday 5
+0158,www.monzo.com/annual-report/2018->www.monzo.com/blog/2018/04/24/help-tab 3
+0159,www.monzo.com/annual-report/2018->www.monzo.com/blog/2018/01/23/overdraft-update 8
+0160,www.monzo.com/annual-report/2018->www.monzo.com/blog/2018/04/04/ending-prepaid 6
+0161,www.monzo.com/annual-report/2018->www.monzo.com/blog/2018/05/22/making-monzo-better 17
+0162,www.monzo.com/annual-report/2018->www.monzo.com/blog/financial-inclusion 7
+0163,www.monzo.com/annual-report/2018->www.monzo.com/blog/2017/04/05/banking-licence 14
+0164,www.monzo.com/ethics->www.monzo.com/blog/2016/06/07/ethical-banking 7
+0165,www.monzo.com/blog/2016/03/03/crowdfunded->www.monzo.com/blog/2016/08/25/monzo 62
+0166,www.monzo.com/blog/2016/03/03/crowdfunded->www.monzo.com/blog/2016/02/29/crowdfunding-paused 3
+0167,www.monzo.com/blog/2016/03/03/crowdfunded->www.monzo.com/blog/2015/06/01/welcome-to-mondo 8
+0168,www.monzo.com/blog/2016/03/03/crowdfunded->www.monzo.com/blog/2016/02/15/invest-in-mondo 3
+0169,www.monzo.com/blog/2016/03/03/crowdfunded->www.monzo.com/blog/authors/tom-blomfield 27
+0170,www.monzo.com/blog/2018/04/12/gender-pay-gap->www.monzo.com/blog/authors/tara-mansfield 4
+0171,www.monzo.com/blog/2016/05/27/transparent-product-roadmap->www.monzo.com/blog/2016/01/15/the-bringmemondo-results 12
+0172,www.monzo.com/blog/2016/05/27/transparent-product-roadmap->www.monzo.com/blog/2015/10/30/we-are-ready 18
+0173,www.monzo.com/blog/2016/05/27/transparent-product-roadmap->www.monzo.com/blog/2016/02/26/1000000 7
+0174,www.monzo.com/blog/2016/05/27/transparent-product-roadmap->www.monzo.com/blog/2016/04/29/mondo-spending 11
+0175,www.monzo.com/blog/2016/05/27/transparent-product-roadmap->www.monzo.com/blog/2016/05/25/android-v1 4
+0176,www.monzo.com/blog/2019/01/29/2019-features->www.monzo.com/blog/2018/07/02/the-monzo-mission 7
+0177,www.monzo.com/blog/2019/01/29/2019-features->www.monzo.com/blog/authors/lindsey-jayne 1
+0178,www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about->www.monzo.com/blog/2019/01/30/tell-your-friends-to-sign-up 5
+0179,www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about->www.monzo.com/blog/2018/07/18/round-up-monzo-purchases-automatically 9
+0180,www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about->www.monzo.com/blog/authors/beatrice-borbon 66
+0181,www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about->www.monzo.com/blog/2018/12/13/locked-pots 13
+0182,www.monzo.com/blog/2019/04/11/monzo-features-you-need-to-know-about->www.monzo.com/blog/monthly-updates 17
+0183,www.monzo.com/blog/2019/03/22/pausing-cheque-imaging->www.monzo.com/blog/authors/james-berry 4
+0184,www.monzo.com/blog/product-updates->www.monzo.com/blog/2019/02/05/savings-pots-paused 3
+0185,www.monzo.com/blog/product-updates->www.monzo.com/blog/2019/02/27/energy-switching 2
+0186,www.monzo.com/blog/product-updates->www.monzo.com/blog/2019/01/31/flux-monzo-launch 3
+0187,www.monzo.com/blog/product-updates->www.monzo.com/blog/2019/02/07/joint-account-switching 2
+0188,www.monzo.com/blog/product-updates->www.monzo.com/blog/2019/02/04/pay-anyone-link 4
+0189,www.monzo.com/blog/product-updates->www.monzo.com/blog/2019/03/18/custom-pot-images 4
+0190,www.monzo.com/blog/product-updates->www.monzo.com/blog/product-updates/2 2
+0191,www.monzo.com/blog/2019/04/10/living-at-home->www.monzo.com/blog/2019/02/21/money-in-love-jen-dave 3
+0192,www.monzo.com/blog/2019/04/10/living-at-home->www.monzo.com/blog/2019/03/29/money-in-love-ash-bobby 3
+0193,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/11/22/business-banking 5
+0194,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/12/13/shared-tabs 4
+0195,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/10/09/bill-splitting 8
+0196,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/06/25/monzo-international-transfers 10
+0197,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/06/19/gambling-block-self-exclusion 9
+0198,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/12/06/crowdfunding-in-numbers 6
+0199,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/06/07/monzo-on-ifttt 6
+0200,www.monzo.com/blog/2019/01/04/monzo-in-2019->www.monzo.com/blog/2018/11/01/savings-pots 9
+0201,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/08/23/seven-day-switch 5
+0202,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/09/05/monzo-bank-statements 3
+0203,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/10/22/monzo-fscs-protection 5
+0204,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/09/03/is-monzo-free 2
+0205,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/09/07/new-to-the-uk 4
+0206,www.monzo.com/blog/monzo-101->www.monzo.com/blog/monzo-101/2 1
+0207,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/09/04/move-your-salary-to-monzo 2
+0208,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2019/01/16/monzo-plan-ahead 2
+0209,www.monzo.com/blog/monzo-101->www.monzo.com/blog/2018/08/21/budget-with-monzo 22
+0210,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2018/06/05/monzo-exchange-rate 10
+0211,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2017/11/03/simple-signup-kyc 3
+0212,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2018/08/22/launching-3d-secure 8
+0213,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2018/06/28/ticketmaster-breach 5
+0214,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2018/05/24/no-more-monzo-waiting-list 5
+0215,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2018/09/07/ba-data-breach 3
+0216,www.monzo.com/blog/2019/02/06/is-monzo-safe->www.monzo.com/blog/2017/02/24/cloudbleed 4
+0217,www.monzo.com/blog/2019/02/01/bill-splitting->www.monzo.com/blog/2018/04/18/payment-reactions 6
+0218,www.monzo.com/blog/2019/02/01/bill-splitting->www.monzo.com/blog/2018/05/08/nearby-friends 11
+0219,www.monzo.com/blog/2019/04/04/launching-isas->www.monzo.com/blog/authors/moshe-raphaely 1
+0220,www.monzo.com/blog/2019/04/04/launching-isas->www.monzo.com/blog/2018/11/14/isas-explained 8
+0221,www.monzo.com/blog/2019/02/11/business-banking-alpha->www.monzo.com/blog/authors/jordan-shwide 2
+0222,www.monzo.com/blog/2019/03/15/use-monzo-with-housemates->www.monzo.com/blog/2018/08/16/automate-your-finances 7
+0223,www.monzo.com/blog/2019/03/15/use-monzo-with-housemates->www.monzo.com/blog/2018/08/23/schedule-payments-out-of-pots 5
+0224,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage->www.monzo.com/blog/2018/10/10/p60-p45-p11d-paye-forms 4
+0225,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage->www.monzo.com/blog/2018/08/08/better-credit-score 17
+0226,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage->www.monzo.com/blog/2018/11/23/how-to-save-for-a-house-deposit 12
+0227,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage->www.monzo.com/blog/2018/10/04/guarantors-how-and-why 6
+0228,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage->www.monzo.com/blog/2019/01/18/how-to-budget 13
+0229,www.monzo.com/blog/2019/04/17/how-to-get-a-mortgage->www.monzo.com/blog/2018/07/05/set-a-spending-budget 9
+0230,www.monzo.com/university/lost-or-stolen-bank-card->www.monzo.com/blog/2018/06/11/lost-or-stolen-card 3
+0231,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/joint-account 5
+0232,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/close-joint-account-how-to 1
+0233,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/create-pot-how-to 5
+0234,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/types-account-switch 1
+0235,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/what-joint-account 5
+0236,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/current-account-joint-account 5
+0237,www.monzo.com/help/joint-accounts->www.monzo.com/help/joint-accounts/set-up-joint-account 1
+0238,www.monzo.com/help/business-accounts->www.monzo.com/help/business-accounts/do-monzo-offer-business-accounts 3
+0239,www.monzo.com/help/business-accounts->www.monzo.com/help/business-accounts/using-current-account-for-business 3
+0240,www.monzo.com/help/business-accounts->www.monzo.com/help/business-accounts/fees 3
+0241,www.monzo.com/help/business-accounts->www.monzo.com/help/business-accounts/access-rights 3
+0242,www.monzo.com/help/business-accounts->www.monzo.com/help/business-accounts/fscs-protection 3
+0243,www.monzo.com/help/business-accounts->www.monzo.com/help/business-accounts/eligible-businesses 3
+0244,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/what-is-ifttt 4
+0245,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/close-account 1
+0246,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/update-legal-name 5
+0247,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/my-limits 1
+0248,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/account-details 1
+0249,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/share-with-us 5
+0250,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/labs-what-is 4
+0251,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/update-phone-number 5
+0252,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/IFTTT-set-up 4
+0253,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/update-home-address 5
+0254,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/update-tax-residency 5
+0255,www.monzo.com/help/account-and-profile->www.monzo.com/help/account-and-profile/IFTTT-login 4
+0256,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/branches 8
+0257,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/tax-status-us 1
+0258,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/deposit-protection-fscs 8
+0259,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/what-tax-status 4
+0260,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/selfie-during-signup 4
+0261,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/us-subsidiary-gdpr 4
+0262,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/tax-status-eu 4
+0263,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/writing-to-legal-team 8
+0264,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/update-tax-residency 1
+0265,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/information-facebook 4
+0266,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/information-sharing 4
+0267,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/uk-tax-resident 4
+0268,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/closed-account-bank-statement 1
+0269,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/us-tax-status 4
+0270,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/terms-conditions 8
+0271,www.monzo.com/help/legal-stuff->www.monzo.com/help/legal-stuff/privacy-policy 8
+0272,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/standing-order-cancel 2
+0273,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/duplicate-notifications-apple-pay 1
+0274,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/adding-card-to-apple-pay 10
+0275,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/cheque-how-to-pay 4
+0276,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/apple-pay-payment-limit 1
+0277,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/cash-deposit-how-to 5
+0278,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/standing-order-set-up 2
+0279,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/remove-monzo-card-from-apple-pay 10
+0280,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/using-google-pay-card-frozen 1
+0281,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/apple-pay-devices 10
+0282,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/bank-transfer-how-to 1
+0283,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/adding-card-to-google-pay 10
+0284,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/monzo-default-apple-pay-card 10
+0285,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/pay-with-monzo-cheque 4
+0286,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/cash-deposit-limit 5
+0287,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/card-not-accepted-paypoint 5
+0288,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/making-monzo-default-card-google-pay 1
+0289,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/google-pay-payment-limit 1
+0290,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/paypoint-fee-why 5
+0291,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/cheque-foreign-currency 4
+0292,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/deposit-cash-how-to 4
+0293,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/adding-money-to-account 2
+0294,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/moving-salary-to-monzo 2
+0295,www.monzo.com/help/payments-getting-started->www.monzo.com/help/payments-getting-started/cash-deposit-limit-why 5
+0296,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/golden-ticket-what 5
+0297,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/how-refer-friends 5
+0298,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/split-bill 5
+0299,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/where-golden-tickets 5
+0300,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/sending-money-monzo-to-monzo 5
+0301,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/what-nearby-friends 5
+0302,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/golden-ticket 5
+0303,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/monzo-me-how-to 5
+0304,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/havent-received-referral-bonus 5
+0305,www.monzo.com/help/monzo-with-friends->www.monzo.com/help/monzo-with-friends/how-to-pay-someone 5
+0306,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/i-want-second-card 1
+0307,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/dont-know-forgot-pin 3
+0308,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/does-support-3dsecure 8
+0309,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/frozen-card-payment 1
+0310,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/what-is-magstripe 8
+0311,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/how-to 8
+0312,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/monzo-card-accepted-everywhere 8
+0313,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/payment-declined 1
+0314,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/want-to-change-pin 3
+0315,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/take-out-cash-atm-locator 8
+0316,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/account-blocked 3
+0317,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/is-it-credit-card 1
+0318,www.monzo.com/help/monzo-card-pin->www.monzo.com/help/monzo-card-pin/contactless-not-working 1
+0319,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-to-set-custom-dates-summary 1
+0320,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/switching-off-overdraft 1
+0321,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/overdrafts-fees 8
+0322,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/turning-off-unlock 2
+0323,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-does-the-summary-dial-work 7
+0324,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/when-is-interest-paid 7
+0325,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/what-is-left-to-spend 7
+0326,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-to-close-pot 6
+0327,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/pots-with-overdrafts 6
+0328,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/joint-account 1
+0329,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/what-is-a-pot 6
+0330,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/is-protected 7
+0331,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/create-pot-how-to 6
+0332,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/exporting-my-transactions 1
+0333,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/unauthorised-overdrafts 1
+0334,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-does-interest-work 7
+0335,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/do-monzo-hold-money 7
+0336,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/what-is-an-overdraft 8
+0337,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/overdrafts-credit-score 8
+0338,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/where-is-agreement 1
+0339,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/changing-overdraft-limit 1
+0340,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-to-set-payday 7
+0341,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/moving-money-to-from-pots 6
+0342,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/round-ip-pots 1
+0343,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-to-open-overdraft 8
+0344,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/summary-left-over 7
+0345,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/what-are-locked-pots 2
+0346,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/how-do-overdrafts-work 8
+0347,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/what-is-summary 7
+0348,www.monzo.com/help/budgeting-overdrafts-savings->www.monzo.com/help/budgeting-overdrafts-savings/when-can-i-withdraw 7
+0349,www.monzo.com/help/switching-to-monzo->www.monzo.com/help/switching-to-monzo/cass-full-switch-what 5
+0350,www.monzo.com/help/switching-to-monzo->www.monzo.com/help/switching-to-monzo/cass-status-update 5
+0351,www.monzo.com/help/switching-to-monzo->www.monzo.com/help/switching-to-monzo/cass-partial-switch-what 5
+0352,www.monzo.com/help/switching-to-monzo->www.monzo.com/help/switching-to-monzo/cass-what 5
+0353,www.monzo.com/help/switching-to-monzo->www.monzo.com/help/switching-to-monzo/cass-cancel-how-to 5
+0354,www.monzo.com/help/switching-to-monzo->www.monzo.com/help/switching-to-monzo/reasons-to-switch 1
+0355,www.monzo.com/help/emergencies->www.monzo.com/help/emergencies/take-out-cash-atm-locator 6
+0356,www.monzo.com/help/emergencies->www.monzo.com/help/emergencies/make-complaint 6
+0357,www.monzo.com/help/emergencies->www.monzo.com/help/emergencies/monzo-card-lost-damaged-stolen 6
+0358,www.monzo.com/help/emergencies->www.monzo.com/help/emergencies/lost-phone 6
+0359,www.monzo.com/help/emergencies->www.monzo.com/help/emergencies/report-fraud 1
+0360,www.monzo.com/help/emergencies->www.monzo.com/help/emergencies/monzo-card-blocked 6
+0361,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/frozen-card-payment 1
+0362,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/bank-transfer-hasnt-arrived 2
+0363,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/nearby-friends-help 3
+0364,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/payments-help-friend 3
+0365,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/balance-incorrect 1
+0366,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/standing-order-failed 2
+0367,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/hsbc-bank-transfer 2
+0368,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/monzo-card-blocked 1
+0369,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/direct-debit-failed 2
+0370,www.monzo.com/help/payments-troubleshooting->www.monzo.com/help/payments-troubleshooting/payments-help-monzo 3
+0371,www.monzo.com/help/crowdfunding->www.monzo.com/help/crowdfunding/invest-monzo 2
+0372,www.monzo.com/help/crowdfunding->www.monzo.com/help/crowdfunding/crowdfunding-what-monzo 1
+0373,www.monzo.com/help/crowdfunding->www.monzo.com/help/crowdfunding/how-invest-monzo 1
+0374,www.monzo.com/help/crowdfunding->www.monzo.com/help/crowdfunding/sell-monzo-shares 1
+0375,www.monzo.com/help/app-help->www.monzo.com/help/app-help/logging-out 4
+0376,www.monzo.com/help/app-help->www.monzo.com/help/app-help/changing-notifications 4
+0377,www.monzo.com/help/app-help->www.monzo.com/help/app-help/reporting-bugs 4
+0378,www.monzo.com/help/app-help->www.monzo.com/help/app-help/google-pay-payment-limit 1
+0379,www.monzo.com/help/app-help->www.monzo.com/help/app-help/adding-card-to-apple-pay 10
+0380,www.monzo.com/help/app-help->www.monzo.com/help/app-help/where-can-I-use-flux 5
+0381,www.monzo.com/help/app-help->www.monzo.com/help/app-help/duplicate-notifications-apple-pay 1
+0382,www.monzo.com/help/app-help->www.monzo.com/help/app-help/apple-pay-payment-limit 1
+0383,www.monzo.com/help/app-help->www.monzo.com/help/app-help/monzo-default-apple-pay-card 10
+0384,www.monzo.com/help/app-help->www.monzo.com/help/app-help/flux-information-sharing 5
+0385,www.monzo.com/help/app-help->www.monzo.com/help/app-help/loyalty-points-with-flux 5
+0386,www.monzo.com/help/app-help->www.monzo.com/help/app-help/making-monzo-default-card-google-pay 1
+0387,www.monzo.com/help/app-help->www.monzo.com/help/app-help/using-google-pay-card-frozen 1
+0388,www.monzo.com/help/app-help->www.monzo.com/help/app-help/remove-monzo-card-from-apple-pay 10
+0389,www.monzo.com/help/app-help->www.monzo.com/help/app-help/turning-on-flux 5
+0390,www.monzo.com/help/app-help->www.monzo.com/help/app-help/what-is-flux 5
+0391,www.monzo.com/help/app-help->www.monzo.com/help/app-help/adding-card-to-google-pay 10
+0392,www.monzo.com/help/app-help->www.monzo.com/help/app-help/authorising-with-fingerprint 4
+0393,www.monzo.com/help/app-help->www.monzo.com/help/app-help/apple-pay-devices 10
+0394,www.monzo.com/help/travelling->www.monzo.com/help/travelling/monzo-card-accepted-everywhere 1
+0395,www.monzo.com/help/travelling->www.monzo.com/help/travelling/going-abroad 7
+0396,www.monzo.com/help/travelling->www.monzo.com/help/travelling/moving-abroad 7
+0397,www.monzo.com/help/travelling->www.monzo.com/help/travelling/tips-for-using-monzo-abroad 7
+0398,www.monzo.com/help/travelling->www.monzo.com/help/travelling/monzo-exchange-rate 1
+0399,www.monzo.com/help/travelling->www.monzo.com/help/travelling/fees-charges-abroad 7
+0400,www.monzo.com/help/travelling->www.monzo.com/help/travelling/converting-balance-to-another-currency 7
+0401,www.monzo.com/legal/business-account-privacy-policy->www.monzo.com/legal/business-account-fee-information 4
+0402,www.monzo.com/legal/business-account-privacy-policy->www.monzo.com/legal/business-account-fscs-information 4
+0403,www.monzo.com/legal/business-account-privacy-policy->www.monzo.com/legal/business-account-terms-and-conditions 4
+0404,www.monzo.com/blog/2019/03/13/sell-stuff-online-with-monzo->www.monzo.com/blog/2019/02/14/saving-money-when-youre-broke 6
+0405,www.monzo.com/blog/2019/03/04/using-your-credit-card-on-holiday->www.monzo.com/blog/2018/08/09/what-is-a-credit-score 20
+0406,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2018/08/10/earning-money-explained 11
+0407,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2018/11/09/national-living-minimum-wage 3
+0408,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2018/10/24/types-of-savings-account 20
+0409,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2017/11/20/share-options 4
+0410,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2018/11/27/how-to-save-for-retirement 5
+0411,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2018/08/10/student-loans-explained 10
+0412,www.monzo.com/blog/2019/03/08/getting-a-pay-rise->www.monzo.com/blog/2018/09/26/how-to-read-your-payslip 7
+0413,www.monzo.com/blog/2019/03/06/budget-irregular-income->www.monzo.com/blog/2019/02/06/zero-sum-budgeting 7
+0414,www.monzo.com/blog/2019/03/06/budget-irregular-income->www.monzo.com/blog/2019/02/21/piggy-bank-saving 4
+0415,www.monzo.com/blog/2019/03/06/budget-irregular-income->www.monzo.com/blog/2018/07/16/schedule-payments-into-pots 10
+0416,www.monzo.com/blog/2019/02/26/paying-off-debt->www.monzo.com/blog/2018/12/20/self-care-mental-health 5
+0417,www.monzo.com/blog/2019/02/26/paying-off-debt->www.monzo.com/blog/2018/10/05/secured-unsecured-credit 5
+0418,www.monzo.com/blog/2019/04/09/how-can-i-start-saving->www.monzo.com/blog/2018/11/07/pensions-explained 7
+0419,www.monzo.com/blog/2019/04/09/how-can-i-start-saving->www.monzo.com/blog/2018/12/06/find-your-saving-style 3
+0420,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/01/30/cost-of-a-dog 1
+0421,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/01/30/save-money-and-the-planet 2
+0422,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/01/30/cost-of-a-baby 1
+0423,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/01/22/train-delays-and-cancellations 2
+0424,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/01/22/how-to-manage-money-with-children 5
+0425,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/02/19/do-you-need-insurance 2
+0426,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/02/06/50-20-30-budgeting 3
+0427,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/2019/02/04/giving-to-charity-when-youre-broke-markdown 2
+0428,www.monzo.com/blog/how-money-works/2->www.monzo.com/blog/how-money-works/3 2
+0429,www.monzo.com/blog/2017/06/08/host-a-monzo-meetup->www.monzo.com/blog/2017/01/26/our-new-community-page 5
+0430,www.monzo.com/blog/2017/06/08/host-a-monzo-meetup->www.monzo.com/blog/2017/04/27/welcome-to-the-drawing-board 3
+0431,www.monzo.com/blog/2017/06/08/host-a-monzo-meetup->www.monzo.com/blog/community 45
+0432,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/01/18/future-of-prepaid 3
+0433,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/05/30/getting-bank-account-refugee 4
+0434,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/06/01/getting-bank-account-no-fixed-address 5
+0435,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2017/12/06/upgrades-for-all 9
+0436,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/12/11/christmas-gift 4
+0437,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/05/29/financial-inclusion 6
+0438,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/10/31/big-news 3
+0439,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/05/31/getting-bank-account-boat 3
+0440,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/01/10/golden-tickets-are-back 2
+0441,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/authors/tristan-thomas/2 2
+0442,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/04/27/introducing-monzo-labs 13
+0443,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/07/10/making-quarterly-goals-public 12
+0444,www.monzo.com/blog/authors/tristan-thomas->www.monzo.com/blog/2018/05/29/getting-bank-account-immigrant 6
+0445,www.monzo.com/blog/2017/09/13/atm-fees-abroad->www.monzo.com/blog/2017/07/04/releasing-our-annual-report 3
+0446,www.monzo.com/blog/2018/08/15/manage-your-bills-with-monzo->www.monzo.com/blog/2018/06/07/is-monzo-a-bank 6
+0447,www.monzo.com/blog/2018/08/15/manage-your-bills-with-monzo->www.monzo.com/blog/2018/06/22/why-doesnt-monzo-have-branches 6
+0448,www.monzo.com/blog/2018/09/21/protect-yourself-against-fraud-identity-theft->www.monzo.com/blog/2018/07/25/monzo-reliability-report 6
+0449,www.monzo.com/blog/2018/09/21/protect-yourself-against-fraud-identity-theft->www.monzo.com/blog/2018/07/27/how-we-monitor-monzo 8
+0450,www.monzo.com/blog/2018/10/12/what-is-a-good-credit-score->www.monzo.com/blog/2018/10/11/how-to-check-your-credit-score-report 3
+0451,www.monzo.com/blog/authors/peggy-mcgregor->www.monzo.com/blog/authors/peggy-mcgregor/2 2
+0452,www.monzo.com/blog/2018/12/14/your-rights-returning-goods->www.monzo.com/blog/2018/12/12/christmas-shopping-sales 5
+0453,www.monzo.com/blog/2018/11/20/why-we-are-lending->www.monzo.com/blog/authors/richard-cadman 2
+0454,www.monzo.com/blog/2018/11/20/why-we-are-lending->www.monzo.com/blog/2018/04/18/using-a-monzo-overdraft 4
+0455,www.monzo.com/blog/2018/11/20/why-we-are-lending->www.monzo.com/blog/2018/09/25/share-with-us 3
+0456,www.monzo.com/blog/authors/luba-chudnovets->www.monzo.com/blog/2018/12/17/customer-support 2
+0457,www.monzo.com/blog/authors/kate-hollowood->www.monzo.com/blog/authors/kate-hollowood/2 2
+0458,www.monzo.com/blog/money-in-love->www.monzo.com/blog/2019/03/22/money-in-love-katherine-christina 2
+0459,www.monzo.com/blog/money-in-love->www.monzo.com/blog/2019/02/28/money-in-nick-amy 2
+0460,www.monzo.com/blog/money-in-love->www.monzo.com/blog/2019/04/04/money-in-love-nellie-nial 2
+0461,www.monzo.com/blog/money-in-love->www.monzo.com/blog/2019/03/14/money-in-love-lauren-dan 2
+0462,www.monzo.com/blog/money-in-love->www.monzo.com/blog/2019/02/14/money-in-love-frank-charlotte 2
+0463,www.monzo.com/blog/2018/08/14/launching-joint-accounts->www.monzo.com/blog/authors/jami-welch 22
+0464,www.monzo.com/blog/2018/12/05/crowdfunding-closes->www.monzo.com/blog/2018/11/26/crowdfunding 6
+0465,www.monzo.com/blog/2018/12/05/crowdfunding-closes->www.monzo.com/blog/2018/12/05/crowdfunding-starts 4
+0466,www.monzo.com/blog/2018/12/05/crowdfunding-closes->www.monzo.com/blog/authors/team-monzo 16
+0467,www.monzo.com/blog/authors/jonas-huckestein->www.monzo.com/blog/2016/02/03/mondo-api 6
+0468,www.monzo.com/blog/authors/jonas-huckestein->www.monzo.com/blog/2017/05/11/api-update 5
+0469,www.monzo.com/blog/2017/03/09/diversity-and-inclusion->www.monzo.com/blog/2017/01/27/designing-product-mental-health-mind 9
+0470,www.monzo.com/blog/2017/03/09/diversity-and-inclusion->www.monzo.com/blog/2017/02/03/fighting-fraud-with-machine-learning 5
+0471,www.monzo.com/blog/2017/03/09/diversity-and-inclusion->www.monzo.com/blog/2015/11/16/diversity-debt 2
+0472,www.monzo.com/blog/2017/03/06/transparency-dashboard->www.monzo.com/blog/2017/02/23/fundraising-announcement 7
+0473,www.monzo.com/blog/2017/03/06/transparency-dashboard->www.monzo.com/blog/2017/03/05/outage 5
+0474,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/01/17/2018-year-in-monzo 3
+0475,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/monzo-hq/2 2
+0476,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/01/07/progression 2
+0477,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/03/06/engineering-with-no-degree 3
+0478,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/01/08/your-year-in-monzo 3
+0479,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/02/26/5-a-side-football 2
+0480,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/02/07/building-progression-frameworks 3
+0481,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2019/03/27/tone-of-voice-birthday 1
+0482,www.monzo.com/blog/monzo-hq->www.monzo.com/blog/2018/12/13/using-monzo-over-christmas 3
+0483,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2018/05/09/sneak-peeks 7
+0484,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/04/06/meet-dan 4
+0485,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2018/05/25/monzo-2.0-events-roundup 2
+0486,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/04/20/crowdfunding-in-numbers 2
+0487,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/06/22/meet-gary 3
+0488,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/07/25/meet-will 3
+0489,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/authors/naji-esiri/2 1
+0490,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/03/31/designers-inspiration 4
+0491,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/10/20/code-club-monzo-meetup 2
+0492,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2018/11/05/monzo-community 2
+0493,www.monzo.com/blog/authors/naji-esiri->www.monzo.com/blog/2017/07/27/monzo-insider 2
+0494,www.monzo.com/blog/team->www.monzo.com/blog/2017/03/22/meet-venkat 4
+0495,www.monzo.com/blog/team->www.monzo.com/blog/2019/03/21/diversity-and-inclusion 2
+0496,www.monzo.com/blog/team->www.monzo.com/blog/2017/12/12/meet-jordan 2
+0497,www.monzo.com/blog/team->www.monzo.com/blog/2017/09/04/meet-phil-hewinson-head-of-partnerships 3
+0498,www.monzo.com/blog/team->www.monzo.com/blog/2017/05/17/meet-tapas 7
+0499,www.monzo.com/blog/team->www.monzo.com/blog/2017/03/09/emma-profile 3
+0500,www.monzo.com/blog/team->www.monzo.com/blog/team/2 1
+0501,www.monzo.com/blog/team->www.monzo.com/blog/2018/07/06/celebrating-pride 2
+0502,www.monzo.com/blog/2018/02/02/user-research->www.monzo.com/blog/design 6
+0503,www.monzo.com/blog/2018/02/02/user-research->www.monzo.com/blog/2017/06/30/tried-and-tested 3
+0504,www.monzo.com/blog/2018/02/02/user-research->www.monzo.com/blog/authors/samantha-davies 3
+0505,www.monzo.com/blog/2018/02/02/user-research->www.monzo.com/blog/2016/04/08/meet-hugo 10
+0506,www.monzo.com/blog/authors/paul-rippon->www.monzo.com/blog/2016/09/07/our-approach-to-overdrafts 5
+0507,www.monzo.com/blog/2018/02/19/third-birthday->www.monzo.com/blog/2017/11/16/monzo-marketplace 10
+0508,www.monzo.com/blog/2018/02/19/third-birthday->www.monzo.com/blog/2018/01/05/2017-in-numbers 4
+0509,www.monzo.com/blog/2018/02/19/third-birthday->www.monzo.com/blog/2017/11/20/pots 22
+0510,www.monzo.com/blog/2018/02/19/third-birthday->www.monzo.com/blog/2018/01/11/2018-plans 10
+0511,www.monzo.com/blog/2018/02/19/third-birthday->www.monzo.com/blog/2018/01/31/end-of-prepaid 9
+0512,www.monzo.com/blog/2018/02/19/third-birthday->www.monzo.com/blog/2017/12/18/why-upgrade 16
+0513,www.monzo.com/blog/2018/04/24/help-tab->www.monzo.com/blog/2017/10/30/monzo-to-monzo-payments 5
+0514,www.monzo.com/blog/2018/04/24/help-tab->www.monzo.com/blog/authors/bruno-vaz-moço 1
+0515,www.monzo.com/blog/2018/04/24/help-tab->www.monzo.com/blog/2017/05/03/practical-machine-learning-for-startups 4
+0516,www.monzo.com/blog/2018/04/24/help-tab->www.monzo.com/blog/2018/04/05/april-update 10
+0517,www.monzo.com/blog/2018/01/23/overdraft-update->www.monzo.com/blog/authors/maria-boghiu 2
+0518,www.monzo.com/blog/2018/01/23/overdraft-update->www.monzo.com/university/credit-score 3
+0519,www.monzo.com/blog/2018/01/23/overdraft-update->www.monzo.com/blog/2017/08/24/overdraft-preview 7
+0520,www.monzo.com/blog/2018/04/04/ending-prepaid->www.monzo.com/blog/2018/01/26/upgrade-credit-score 6
+0521,www.monzo.com/blog/2018/04/04/ending-prepaid->www.monzo.com/blog/2018/03/19/500k-customers 5
+0522,www.monzo.com/blog/2018/04/04/ending-prepaid->www.monzo.com/features/android-pay 11
+0523,www.monzo.com/blog/2018/04/04/ending-prepaid->www.monzo.com/blog/2018/02/01/upgrade-bank-accounts 8
+0524,www.monzo.com/blog/2018/04/04/ending-prepaid->www.monzo.com/blog/2016/03/17/beta 18
+0525,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/08/21/savings-update 10
+0526,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/08/08/making-bills-easier-to-manage 6
+0527,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/05/25/improving-merchant-acceptance 5
+0528,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/05/17/apple-pay-is-here 7
+0529,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/authors/jordan-fish 4
+0530,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/07/05/fingerprint-pay-android 6
+0531,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/06/06/android-updates-travel-reports 6
+0532,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/blog/2018/06/21/paying-cheques-into-monzo 7
+0533,www.monzo.com/blog/2018/05/22/making-monzo-better->www.monzo.com/makingmonzo 5
+0534,www.monzo.com/blog/2017/04/05/banking-licence->www.monzo.com/blog/2016/12/07/monzo-me 12
+0535,www.monzo.com/blog/2017/04/05/banking-licence->www.monzo.com/blog/2016/08/15/launching-the-bank 5
+0536,www.monzo.com/blog/2017/04/05/banking-licence->www.monzo.com/blog/2017/03/14/12000000 4
+0537,www.monzo.com/blog/2017/04/05/banking-licence->www.monzo.com/blog/2016/10/03/targets 9
+0538,www.monzo.com/blog/2017/04/05/banking-licence->www.monzo.com/blog/2016/08/11/we-are-now-a-bank 8
+0539,www.monzo.com/blog/2016/06/07/ethical-banking->www.monzo.com/blog/2016/06/03/ask-us-anything-join-the-forum 11
+0540,www.monzo.com/blog/2016/06/07/ethical-banking->www.monzo.com/blog/2015/10/22/the-hidden-costs-of-free-banking 5
+0541,www.monzo.com/blog/2016/08/25/monzo->www.monzo.com/blog/2016/06/13/new-mondo-changing-our-name 5
+0542,www.monzo.com/blog/2016/08/25/monzo->www.monzo.com/blog/2016/06/23/update-on-our-name-change 2
+0543,www.monzo.com/blog/2016/08/25/monzo->www.monzo.com/static/images/blog/2016-08-25-monzo/hoodie.jpg 1
+0544,www.monzo.com/blog/2015/06/01/welcome-to-mondo->www.monzo.com/blog/2015/10/08/making-our-mark 4
+0545,www.monzo.com/blog/authors/tom-blomfield->www.monzo.com/blog/2017/08/04/apology-from-monzo 3
+0546,www.monzo.com/blog/authors/tom-blomfield->www.monzo.com/blog/2017/10/25/current-account-update 3
+0547,www.monzo.com/blog/authors/tom-blomfield->www.monzo.com/blog/2018/06/29/typeform-breach 2
+0548,www.monzo.com/blog/authors/tom-blomfield->www.monzo.com/blog/2018/11/30/setting-record-straight 2
+0549,www.monzo.com/blog/authors/tom-blomfield->www.monzo.com/blog/authors/tom-blomfield/2 2
+0550,www.monzo.com/blog/authors/tara-mansfield->www.monzo.com/blog/2018/11/20/women-in-finance-update 3
+0551,www.monzo.com/blog/authors/tara-mansfield->www.monzo.com/blog/2019/01/30/mental-health 2
+0552,www.monzo.com/blog/2016/01/15/the-bringmemondo-results->www.monzo.com/vote 2
+0553,www.monzo.com/blog/2016/01/15/the-bringmemondo-results->www.monzo.com/blog/2016/01/14/alpha-update 6
+0554,www.monzo.com/blog/2015/10/30/we-are-ready->www.monzo.com/blog/2016/05/09/apple-love-release 8
+0555,www.monzo.com/blog/2015/10/30/we-are-ready->www.monzo.com/blog/2015/07/03/challenge-session 5
+0556,www.monzo.com/blog/2015/10/30/we-are-ready->www.monzo.com/docs 9
+0557,www.monzo.com/blog/2015/10/30/we-are-ready->www.monzo.com/blog/2016/04/11/crowdsourcing-merchant-data 11
+0558,www.monzo.com/blog/2016/04/29/mondo-spending->www.monzo.com/blog/authors/sam-michael 1
+0559,www.monzo.com/blog/2016/05/25/android-v1->www.monzo.com/blog/2016/02/04/marketplace-banking 12
+0560,www.monzo.com/blog/2018/07/02/the-monzo-mission->www.monzo.com/blog/2018/03/20/terms-and-conditions-monzo 6
+0561,www.monzo.com/blog/2018/07/02/the-monzo-mission->www.monzo.com/blog/2018/07/02/publishing-our-2018-annual-report 5
+0562,www.monzo.com/blog/2019/01/30/tell-your-friends-to-sign-up->www.monzo.com/blog/authors/max-white 2
+0563,www.monzo.com/blog/2018/07/18/round-up-monzo-purchases-automatically->www.monzo.com/blog/2018/03/07/coin-jar 10
+0564,www.monzo.com/blog/2018/07/18/round-up-monzo-purchases-automatically->www.monzo.com/blog/authors/robin-bilgil 3
+0565,www.monzo.com/blog/authors/beatrice-borbon->www.monzo.com/blog/2019/03/28/wow-air-collapse 2
+0566,www.monzo.com/blog/authors/beatrice-borbon->www.monzo.com/blog/authors/beatrice-borbon/2 2
+0567,www.monzo.com/blog/authors/beatrice-borbon->www.monzo.com/blog/2018/10/03/q4-goals-public 4
+0568,www.monzo.com/blog/authors/beatrice-borbon->www.monzo.com/blog/2018/12/11/december-update 4
+0569,www.monzo.com/blog/authors/beatrice-borbon->www.monzo.com/blog/2018/11/08/monzo-transparency 2
+0570,www.monzo.com/blog/authors/beatrice-borbon->www.monzo.com/blog/2018/11/12/november-update 4
+0571,www.monzo.com/blog/2018/12/13/locked-pots->www.monzo.com/blog/2018/12/10/joint-pots 4
+0572,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2018/07/05/july-update 4
+0573,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2018/10/01/october-update 6
+0574,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2018/08/03/august-update 4
+0575,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2019/04/05/april-monthly-update 2
+0576,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/monthly-updates/2 1
+0577,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2019/01/09/january-monthly-update 4
+0578,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2018/06/04/june-update 5
+0579,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2019/03/06/march-monthly-update 3
+0580,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2018/09/04/september-update 4
+0581,www.monzo.com/blog/monthly-updates->www.monzo.com/blog/2019/02/13/february-monthly-update 2
+0582,www.monzo.com/blog/authors/james-berry->www.monzo.com/blog/2018/07/24/what-is-sepa 3
+0583,www.monzo.com/blog/authors/james-berry->www.monzo.com/blog/2018/07/24/receiving-international-payments 6
+0584,www.monzo.com/blog/2019/02/05/savings-pots-paused->www.monzo.com/blog/authors/sheri-farsani 7
+0585,www.monzo.com/blog/2019/02/27/energy-switching->www.monzo.com/blog/authors/benji-portwin 1
+0586,www.monzo.com/blog/2019/02/27/energy-switching->www.monzo.com/blog/2017/09/21/testing-energy-partnerships 6
+0587,www.monzo.com/blog/2019/01/31/flux-monzo-launch->www.monzo.com/blog/authors/kieran-mchugh 3
+0588,www.monzo.com/blog/product-updates/2->www.monzo.com/blog/2018/12/21/android-app-icons 2
+0589,www.monzo.com/blog/product-updates/2->www.monzo.com/blog/2018/11/05/instant-apple-pay 5
+0590,www.monzo.com/blog/product-updates/2->www.monzo.com/blog/2018/11/20/flexible-budgeting 3
+0591,www.monzo.com/blog/product-updates/2->www.monzo.com/blog/product-updates/3 2
+0592,www.monzo.com/blog/product-updates/2->www.monzo.com/blog/2018/11/19/instant-google-pay 3
+0593,www.monzo.com/blog/product-updates/2->www.monzo.com/blog/2018/11/21/deposit-cash 3
+0594,www.monzo.com/blog/2018/11/22/business-banking->www.monzo.com/blog/2018/06/08/adding-money-to-monzo 3
+0595,www.monzo.com/blog/2018/12/13/shared-tabs->www.monzo.com/blog/authors/ole-mahrt 3
+0596,www.monzo.com/blog/2018/06/25/monzo-international-transfers->www.monzo.com/blog/2018/05/25/just-landed 3
+0597,www.monzo.com/blog/2018/06/25/monzo-international-transfers->www.monzo.com/blog/authors/matt-heath 1
+0598,www.monzo.com/blog/2018/06/19/gambling-block-self-exclusion->www.monzo.com/blog/authors/natalie-ledward 3
+0599,www.monzo.com/blog/2018/06/19/gambling-block-self-exclusion->www.monzo.com/blog/mental-health 9
+0600,www.monzo.com/blog/2018/06/19/gambling-block-self-exclusion->www.monzo.com/blog/2018/05/16/gambling-self-exclusion 3
+0601,www.monzo.com/blog/2018/12/06/crowdfunding-in-numbers->www.monzo.com/blog/2018/11/23/what-is-crowdfunding 7
+0602,www.monzo.com/blog/2018/06/07/monzo-on-ifttt->www.monzo.com/blog/2018/04/25/switch-to-monzo 13
+0603,www.monzo.com/blog/2018/11/01/savings-pots->www.monzo.com/blog/authors/constantijn-schepens 1
+0604,www.monzo.com/blog/2018/08/23/seven-day-switch->www.monzo.com/blog/2018/08/22/end-of-the-big-list 8
+0605,www.monzo.com/blog/2018/09/07/new-to-the-uk->www.monzo.com/blog/2018/09/07/open-a-uk-bank-account 4
+0606,www.monzo.com/blog/2018/09/07/new-to-the-uk->www.monzo.com/blog/2018/09/07/moving-to-the-uk 5
+0607,www.monzo.com/blog/monzo-101/2->www.monzo.com/blog/2018/06/06/monzo-golden-tickets 1
+0608,www.monzo.com/blog/2018/08/21/budget-with-monzo->www.monzo.com/blog/authors/richard-cook 4
+0609,www.monzo.com/blog/2018/06/05/monzo-exchange-rate->www.monzo.com/blog/2018/04/26/more-than-one-bank-account 8
+0610,www.monzo.com/blog/2018/06/05/monzo-exchange-rate->www.monzo.com/university/card-payments 2
+0611,www.monzo.com/blog/2017/11/03/simple-signup-kyc->www.monzo.com/blog/authors/natasha-vernier 4
+0612,www.monzo.com/blog/2017/11/03/simple-signup-kyc->www.monzo.com/blog/2017/02/01/natasha-profile 8
+0613,www.monzo.com/blog/2017/11/03/simple-signup-kyc->www.monzo.com/blog/2017/10/10/current-accounts-are-coming 12
+0614,www.monzo.com/blog/2018/08/22/launching-3d-secure->www.monzo.com/blog/2018/07/03/the-big-list-update 11
+0615,www.monzo.com/blog/2018/08/22/launching-3d-secure->www.monzo.com/blog/2018/08/13/test-3d-secure 4
+0616,www.monzo.com/blog/2018/08/22/launching-3d-secure->www.monzo.com/blog/authors/rika-raybould 2
+0617,www.monzo.com/blog/2018/06/28/ticketmaster-breach->www.monzo.com/blog/how-we-protect-you 7
+0618,www.monzo.com/blog/2018/09/07/ba-data-breach->www.monzo.com/blog/authors/priyesh-patel 1
+0619,www.monzo.com/blog/2017/02/24/cloudbleed->www.monzo.com/blog/technology 28
+0620,www.monzo.com/blog/2017/02/24/cloudbleed->www.monzo.com/blog/authors/oliver-beattie 5
+0621,www.monzo.com/blog/2018/05/08/nearby-friends->www.monzo.com/blog/authors/andy-smart 3
+0622,www.monzo.com/blog/2018/05/08/nearby-friends->www.monzo.com/blog/2016/11/14/monzo-with-friends 6
+0623,www.monzo.com/blog/2018/08/08/better-credit-score->www.monzo.com/blog/2018/04/30/switching-bank-accounts-overdraft 8
+0624,www.monzo.com/blog/2018/10/04/guarantors-how-and-why->www.monzo.com/blog/2018/09/10/renting-student-accommodation 5
+0625,www.monzo.com/blog/2019/01/18/how-to-budget->www.monzo.com/blog/2018/11/28/how-to-save-for-a-wedding 3
+0626,www.monzo.com/blog/2018/06/11/lost-or-stolen-card->www.monzo.com/blog/2017/05/15/intro-to-cops 15
+0627,www.monzo.com/help/legal-stuff/terms-conditions->www.monzo.com/terms 6
+0628,www.monzo.com/legal/business-account-fee-information->www.monzo.com/legal/business-account-fee-information/version-1-1 1
+0629,www.monzo.com/blog/2019/02/14/saving-money-when-youre-broke->www.monzo.com/blog/2018/08/30/manage-your-bills 8
+0630,www.monzo.com/blog/2018/08/10/earning-money-explained->www.monzo.com/features/16-plus 6
+0631,www.monzo.com/blog/2018/11/09/national-living-minimum-wage->www.monzo.com/blog/2018/10/30/what-is-inflation 4
+0632,www.monzo.com/blog/2017/11/20/share-options->www.monzo.com/blog/2017/11/07/investment-announcement 3
+0633,www.monzo.com/blog/2018/07/16/schedule-payments-into-pots->www.monzo.com/blog/authors/vuokko-aro 1
+0634,www.monzo.com/blog/2018/12/20/self-care-mental-health->www.monzo.com/blog/2018/05/18/voluntary-disclosure 5
+0635,www.monzo.com/blog/2018/12/06/find-your-saving-style->www.monzo.com/blog/2018/07/19/set-savings-goals 5
+0636,www.monzo.com/blog/2019/01/22/train-delays-and-cancellations->www.monzo.com/blog/2018/12/18/your-rights-flight-delays-cancellations 4
+0637,www.monzo.com/blog/how-money-works/3->www.monzo.com/blog/2019/01/21/get-fit-on-a-budget 1
+0638,www.monzo.com/blog/how-money-works/3->www.monzo.com/blog/how-money-works/4 2
+0639,www.monzo.com/blog/how-money-works/3->www.monzo.com/blog/2019/01/22/how-to-save-money-on-train-travel 2
+0640,www.monzo.com/blog/how-money-works/3->www.monzo.com/blog/2018/12/13/throw-achristmas-party-on-a-budget 1
+0641,www.monzo.com/blog/how-money-works/3->www.monzo.com/blog/2018/12/20/how-to-get-therapy 1
+0642,www.monzo.com/blog/2017/01/26/our-new-community-page->www.monzo.com/blog/2016/10/06/monzo-shop 3
+0643,www.monzo.com/blog/community->www.monzo.com/blog/community/2 2
+0644,www.monzo.com/blog/community->www.monzo.com/blog/2018/05/21/monzo-2.0-launch 2
+0645,www.monzo.com/blog/community->www.monzo.com/blog/2017/07/13/launching-monzo-university 3
+0646,www.monzo.com/blog/community->www.monzo.com/blog/2018/05/16/coral-crew 5
+0647,www.monzo.com/blog/community->www.monzo.com/blog/2017/09/01/open-office-august 2
+0648,www.monzo.com/blog/community->www.monzo.com/blog/2018/11/09/employee-social-media-guidelines 2
+0649,www.monzo.com/blog/community->www.monzo.com/blog/2018/11/07/making-monzo-roadmap 2
+0650,www.monzo.com/blog/2018/01/18/future-of-prepaid->www.monzo.com/why-upgrade 6
+0651,www.monzo.com/blog/2017/12/06/upgrades-for-all->www.monzo.com/blog/2017/12/01/top-ups-are-back 3
+0652,www.monzo.com/blog/2017/12/06/upgrades-for-all->www.monzo.com/blog/2017/11/23/2017-todo-list 4
+0653,www.monzo.com/blog/2018/01/10/golden-tickets-are-back->www.monzo.com/blog/2016/10/17/wonderful-surprises 5
+0654,www.monzo.com/blog/authors/tristan-thomas/2->www.monzo.com/blog/2017/05/22/top-up-with-android-pay 2
+0655,www.monzo.com/blog/authors/tristan-thomas/2->www.monzo.com/blog/2017/06/13/identity-verification-upgrade 1
+0656,www.monzo.com/blog/authors/tristan-thomas/2->www.monzo.com/blog/2017/08/07/current-account-android 5
+0657,www.monzo.com/blog/authors/tristan-thomas/2->www.monzo.com/blog/2017/08/23/preview-distance-signup 1
+0658,www.monzo.com/blog/authors/tristan-thomas/2->www.monzo.com/blog/authors/tristan-thomas/3 2
+0659,www.monzo.com/blog/2018/04/27/introducing-monzo-labs->www.monzo.com/blog/2018/03/01/marketplace-beta 4
+0660,www.monzo.com/blog/2018/07/10/making-quarterly-goals-public->www.monzo.com/blog/2018/06/14/bill-tracker 7
+0661,www.monzo.com/blog/2018/07/10/making-quarterly-goals-public->www.monzo.com/blog/2018/05/23/monzo-2.0-summary-for-all 7
+0662,www.monzo.com/blog/2018/07/10/making-quarterly-goals-public->www.monzo.com/blog/2018/07/04/making-recurring-payments-better 7
+0663,www.monzo.com/blog/2017/07/04/releasing-our-annual-report->www.monzo.com/blog/2017/05/16/200k-250m 4
+0664,www.monzo.com/blog/2018/06/07/is-monzo-a-bank->www.monzo.com/blog/2018/02/09/upgrade-fscs-protection 1
+0665,www.monzo.com/blog/2018/07/25/monzo-reliability-report->www.monzo.com/blog/2018/06/29/engineering-principles 5
+0666,www.monzo.com/blog/2018/07/27/how-we-monitor-monzo->www.monzo.com/blog/authors/chris-evans 2
+0667,www.monzo.com/blog/authors/peggy-mcgregor/2->www.monzo.com/blog/authors/peggy-mcgregor/3 2
+0668,www.monzo.com/blog/authors/richard-cadman->www.monzo.com/blog/2018/08/17/pin-lock-update 4
+0669,www.monzo.com/blog/2018/09/25/share-with-us->www.monzo.com/blog/2018/05/15/meet-vulnerable-customers-team 9
+0670,www.monzo.com/blog/2018/12/17/customer-support->www.monzo.com/blog/customer-support 10
+0671,www.monzo.com/blog/2018/12/17/customer-support->www.monzo.com/blog/2018/12/11/las-vegas-office 3
+0672,www.monzo.com/blog/2018/12/17/customer-support->www.monzo.com/blog/2018/10/18/work-at-monzo 3
+0673,www.monzo.com/blog/2018/12/17/customer-support->www.monzo.com/blog/2018/08/02/urgent-questions 3
+0674,www.monzo.com/blog/authors/kate-hollowood/2->www.monzo.com/blog/authors/kate-hollowood/3 2
+0675,www.monzo.com/blog/authors/jami-welch->www.monzo.com/blog/authors/jami-welch/2 1
+0676,www.monzo.com/blog/authors/jami-welch->www.monzo.com/blog/2018/10/16/making-monzo-better 2
+0677,www.monzo.com/blog/authors/jami-welch->www.monzo.com/blog/2018/08/02/pots-goals 3
+0678,www.monzo.com/blog/authors/team-monzo->www.monzo.com/blog/2018/08/07/money-and-our-younger-selves 2
+0679,www.monzo.com/blog/authors/team-monzo->www.monzo.com/blog/authors/team-monzo/2 1
+0680,www.monzo.com/blog/authors/team-monzo->www.monzo.com/blog/2017/07/17/current-account-preview 10
+0681,www.monzo.com/blog/2016/02/03/mondo-api->www.monzo.com/blog/2015/11/22/mondohack 6
+0682,www.monzo.com/blog/2016/02/03/mondo-api->www.monzo.com/blog/2015/11/30/mondohack-2 6
+0683,www.monzo.com/blog/2016/02/03/mondo-api->www.monzo.com/blog/2015/11/05/why-api-driven-banking-matters 7
+0684,www.monzo.com/blog/2017/05/11/api-update->www.monzo.com/blog/2015/10/01/the-first-mondo-hackathon 4
+0685,www.monzo.com/blog/2017/05/11/api-update->www.monzo.com/blog/2016/04/21/mondohack-iv 6
+0686,www.monzo.com/blog/2017/01/27/designing-product-mental-health-mind->www.monzo.com/blog/authors/zander-brade 3
+0687,www.monzo.com/blog/2017/02/03/fighting-fraud-with-machine-learning->www.monzo.com/blog/2017/01/31/fincrime-and-security-week-introduction 5
+0688,www.monzo.com/blog/2017/02/03/fighting-fraud-with-machine-learning->www.monzo.com/blog/authors/daniel-chatfield 2
+0689,www.monzo.com/blog/2017/02/03/fighting-fraud-with-machine-learning->www.monzo.com/blog/2017/01/24/100000th-user 5
+0690,www.monzo.com/blog/2015/11/16/diversity-debt->www.monzo.com/blog/2016/02/09/meet-leah 6
+0691,www.monzo.com/blog/2015/11/16/diversity-debt->www.monzo.com/blog/2015/08/04/meet-paul-rippon 6
+0692,www.monzo.com/blog/2015/11/16/diversity-debt->www.monzo.com/blog/authors/leah-templeman 3
+0693,www.monzo.com/blog/2017/03/05/outage->www.monzo.com/blog/2015/12/02/3-second-sandwich 7
+0694,www.monzo.com/blog/2017/03/05/outage->www.monzo.com/blog/2016/09/19/building-a-modern-bank-backend 11
+0695,www.monzo.com/blog/monzo-hq/2->www.monzo.com/blog/2018/09/06/moving-monzo 2
+0696,www.monzo.com/blog/monzo-hq/2->www.monzo.com/blog/monzo-hq/3 2
+0697,www.monzo.com/blog/monzo-hq/2->www.monzo.com/blog/2018/11/06/how-to-name-something 3
+0698,www.monzo.com/blog/monzo-hq/2->www.monzo.com/blog/2018/11/15/card-controls 2
+0699,www.monzo.com/blog/monzo-hq/2->www.monzo.com/blog/2018/09/24/one-million-monzo-customers 2
+0700,www.monzo.com/blog/2019/01/07/progression->www.monzo.com/blog/authors/emma-northcott 3
+0701,www.monzo.com/blog/2019/01/07/progression->www.monzo.com/blog/2018/06/25/monzos-transparent-engineering-progression-framework 4
+0702,www.monzo.com/blog/2019/03/06/engineering-with-no-degree->www.monzo.com/blog/authors/jack-kleeman 3
+0703,www.monzo.com/blog/2019/03/27/tone-of-voice-birthday->www.monzo.com/blog/authors/harry-ashbridge 4
+0704,www.monzo.com/blog/2019/03/27/tone-of-voice-birthday->www.monzo.com/blog/2018/03/27/tone-of-voice 4
+0705,www.monzo.com/blog/2017/04/06/meet-dan->www.monzo.com/blog/2017/02/08/meet-irina 4
+0706,www.monzo.com/blog/2017/04/06/meet-dan->www.monzo.com/blog/2017/02/22/josh-profile 6
+0707,www.monzo.com/blog/2018/05/25/monzo-2.0-events-roundup->www.monzo.com/blog/2017/12/01/cardiff 3
+0708,www.monzo.com/blog/2018/05/25/monzo-2.0-events-roundup->www.monzo.com/blog/authors/hugo-cornejo 2
+0709,www.monzo.com/blog/2018/05/25/monzo-2.0-events-roundup->www.monzo.com/blog/authors/stuart-mcfadden 3
+0710,www.monzo.com/blog/2017/04/20/crowdfunding-in-numbers->www.monzo.com/blog/2017/02/28/crowdfunding 3
+0711,www.monzo.com/blog/authors/naji-esiri/2->www.monzo.com/blog/2016/10/19/target-practice 2
+0712,www.monzo.com/blog/authors/naji-esiri/2->www.monzo.com/blog/2016/09/20/monzo-journals-philippines 2
+0713,www.monzo.com/blog/authors/naji-esiri/2->www.monzo.com/blog/2017/01/11/customer-support-quotables 2
+0714,www.monzo.com/blog/authors/naji-esiri/2->www.monzo.com/blog/2016/12/05/old-street-shopping-event 4
+0715,www.monzo.com/blog/authors/naji-esiri/2->www.monzo.com/blog/2017/01/06/year-in-numbers 4
+0716,www.monzo.com/blog/authors/naji-esiri/2->www.monzo.com/blog/2016/12/12/christmas-faqs 3
+0717,www.monzo.com/blog/2018/11/05/monzo-community->www.monzo.com/blog/2018/06/21/how-to-get-online-in-an-emergency 4
+0718,www.monzo.com/blog/2017/07/27/monzo-insider->www.monzo.com/blog/2017/07/18/new-help-search 4
+0719,www.monzo.com/blog/2017/03/22/meet-venkat->www.monzo.com/blog/authors/zainab-khan 6
+0720,www.monzo.com/blog/2017/12/12/meet-jordan->www.monzo.com/blog/2017/11/03/simple-signup-KYC 5
+0721,www.monzo.com/blog/2017/03/09/emma-profile->www.monzo.com/blog/2016/09/29/android 8
+0722,www.monzo.com/blog/2017/03/09/emma-profile->www.monzo.com/blog/2016/12/06/payments-android 5
+0723,www.monzo.com/blog/2017/03/09/emma-profile->www.monzo.com/blog/2017/02/09/launching-settings-android 3
+0724,www.monzo.com/blog/team/2->www.monzo.com/blog/2016/03/10/meet-jonas 4
+0725,www.monzo.com/blog/2018/07/06/celebrating-pride->www.monzo.com/blog/authors/angus-preston 1
+0726,www.monzo.com/blog/design->www.monzo.com/blog/2018/08/07/understanding-how-young-people-manage-money 3
+0727,www.monzo.com/blog/design->www.monzo.com/blog/2019/01/17/monzo-product-designer-jobs 2
+0728,www.monzo.com/blog/design->www.monzo.com/blog/2018/12/11/design-files-system 5
+0729,www.monzo.com/blog/design->www.monzo.com/blog/2019/02/11/user-research-analysis 2
+0730,www.monzo.com/blog/design->www.monzo.com/blog/2019/02/11/internal-product-design 2
+0731,www.monzo.com/blog/2017/06/30/tried-and-tested->www.monzo.com/blog/2017/05/08/android-pay-on-monzome 3
+0732,www.monzo.com/blog/2017/06/30/tried-and-tested->www.monzo.com/blog/2017/04/05/profile-pictures-update 2
+0733,www.monzo.com/blog/2017/06/30/tried-and-tested->www.monzo.com/blog/authors/priscila-minks-zanuzzo 1
+0734,www.monzo.com/blog/2016/09/07/our-approach-to-overdrafts->www.monzo.com/blog/banking-and-regulation 11
+0735,www.monzo.com/blog/2017/11/16/monzo-marketplace->www.monzo.com/blog/authors/phil-hewinson 3
+0736,www.monzo.com/blog/2017/11/16/monzo-marketplace->www.monzo.com/blog/partnerships 3
+0737,www.monzo.com/blog/2017/11/20/pots->www.monzo.com/blog/authors/valerio-magliulo 3
+0738,www.monzo.com/blog/2018/01/11/2018-plans->www.monzo.com/current-account/live 7
+0739,www.monzo.com/blog/2017/12/18/why-upgrade->www.monzo.com/blog/upgrading-explained 5
+0740,www.monzo.com/blog/2017/12/18/why-upgrade->www.monzo.com/blog/2017/10/24/android-pay 3
+0741,www.monzo.com/blog/2017/05/03/practical-machine-learning-for-startups->www.monzo.com/blog/2016/11/30/laying-the-foundation-for-a-data-team 5
+0742,www.monzo.com/blog/2017/05/03/practical-machine-learning-for-startups->www.monzo.com/blog/authors/dimitri-masin 2
+0743,www.monzo.com/blog/2018/04/05/april-update->www.monzo.com/blog/2018/02/28/march-update 4
+0744,www.monzo.com/blog/2018/04/05/april-update->www.monzo.com/blog/2018/03/15/fingerprint-unlock 2
+0745,www.monzo.com/blog/2018/04/05/april-update->www.monzo.com/blog/2018/04/03/switch-to-monzo-current-account-switch-service 3
+0746,www.monzo.com/blog/2017/08/24/overdraft-preview->www.monzo.com/blog/authors/venkat-srinivasan 1
+0747,www.monzo.com/blog/2016/03/17/beta->www.monzo.com/blog/2016/01/22/introducing-your-spending 4
+0748,www.monzo.com/blog/2018/05/25/improving-merchant-acceptance->www.monzo.com/blog/authors/louis-cox 1
+0749,www.monzo.com/blog/2018/05/17/apple-pay-is-here->www.monzo.com/blog/authors/daniel-cannon 7
+0750,www.monzo.com/blog/authors/jordan-fish->www.monzo.com/blog/2018/07/13/joints-accounts-in-labs 4
+0751,www.monzo.com/blog/2018/07/05/fingerprint-pay-android->www.monzo.com/blog/2018/07/03/custom-app-icons 4
+0752,www.monzo.com/blog/2018/07/05/fingerprint-pay-android->www.monzo.com/blog/authors/kavi-dhokia 4
+0753,www.monzo.com/blog/2018/07/05/fingerprint-pay-android->www.monzo.com/blog/2017/11/14/nfc-card-activation 3
+0754,www.monzo.com/blog/2016/08/15/launching-the-bank->www.monzo.com/blog/2016/06/01/mondo-update-from-tom-in-96-seconds 4
+0755,www.monzo.com/blog/2016/10/03/targets->www.monzo.com/blog/2016/09/12/1-6-3 3
+0756,www.monzo.com/blog/2016/06/03/ask-us-anything-join-the-forum->www.monzo.com/blog/authors/bailey-kursar 12
+0757,www.monzo.com/blog/2016/06/13/new-mondo-changing-our-name->www.monzo.com/new-name 1
+0758,www.monzo.com/blog/2015/10/08/making-our-mark->www.monzo.com/blog/authors/tracy-abraham 2
+0759,www.monzo.com/blog/2015/10/08/making-our-mark->www.monzo.com/blog/2015/06/04/try-the-mondo-card 3
+0760,www.monzo.com/blog/authors/tom-blomfield/2->www.monzo.com/blog/authors/tom-blomfield/3 1
+0761,www.monzo.com/blog/authors/tom-blomfield/2->www.monzo.com/blog/2016/01/20/how-do-bank-payments-work 5
+0762,www.monzo.com/blog/authors/tom-blomfield/2->www.monzo.com/blog/2015/12/15/why-are-foreign-card-payments-such-a-mess 4
+0763,www.monzo.com/docs->www.monzo.com/blog/2018/01/12/api-update 5
+0764,www.monzo.com/blog/2018/03/20/terms-and-conditions-monzo->www.monzo.com/blog/authors/dean-nash 1
+0765,www.monzo.com/blog/2018/03/07/coin-jar->www.monzo.com/blog/authors/simon-vans-colina 3
+0766,www.monzo.com/blog/authors/robin-bilgil->www.monzo.com/blog/2019/01/14/crowdfunding-technology-backend-architecture 5
+0767,www.monzo.com/blog/authors/beatrice-borbon/2->www.monzo.com/blog/2018/09/13/student-loans-northern-ireland 2
+0768,www.monzo.com/blog/authors/beatrice-borbon/2->www.monzo.com/blog/authors/beatrice-borbon/3 2
+0769,www.monzo.com/blog/2018/10/03/q4-goals-public->www.monzo.com/blog/2018/08/06/monzo-for-16-18-year-olds 6
+0770,www.monzo.com/blog/2018/10/03/q4-goals-public->www.monzo.com/blog/2018/08/15/split-the-bill 6
+0771,www.monzo.com/blog/2018/10/03/q4-goals-public->www.monzo.com/blog/2018/07/18/our-company-finances 2
+0772,www.monzo.com/blog/2018/10/03/q4-goals-public->www.monzo.com/blog/2018/08/03/measuring-customer-happiness 4
+0773,www.monzo.com/blog/2018/11/08/monzo-transparency->www.monzo.com/blog/2018/06/13/how-card-payments-work 3
+0774,www.monzo.com/blog/2018/11/12/november-update->www.monzo.com/blog/2018/11/02/monzo-chat 4
+0775,www.monzo.com/blog/2018/07/05/july-update->www.monzo.com/features/ifttt 1
+0776,www.monzo.com/blog/2018/07/05/july-update->www.monzo.com/blog/2018/06/07/summary-update-predicting-committed-spending 3
+0777,www.monzo.com/blog/2018/10/01/october-update->www.monzo.com/blog/2018/09/18/ios-app-performance 3
+0778,www.monzo.com/blog/monthly-updates/2->www.monzo.com/blog/2018/02/06/february-update 3
+0779,www.monzo.com/blog/monthly-updates/2->www.monzo.com/blog/2018/05/04/may-update 2
+0780,www.monzo.com/blog/2018/06/04/june-update->www.monzo.com/blog/2018/05/09/new-categories 3
+0781,www.monzo.com/blog/2019/03/06/march-monthly-update->www.monzo.com/isa 1
+0782,www.monzo.com/blog/authors/kieran-mchugh->www.monzo.com/blog/2018/06/28/joining-monzo-engineer-onboarding 2
+0783,www.monzo.com/blog/2018/11/05/instant-apple-pay->www.monzo.com/blog/authors/james-nicholson 3
+0784,www.monzo.com/blog/product-updates/3->www.monzo.com/blog/product-updates/4 2
+0785,www.monzo.com/blog/2018/11/21/deposit-cash->www.monzo.com/blog/authors/david-brandon 1
+0786,www.monzo.com/blog/2018/05/25/just-landed->www.monzo.com/blog/authors/richard-dingwall 2
+0787,www.monzo.com/blog/mental-health->www.monzo.com/blog/2018/05/18/mindfulness-and-wellbeing 3
+0788,www.monzo.com/blog/mental-health->www.monzo.com/blog/2018/05/14/mental-health-awareness-intro 3
+0789,www.monzo.com/blog/authors/natasha-vernier->www.monzo.com/blog/2018/11/30/marriott-data-breach 2
+0790,www.monzo.com/blog/2018/08/13/test-3d-secure->www.monzo.com/blog/authors/dovydas-bartkevicius 1
+0791,www.monzo.com/blog/authors/rika-raybould->www.monzo.com/blog/2017/06/23/new-beginnings-at-Monzo 1
+0792,www.monzo.com/blog/how-we-protect-you->www.monzo.com/blog/2019/04/02/pyramid-schemes-fractal-mandala 2
+0793,www.monzo.com/blog/how-we-protect-you->www.monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts 2
+0794,www.monzo.com/blog/how-we-protect-you->www.monzo.com/blog/2019/02/07/authorised-push-payment-fraud 2
+0795,www.monzo.com/blog/technology->www.monzo.com/blog/2019/02/11/building-monzo-chat-on-android 3
+0796,www.monzo.com/blog/technology->www.monzo.com/blog/2018/12/04/refactoring-old-code 2
+0797,www.monzo.com/blog/technology->www.monzo.com/blog/2019/04/03/deploying-Envoy-Proxy 2
+0798,www.monzo.com/blog/technology->www.monzo.com/blog/2018/03/02/app-development 2
+0799,www.monzo.com/blog/technology->www.monzo.com/blog/2019/01/16/crowdfunding-technology-systems 3
+0800,www.monzo.com/blog/technology->www.monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work 2
+0801,www.monzo.com/blog/technology->www.monzo.com/blog/2019/03/19/improving-our-staff-VPN 1
+0802,www.monzo.com/blog/technology->www.monzo.com/blog/2019/01/15/crowdfunding-technology-testing 5
+0803,www.monzo.com/blog/technology->www.monzo.com/blog/2018/09/20/on-call 3
+0804,www.monzo.com/blog/technology->www.monzo.com/blog/technology/2 2
+0805,www.monzo.com/blog/authors/andy-smart->www.monzo.com/blog/2017/07/07/working-with-backend-services-on-ios 2
+0806,www.monzo.com/blog/2017/05/15/intro-to-cops->www.monzo.com/blog/2017/05/05/why-payments-are-declined 4
+0807,www.monzo.com/blog/how-money-works/4->www.monzo.com/blog/how-money-works/5 2
+0808,www.monzo.com/blog/2018/12/20/how-to-get-therapy->www.monzo.comwww.igalondon.org.uk 1
+0809,www.monzo.com/blog/2016/10/06/monzo-shop->www.monzo.com/blog/2016/08/26/how-we-picked-monzo 3
+0810,www.monzo.com/blog/community/2->www.monzo.com/blog/community/3 2
+0811,www.monzo.com/blog/community/2->www.monzo.com/blog/2016/12/08/our-old-street-shopping-guide 3
+0812,www.monzo.com/blog/community/2->www.monzo.com/blog/2016/12/21/monzo-for-alexa 2
+0813,www.monzo.com/blog/2018/05/21/monzo-2.0-launch->www.monzo.com/blog/2018/04/09/making-overdrafts-available 4
+0814,www.monzo.com/blog/2018/05/21/monzo-2.0-launch->www.monzo.com/blog/2018/05/11/coin-jar-update 4
+0815,www.monzo.com/blog/2017/07/13/launching-monzo-university->www.monzo.com/university 1
+0816,www.monzo.com/blog/2017/09/01/open-office-august->www.monzo.com/hotchip 1
+0817,www.monzo.com/blog/2017/05/22/top-up-with-android-pay->www.monzo.com/blog/2017/04/11/search-on-android 3
+0818,www.monzo.com/blog/authors/tristan-thomas/3->www.monzo.com/blog/2017/02/22/1-9-3-update 5
+0819,www.monzo.com/blog/authors/tristan-thomas/3->www.monzo.com/blog/authors/tristan-thomas/4 2
+0820,www.monzo.com/blog/authors/tristan-thomas/3->www.monzo.com/blog/2017/03/15/1-5-3-update 3
+0821,www.monzo.com/blog/authors/tristan-thomas/3->www.monzo.com/blog/2017/03/28/i-forgot-my-pin 4
+0822,www.monzo.com/blog/authors/tristan-thomas/3->www.monzo.com/blog/2017/02/24/monzome-on-android 4
+0823,www.monzo.com/blog/2018/06/14/bill-tracker->www.monzo.com/blog/authors/tim-radvan 2
+0824,www.monzo.com/blog/2018/06/29/engineering-principles->www.monzo.com/blog/engineering-culture 5
+0825,www.monzo.com/blog/authors/peggy-mcgregor/3->www.monzo.com/blog/authors/peggy-mcgregor/4 2
+0826,www.monzo.com/blog/2018/08/17/pin-lock-update->www.monzo.com/blog/2018/07/11/working-towards-company-goals 4
+0827,www.monzo.com/blog/customer-support->www.monzo.com/blog/2018/08/03/our-internal-product-vision 2
+0828,www.monzo.com/blog/customer-support->www.monzo.com/blog/2018/07/30/scaling-our-customer-support 10
+0829,www.monzo.com/blog/customer-support->www.monzo.com/blog/2018/08/01/data-help 5
+0830,www.monzo.com/blog/customer-support->www.monzo.com/blog/2018/07/31/monzo-las-vegas 3
+0831,www.monzo.com/blog/2018/12/11/las-vegas-office->www.monzo.com/blog/authors/dillon-van-auken 3
+0832,www.monzo.com/blog/2018/10/18/work-at-monzo->www.monzo.com/blog/authors/ella-johanny 1
+0833,www.monzo.com/blog/2018/08/02/urgent-questions->www.monzo.com/blog/authors/sam-watkin 1
+0834,www.monzo.com/blog/authors/kate-hollowood/3->www.monzo.com/blog/authors/kate-hollowood/4 2
+0835,www.monzo.com/blog/authors/jami-welch/2->www.monzo.com/blog/2017/09/25/android-progress-update 1
+0836,www.monzo.com/blog/authors/jami-welch/2->www.monzo.com/blog/2017/09/27/android-help-search 2
+0837,www.monzo.com/blog/authors/jami-welch/2->www.monzo.com/blog/2017/09/29/android-engineers 4
+0838,www.monzo.com/blog/2015/11/22/mondohack->www.monzo.com/blog/2016/01/28/mondohack-III 6
+0839,www.monzo.com/blog/2015/11/05/why-api-driven-banking-matters->www.monzo.com/blog/2016/04/26/automated-testing 6
+0840,www.monzo.com/blog/2017/01/31/fincrime-and-security-week-introduction->www.monzo.com/blog/2016/10/10/android-1-1-update 7
+0841,www.monzo.com/blog/2017/01/31/fincrime-and-security-week-introduction->www.monzo.com/blog/authors/gemma-rogers 1
+0842,www.monzo.com/blog/2017/01/24/100000th-user->www.monzo.com/blog/2016/08/05/spending-on-mondo-update 2
+0843,www.monzo.com/blog/authors/leah-templeman->www.monzo.com/blog/2017/05/19/future-of-cops 3
+0844,www.monzo.com/blog/authors/leah-templeman->www.monzo.com/blog/2017/10/05/card-delays 2
+0845,www.monzo.com/blog/2018/09/06/moving-monzo->www.monzo.com/blog/authors/beth-toms 3
+0846,www.monzo.com/blog/monzo-hq/3->www.monzo.com/blog/2018/04/27/backend-engineer-bonus 2
+0847,www.monzo.com/blog/monzo-hq/3->www.monzo.com/blog/monzo-hq/4 2
+0848,www.monzo.com/blog/monzo-hq/3->www.monzo.com/blog/2018/05/22/big-news-about-small-print 2
+0849,www.monzo.com/blog/2018/11/15/card-controls->www.monzo.com/blog/authors/lew-isaacs 2
+0850,www.monzo.com/blog/authors/emma-northcott->www.monzo.com/blog/2016/07/06/how-to-travel-with-mondo 4
+0851,www.monzo.com/blog/2018/06/25/monzos-transparent-engineering-progression-framework->www.monzo.com/blog/authors/chris-bond 2
+0852,www.monzo.com/blog/2017/12/01/cardiff->www.monzo.com/blog/authors/bobbi-nicholson 1
+0853,www.monzo.com/blog/authors/stuart-mcfadden->www.monzo.com/blog/2017/02/16/the-richest-man-in-babylon 2
+0854,www.monzo.com/blog/2016/09/20/monzo-journals-philippines->www.monzo.com/blog/2016/08/16/travel-reports 3
+0855,www.monzo.com/blog/2017/01/11/customer-support-quotables->www.monzo.com/blog/2016/05/17/dog-ate-my-card 3
+0856,www.monzo.com/blog/2017/01/06/year-in-numbers->www.monzo.com/blog/2016/07/08/where-in-the-world-has-mondo-been 5
+0857,www.monzo.com/blog/2018/06/21/how-to-get-online-in-an-emergency->www.monzo.com/blog/authors/francisco-carvalho-araújo 4
+0858,www.monzo.com/blog/2016/12/06/payments-android->www.monzo.com/blog/2016/11/14/spending-android 5
+0859,www.monzo.com/blog/2016/12/06/payments-android->www.monzo.com/blog/2016/10/26/card-replacement-android 3
+0860,www.monzo.com/blog/2017/02/09/launching-settings-android->www.monzo.com/blog/2017/01/16/app-shortcuts-android 3
+0861,www.monzo.com/blog/2019/02/11/internal-product-design->www.monzo.com/blog/authors/anthea-jackson 1
+0862,www.monzo.com/blog/banking-and-regulation->www.monzo.com/blog/2016/01/08/how-does-the-wholesale-foreign-exchange-market-work 3
+0863,www.monzo.com/blog/authors/valerio-magliulo->www.monzo.com/blog/2017/05/26/to-a-billion-and-beyond 1
+0864,www.monzo.com/blog/upgrading-explained->www.monzo.com/blog/2018/02/23/upgrade-abroad 2
+0865,www.monzo.com/blog/upgrading-explained->www.monzo.com/blog/2018/02/07/upgrade-overdrafts 2
+0866,www.monzo.com/blog/2018/02/28/march-update->www.monzo.com/blog/2018/01/19/beautiful-direct-debits 6
+0867,www.monzo.com/blog/2018/02/28/march-update->www.monzo.com/blog/2018/02/14/android-pulse 3
+0868,www.monzo.com/blog/2018/02/28/march-update->www.monzo.com/blog/2018/02/15/android-crowdsourcing-merchant-data 3
+0869,www.monzo.com/blog/2018/02/28/march-update->www.monzo.com/blog/2018/02/12/monzo-me 2
+0870,www.monzo.com/blog/2018/07/03/custom-app-icons->www.monzo.com/blog/2018/06/26/monzo-time 3
+0871,www.monzo.com/blog/2018/07/03/custom-app-icons->www.monzo.com/blog/authors/dani-garcia 1
+0872,www.monzo.com/blog/2016/09/12/1-6-3->www.monzo.com/blog/2016/08/08/updated-design 3
+0873,www.monzo.com/blog/authors/bailey-kursar->www.monzo.com/blog/2016/07/22/name-change-update-snapchat 2
+0874,www.monzo.com/blog/authors/bailey-kursar->www.monzo.com/blog/2016/09/23/monzo-on-campus 2
+0875,www.monzo.com/blog/authors/bailey-kursar->www.monzo.com/blog/2016/07/01/launching-campus-insiders 3
+0876,www.monzo.com/blog/authors/tracy-abraham->www.monzo.com/blog/2015/08/27/banking-survey-results 3
+0877,www.monzo.com/blog/2019/01/14/crowdfunding-technology-backend-architecture->www.monzo.com/blog/2017/11/29/very-robust-etcd 3
+0878,www.monzo.com/blog/authors/beatrice-borbon/3->www.monzo.com/blog/authors/beatrice-borbon/4 2
+0879,www.monzo.com/blog/2018/07/18/our-company-finances->www.monzo.com/blog/authors/julie-oey 1
+0880,www.monzo.com/blog/2018/08/03/measuring-customer-happiness->www.monzo.com/blog/authors/liam-houghton 1
+0881,www.monzo.com/blog/2018/02/06/february-update->www.monzo.com/blog/2018/01/25/bank-statements 2
+0882,www.monzo.com/blog/2018/05/04/may-update->www.monzo.com/blog/2018/04/12/transaction-tags 4
+0883,www.monzo.com/blog/2018/06/28/joining-monzo-engineer-onboarding->www.monzo.com/blog/2018/06/27/engineering-management-at-monzo 3
+0884,www.monzo.com/blog/product-updates/4->www.monzo.com/blog/product-updates/5 2
+0885,www.monzo.com/blog/2017/06/23/new-beginnings-at-Monzo->www.monzo.com/blog/2017/05/18/night-cops 4
+0886,www.monzo.com/blog/2019/04/02/pyramid-schemes-fractal-mandala->www.monzo.com/blog/authors/matt-gilson 1
+0887,www.monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts->www.monzo.com/blog/authors/lizzie-morgan 1
+0888,www.monzo.com/blog/2019/02/11/building-monzo-chat-on-android->www.monzo.com/blog/authors/tas-morfopoulos 2
+0889,www.monzo.com/blog/2019/04/03/deploying-Envoy-Proxy->www.monzo.com/blog/authors/suhail-patel 1
+0890,www.monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work->www.monzo.com/blog/authors/james-routley 1
+0891,www.monzo.com/blog/technology/2->www.monzo.com/blog/technology/3 1
+0892,www.monzo.com/blog/2017/05/05/why-payments-are-declined->www.monzo.com/blog/authors/kieran-leblanc 2
+0893,www.monzo.com/blog/how-money-works/5->www.monzo.com/blog/how-money-works/6 1
+0894,www.monzo.com/blog/how-money-works/5->www.monzo.com/blog/2018/09/11/student-budgeting-tips 2
+0895,www.monzo.com/blog/community/3->www.monzo.com/blog/community/4 1
+0896,www.monzo.com/blog/2018/05/11/coin-jar-update->www.monzo.com/blog/2018/05/01/may-update 1
+0897,www.monzo.com/blog/authors/tristan-thomas/4->www.monzo.com/blog/authors/tristan-thomas/5 1
+0898,www.monzo.com/blog/authors/tristan-thomas/4->www.monzo.com/blog/2017/01/03/pin-in-app 1
+0899,www.monzo.com/blog/authors/peggy-mcgregor/4->www.monzo.com/blog/authors/peggy-mcgregor/5 1
+0900,www.monzo.com/blog/2018/08/03/our-internal-product-vision->www.monzo.com/internal-product 1
+0901,www.monzo.com/blog/2018/07/30/scaling-our-customer-support->www.monzo.com/blog/2017/08/09/complaints-at-monzo 3
+0902,www.monzo.com/blog/2018/08/01/data-help->www.monzo.com/blog/authors/neal-lathia 1
+0903,www.monzo.com/blog/authors/kate-hollowood/4->www.monzo.com/blog/authors/kate-hollowood/5 1
+0904,www.monzo.com/blog/2017/09/27/android-help-search->www.monzo.com/blog/2017/08/22/the-help-search-algorithm 2
+0905,www.monzo.com/blog/2016/04/26/automated-testing->www.monzo.com/blog/authors/josh-garnham 1
+0906,www.monzo.com/blog/authors/beth-toms->www.monzo.com/blog/2017/06/07/referral-bonus 2
+0907,www.monzo.com/blog/2018/04/27/backend-engineer-bonus->www.monzo.com/blog/authors/chris-lees 1
+0908,www.monzo.com/blog/monzo-hq/4->www.monzo.com/blog/2017/12/18/using-monzo-over-christmas 2
+0909,www.monzo.com/blog/monzo-hq/4->www.monzo.com/blog/monzo-hq/5 1
+0910,www.monzo.com/blog/monzo-hq/4->www.monzo.com/blog/2017/12/08/monzo-mixtape-two 1
+0911,www.monzo.com/blog/authors/lew-isaacs->www.monzo.com/blog/2019/04/01/big-issue-monzo-pay-it-forward 1
+0912,www.monzo.com/blog/2016/08/16/travel-reports->www.monzo.com/blog/2016/07/18/touchid-profile-update 2
+0913,www.monzo.com/blog/2016/08/16/travel-reports->www.monzo.com/blog/2016/06/13/1-5 2
+0914,www.monzo.com/blog/2018/02/23/upgrade-abroad->www.monzo.com/blog/2018/01/04/atm-fees-january 2
+0915,www.monzo.com/blog/2018/02/14/android-pulse->www.monzo.com/blog/2017/12/07/pots-android 2
+0916,www.monzo.com/blog/2018/06/26/monzo-time->www.monzo.com/blog/authors/emma-guy 1
+0917,www.monzo.com/blog/2016/09/23/monzo-on-campus->www.monzo.com/uni 1
+0918,www.monzo.com/blog/2016/07/01/launching-campus-insiders->www.monzo.com/campus-insiders 1
+0919,www.monzo.com/blog/2017/11/29/very-robust-etcd->www.monzo.com/blog/authors/filipe-varela 1
+0920,www.monzo.com/blog/authors/beatrice-borbon/4->www.monzo.com/blog/authors/beatrice-borbon/5 1
+0921,www.monzo.com/blog/2018/01/25/bank-statements->www.monzo.com/blog/authors/james-allison 1
+0922,www.monzo.com/blog/product-updates/5->www.monzo.com/blog/product-updates/6 1
+0923,www.monzo.com/blog/authors/kieran-leblanc->www.monzo.com/blog/2017/06/09/journey-of-a-card 1
+0924,www.monzo.com/blog/how-money-works/6->www.monzo.com/blog/2018/06/14/what-is-open-banking 2
+0925,www.monzo.com/blog/authors/tristan-thomas/5->www.monzo.com/blog/authors/tristan-thomas/6 1
+0926,www.monzo.com/blog/2017/08/09/complaints-at-monzo->www.monzo.com/blog/authors/yehudi-asamoah 1
+0927,www.monzo.com/blog/authors/kate-hollowood/5->www.monzo.com/blog/authors/kate-hollowood/6 1
+0928,www.monzo.com/blog/2017/08/22/the-help-search-algorithm->www.monzo.com/blog/authors/nigel- 1
+0929,www.monzo.com/blog/monzo-hq/5->www.monzo.com/blog/2017/08/01/bottom-nav-bar 2
+0930,www.monzo.com/blog/monzo-hq/5->www.monzo.com/blog/monzo-hq/6 1
+0931,www.monzo.com/blog/2017/12/08/monzo-mixtape-two->www.monzo.com/blog/2017/07/03/monzo-mixtape 1
+0932,www.monzo.com/blog/2017/12/08/monzo-mixtape-two->www.monzo.com/blog/authors/simon-balmain 1
+0933,www.monzo.com/blog/2019/04/01/big-issue-monzo-pay-it-forward->www.monzo.com/campaign/banking-for-all 1
+0934,www.monzo.com/blog/2019/04/01/big-issue-monzo-pay-it-forward->www.monzo.com/blog/no-barriers-to-banking 1
+0935,www.monzo.com/blog/authors/beatrice-borbon/5->www.monzo.com/blog/2017/12/15/atm-fees-january 1
+0936,www.monzo.com/blog/authors/beatrice-borbon/5->www.monzo.com/blog/2017/09/08/monzo-x-deliveroo-split-the-bill 1
+0937,www.monzo.com/blog/product-updates/6->www.monzo.com/blog/product-updates/7 1
+2019/04/24 16:02:16 https://www.monzo.com Crawler:  28.066232535s
